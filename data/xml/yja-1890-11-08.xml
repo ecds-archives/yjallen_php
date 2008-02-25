@@ -1,0 +1,123 @@
+<TEI xml:id="yja-1890-11-08.1201">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter to Young John Allen, <date value="1892-02-06">February 6, 1892</date>, an electronic edition</title>
+            <author><name type="person" reg="">Warren Akin Candler</name></author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2007</date>
+            <availability>
+                <p>&#x00A9; 2007, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Oxford Experience Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Youn John Allen Letters</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Warren Akin Candler to Young John Allen, February 6, 1892; Young John Allen Papers, Manuscript, Archive, and Rare Book Library, Emory University.</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Letters</rs>
+            <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Edited</rs>
+            <rs type="genre"></rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-02-21">2007-07-05</date>
+            <respStmt>
+                <name>Alice Hickcox, </name>
+                <resp>Electronic Text Specialist, Beck Center, Emory University.</resp>
+            </respStmt>
+            <item>XML tags inserted in compliance with TEI guidelines.</item>
+        </change>
+    </revisionDesc>
+</teiHeader>
+<text>
+    <body>
+        <pb facs="4245.jpg"/>
+<div type="letter" xml:id="yja-1890-11-08.001">
+<opener>
+<dateline><name type="place">Vanderbilt</name>: <date when="1890-11-08">Nov. 8th: 90</date>.</dateline>
+</opener>
+<salute>Rev. Dr Allen<lb/>
+My Dear Sir;</salute>
+<p>I have the pleasure of acknowledging the receipt of your welcome letter of the 23d Sept. a few days ago.
+</p>
+<p>Many thanks for the interest you take in my education. As to the choice of the school I shall leave it altogether to your judgment. Any of the Colleges you named will, I presume, suit my purpose. In your own time, please let me know where and how I may proceed for the accomplishment of my object. Having said this much I may only add that were I to consult my own inclinations I would prefer Emory &#x0026; Henry, Va. or Emory, Ga. to others.
+</p>
+<pb facs="4246.jpg"/>
+<p>When I was in <name type="place" reg="Shanghai, China">Shanghai</name>, my chief care was to be out of debt. Once in, since I came here, my fear is that I may have to stop before getting an education. The moment I leave America I shall bid farewell to all facilities and opportunities for a college training. This makes me anxious for taking up some academic studies in a smaller school.
+</p>
+<salute>Whether my wishes can be realized or not in this respect, I shall always, for the kindesses I owe you, remain
+</salute>
+<closer>
+<salute>Yours gratefully</salute>
+<signed><name type="person" xml:id="thyun">T. H. Yun</name>.</signed>
+</closer>
+</div>
+    </body>
+</text>
+</TEI>
