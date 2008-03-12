@@ -1,0 +1,187 @@
+<TEI xml:id="yja-1854-09-07.001">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from Young John Allen to Miss Mary Houston, <date when="1854-09-07">September 7, 1854</date>, an electronic edition</title>
+            <author>
+                <name type="person">
+                    <choice>
+                   <sic>A. Y. J. W. Allen</sic>
+                   <reg>Allen, Young John, 1836-1907</reg>
+                    </choice>
+                </name>
+            </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Young John Allen to Miss Mary Houston, <date when="1834-09-07">September 7, 1834</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-05-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1864">
+                        <placeName>
+                            <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+                <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+            
+            <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change><date when="2008-03-12">March 12, 2008</date>
+            <name xml:id="AH">Alice Hickcox</name> corrected and validated the text.
+        </change>
+        <change>
+            <date when="2008-03-03">March 3, 2008</date>
+                <name xml:id="LC">Lauren Corbett </name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="letter" xml:id="yja-1854-09-07.002">
+    <pb facs="4280.jpg"/>
+    <head>[Letter from Young John Allen, September 7, 1854]</head>
+<opener><dateline><name type="place">Grantville Coweta County Georgia</name>, <date when="1834-09-07">Sept 7th 1854</date>,</dateline><lb/>
+<salute>Miss Mary Houston:	Dearest Mary:</salute></opener>
+<p>Not unlike thee, too, can I gladly say, that since I know, believe, I feel thee true, I blush not, fear not ot own that I <hi rend="underline">do love</hi> thee, Yes, Dearest, by those fond glances so often meeting into mine have I oftimes read that in thy heart was a something set that contained and proved the verity of those fond smiles and purity &#x0026; sincerity of those eye<del>s</del><add>-</add>glances of blue, I can now declare that I do verily realize the <del>th</del> truth that my affections growing, like the <hi rend="underline">Ivy</hi> to the <hi rend="underline">Quercus</hi> (oak) are ever twining with their tendril's Soft embrace deeper and closer the fibres of thy thrilling responsive heart. Yet unlike the Oak, cold and unaffectionate to the Ivy, and which leaves it to the Ivy to weave its own affectionate embrace, methinks thee, Yes meknows thee to be unlike to the <hi rend="underline">Quercus</hi> for I feel that thy affections reciprocally are twining, too, around my heart while <del>I</del>mine may be linking  themselves to thine.  'Twas not My Love, till since I have been acquaint with  &#x0026; so deeply, truly love<del>r</del> d thee that I knew the poverty of Language, and inadequacy of words to express the Love-responding Soul-sincere emotions of a "stricken" heart, ah! Vainly may we seek and turn the compiled pages of Webster's Vocabulary to find a word expressive of the heart's inward commotion at a time such as this, And as vainly toil from Some Poet to borrow sentiments to speak out ours in. Yea all is vain at such a time, nothing save the gushing's forth of the heart's own deep feeling can satiate a Lover's impatient breast.</p>
+<p>Mollie, oft have I told thee I loved thee, nor need I again Speak it but to ease and calm the wild pulse of a heart that beats ever true for thee &#x0026; <hi rend="underline">thee alone</hi>.
+<pb facs="4281.jpg"/>
+I would not flatter thee, My Dear, but I wish to be true and plain, and so indeed I wish you to be with me, Ma<add place="supralinear">n</add>y hearts as you know Mollie are fascinated, and allured by flattery, fiction, and "flimsy romance" that are left to pine away in grief, and to fade, faint and die, therefore I would be plain &#x0026; true and tell thee that my heart is thine and my lifetime plighted love.</p>
+<p>Yes, My dear, I can susceptibly feel that the bond that binds our united, pledged hearts, coaxes them inseparably in Union, stronger, when I know that thou didst feel and keep those sacred pledges, Yes indeed Mollie a change has been brought, and not an invisible one, but one that has been perceived by many, who have made frequent remarks concer<add>ni</add>ng it and wondered at they why; You will have  to Dear Mollie, suffer many persecutions, and probably some may attempt to <unclear>deride</unclear> you out, and make you abandon the cross of Christ and the pleasure and privilege of being assignated a follower of the meek &#x0026; Lowly Jesus who died the inhuman &#x0026; ignominious death of the Cross that we might live, Yes My dear, many trials and temptations are spread and contrived by Satan and his advocates to allure from the faith of virtue &#x0026; Righteousness those who would Lay up their treasures in Heaven,</p>
+<p>But listen not to them, for remember that they too are accountable mortals, and would barter away thine immortal Soul too like they had their own and when at last they came to see their awful, fearful doom, would cry out for help when none would come to their rescue;  oh! Yes, dear, Remember that they can cause thee to slight God and barter away thy soul, but they can never restore it back to thee, Yes think Beloved of thy Soul's precious immortal worth.</p>
+<pb facs="4282.jpg"/>
+<p>Yes, Mary Continue as then hast now begun, and true happiness shall be thine; It is with me, too, Mollie as thou hast said, I love at the evening's twilight hour when all nature is calming into silent, deep repose, Yes I love like the evening songster to pour forth my heart's sincere gratitude &#x0026; prayer to God, before retiring, Mollie, this verse from, a hymn suited to closet worship, ever since I chance to find it has ever expressed the feelings of my heart, and which while at College and since at home I have ever faithfully  tried to live out, and I here subjoin it that my heart too mayst recognize it, 
+<quote>
+    <lg type="stanza">
+        <l>I love to steal awhile away,</l>
+        <l>From every cum'bring care,</l>
+        <l>And spend the hours of setting day,</l>
+        <l>For humble, grateful prayer."</l>
+    </lg>
+</quote></p>
+<p>Yes, My Dear, those lines I've often repeated when retiring to the forest, there to pour out my heart before God in humble devotion, and oft Dear Mollie have I tried to pray for thee, in sincerity and feel that to some degree my poor feeble petition has been heard, My Dear remember me when ascending thy petitions at a rich throne of grace, and may the Love of God grow <del>and</del> in our hearts and strengthen them in belief &#x0026; faith in Christ.</p>
+<p>Oh! I rejoice that thou can'st say there's a reality in the Religion of Christ, and I feel a deeper spirit of devotion to God than I ever felt before, to know that my Congenial spirit, my true &#x0026; only love is devoted to God &#x0026; his service, Yes, My Love, thou must know that I do love thee more &#x0026; most, when I know that Religion is thy wise choice, Dear, I have chosen to devote my life, time, &#x0026; talents to God &#x0026; his service. And Oh! How strengthened &#x0026; encouraged I feel, that thou wilt pledge thy heart with me to break down &#x0026; tear asunder
+<pb facs="4283.jpg"/>
+The wilds and fortifications of the Wicked one;</p> 
+<p>I, too, dear Mary was left an Orphan, my Father having died before I was born and my Mother in about 2 weeks after, So you see, Love that an orphan indeed have I been, But Oh! when deprived as we have been though many troubles and sorrows may lower and cloud the horizon of our Youth. Yet there is a Just Father in Heaven who cares for his mortals here and it is my dear through his kind providence that we have been enabled to behold this day's propects and to look away through the storm could of our past life and behold the bow of his omnipotence that bids us cheer up and climb by faith Jacob's ladder till we reach his sacred preserved promises kept in reserve for us. Oh! may the Love of God &#x0026; the Cross of Christ ever inspire us to press forward to win the prize in Christ.</p>
+<p>Dear Mollie I will call tomorrow evening and what we cannot here write we may perchance get an opportunity to talk,  I'll give you my '<unclear>Type</unclear>' tomorrow &#x0026; you must be sure &#x0026; give me yours. </p><closer><salute>Pardon brevity and all blunders occurring in this, and believe me sincerely your true and devoted <hi rend="underline">Friend</hi> &#x0026; Lover </salute><lb/>
+<signed><name type="person">A. Y. J. W. Allen</name></signed></closer>
+            <postscript><p>I could write much more but it is growing late now and I hope tomorrow to read those tender looks &#x0026; fond glances personally present and not by imagination.</p></postscript>
+<closer><salute>Unchanged Ad eternum,</salute><lb/>
+<signed><name type="person">Allen</name></signed></closer>
+        </div>
+    </body>
+</text>
+</TEI>
