@@ -1,0 +1,179 @@
+<TEI xml:id="yja-1889-12-28.001">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter to Young John Allen, <date when="1889-12-28">December 28, 1889</date>, an electronic edition</title>
+            <author>
+                <name type="person">
+                    <choice>
+                        <sic>T. H. Yun </sic>
+                        <reg>Yun, Ch'i-ho, 1865-1945</reg>
+                      </choice>
+                </name>
+            </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from T. H. Yun to Young John Allen, <date when="1889-12-28"></date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-05-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                            <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+                <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+            
+            <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change><date when="2008-03-12">March 12, 2008</date>
+        <name xml:id="AH">Alice Hickcox</name> corrected and validated the text.
+        </change>
+        <change>
+            <date when="2008-03-03">March 3, 2008</date>
+                 <name xml:id="FCT">Francine Thurston, </name>
+             transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+<text><body><div type="letter" xml:id="yja-1889-12-28.002">
+    <pb facs="4238.jpg"/>
+    <head>[Letter from T. H. Yun to Young John Allen, December 28, 1889]</head>
+    <opener><dateline><name type="place">Vanderbilt</name> <date when="1889-12-28">Dec 28 / 89</date></dateline>
+
+<salute>Rev. Dr Allen.<lb/>
+
+My dear Sir;</salute> </opener>
+
+<p>Did you ever see a winter within this latitude, as mild as this?  The thermometer stands 70 degrees high F. and this at the north side of the Hall.  Trees, flowers, grass show every sign of a spring.  To us at least, such a winter is very remarkable.
+</p>
+<p>We have had a week of Christmas recess.</p>
+
+<p>During the week I have visited a Catholic Church and a Jewish Temple. The former looked more like a Buddist temple than a Christian Church.  On the other hand, the synagogue with its Rabbi in common<pb facs="4239.jpg"/> dress, its quire its prayer and instruction in popular language all this simplicity and common sense displayed in the synagogue made me doubt at first sight, if I were not worshiping in a Protestan Sanctuary.</p>
+
+<p>Among some details in the Jewish service that attracted my attention was the allusions to some of the  N. T. expressions. The Rabbi, in prayer, said, "In Him we live and move and have our being."  He also exhorted the people "to do good not hoping to receive again" as "it is more blessed to give than to receive".  We must improve,<pb facs="4240.jpg"/> the Rabbi said, our talents for "God has given to some 5 talents, to others 2, and to others, one."  Maybe what I think to be the N. T. expressions might have been derived from Jewish writers older that the N. T. itself.</p>
+
+<p>At any rate, the modes of worship in the Synagogue presented a favorable contrast to the heathen rites baptized in a Catholic Church.  The candles, pictures, images, rosary, holdy water, ringing of bells, chanting in an unknown tongue?all these mummeries which are so sonspicuous in a Catholic service interest me chiefly from the fact <pb facs="4241.jpg"/> that they give me some idea of the way in which the Greeks and Romans worshiped their gods.</p>
+
+<p>This afternoon, I am going to take a walk with Jacob, an Armenian.  He is poor in purse, but rich in zeal.  Men laugh at him as a crank, but his honesty and moral strength make him as good a companion as many who are not cranks.
+</p>
+<closer><salute>My best wishes to Mrs. Allen.<lb/>
+
+Believe me <lb/>
+
+Yours Sincerely,</salute><lb/>
+<signed><name type="person" ref="#thyun">T. H. Yun</name></signed></closer>
+</div></body></text>
+</TEI>
