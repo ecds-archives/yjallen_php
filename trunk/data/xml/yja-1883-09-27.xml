@@ -1,0 +1,217 @@
+<TEI xml:id="yja27-1883-09-27.001">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from John Watson to Young John Allen <date when="1883-09-27"><!-- September 27, 1883 --></date>, an electronic edition</title>
+            <author>
+            <name type="person">
+<choice>
+            <sic>John Watson</sic>
+            <reg><!-- regularized form, if available, or Lastname, firstname -->"></reg>
+                </choice>
+            </name>
+            </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x0026;#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from John Watson to Young John Allen <date when="1890-11-08">November 8, 1890</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-03-18">March, 18,2008</date>
+                <name xml:id="LH">Lola Halpin </name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+
+<text><body><div type="letter"><pb facs="4444.jpg"/>**Watson  in pencil on lttr
+
+<opener><dateline><placename>** Amoy</placename><lb/>
+<date when="1883-09-27">27th Sept 1883</date></dateline><lb/>
+
+Dear Sir,</opener><lb/>
+
+In answer to your letter to Mr Thompson enquiring about the Kong 
+<unclear reason="illegible">Pau</unclear>
+I have to say that of the 54 <del rend="strikethrough">vol</del>
+copies <unclear reason="something above the line then XV"> </unclear>received<lb/>
+30 were distributed (gratis) to Mandarins in &#x0026; around Arnoy<lb/>
+6 <unclear reason="are crossed thru"></unclear>
+remain neither sold nor given away &#x0026; <lb/>
+18 were sold.  A Chinese book-seller got 20 cents com-
+mission on each copy.<lb/>
+I enclose a cheque for $14.40 the balance of $18 after
+
+<pb facs="4445.jpg"/>"
+deducting $3.60 commission
+
+I am sorry that we did not manage to sell more.
+
+<closer><salute>I am<lb/>
+
+Yours truly</salute><lb/>
+
+<signed>John Watson<lb/>
+
+Sec. of Tract Society</signed><lb/></closer>
+
+To
+
+Rev Young J. Allen DD.
+
+Shang-hai </div></body></text>
+</TEI>

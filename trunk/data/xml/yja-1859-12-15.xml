@@ -1,0 +1,221 @@
+<TEI xml:id="yja-1859-12-15.001">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from M.H. Allen to Unknown, <date when="1859-12-15">December 15, 1859</date>, an electronic edition</title>
+            <author>
+            <name type="person">
+            <choice>
+            <sic>M. H. Allen</sic>
+            <reg>Allen, Mary Houston</reg>
+            </choice>
+            </name>
+            </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from M.H. Allen to Unknown, <date when="1859-12-15">December 15, 1859</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-03-21">March 21, 2008</date>
+                <name xml:id="RAB">Rachel Borchardt </name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+
+<text><body>
+<div xml:id="yja-1859-12-15.002" type="letter">
+    <pb facs="4302.jpg"/>
+    <head>[Letter from M.H. Allen to Unknown]</head>
+<opener><dateline><placeName>200 Mulberry St N.Y.</placeName> <date when="1859-12-15">December 15th 1859</date></dateline>
+
+<salute>My Dear Friend.</salute></opener>
+<p>For sometime I have been thinking of writing you, but it is hard to say farewell; I have put it off therefore, till the last.  I am sorry now however, that I did not write in time to receive an answer.</p>
+
+<p>We arrived in N.Y. the last week in November, expecting to sail the 1<hi rend="superscript">st</hi> of this month; but we have been waiting all this time, and are waiting still for the vessel to get <del rend="strikethrough">sail</del> <add place="supralinear">ready</add>.  We have had to much stormy weather as to interrupt the lading of the vessel.  This morning it is stormy again, so we may be detained in this place several days longer.  But I have been pleasantly situated and patient.  Our stay here has indeed been exceedingly pleasant.  We have met with warm receptions.  We could not have been more hospitably treated in one of our own Cities.  I have met with and formed the acquaintance of most of the eminent members of the Northern Methodist 
+    
+ <pb facs="4303.jpg" />   
+Church, men and women; and have been greatly benefited by their society.  I will give you the names of some -- Bishop James, Drs. Durbin, McClintock, <unclear>Bangs</unclear>, <del rend="strikethrough">with</del> and their wives; also Mrs <unclear>Olin</unclear> The widow of Dr. <unclear>Olin</unclear>, Mrs <unclear>Dench</unclear>; besides a number of others.</p>
+
+<p>I have found the state of feeling between the North &#x0026; South quite different from what I expected.  These people are all warm hearted Christians -- faithful followers of <del rend="strikethrough">the </del>Jesus <del rend="strikethrough">of</del> Christ; and I love them for I love God's people where ever I meet them.  We held a very interesting Missionary meeting in St Paul's Church Monday night a week ago, at which time I had my little Mellie Christened.  I presume you will see an account of it in the advocate, much better than I could give you.</p>
+
+<p>God has given me wonderful courage in these my great trials, for I pass account for my cheerfulness in no other way. He alone knows how much I love my friends, and how badly I hate to leave them; but I go in His name, to do His work.  May He give me peace and strength to perform it faithfully.</p>
+
+
+<pb face="4304.jpg" />
+<p>I think I shall be happy in China because I believe it to be my duty to go there: I know I shall if I can have the privilege of hearing from my friends now and then.  You &#x0026; Mrs. Smith will grant me this privilege I hope.  Had I remained at home I should have visited you annually, as it is I may never see you again.  But be this as it may, we may meet, and I confidently believe will meet in Heaven.  What a happy meeting of friends that will be.
+</p>
+<p>You know I used to talk to you sometimes about enjoying the blessing we call sanctification.  But it matter not by what name we called it. I believe you have enjoyed the blessing, and therefore know what it is.  I do not enjoy this blessing so much now as then; but I long to enjoy it again in all its fullness.  I think and feel if this were the case I would be better prepared for usefulness.  I want you therefore, to remember me especially in your prayers, and Mrs. Smith to do the same.  I used to talk to you about any religious condition with more freedom than with any one else, for  I knew your 
+    
+ <pb face="4305.jpg" />   
+Christian heart, and knew that you would sympathise with me.  If I could see you now it would be such a relief to me to tell you all my feelings.
+I have lost not a particle of my admiration for Mrs. Smith.  You may say to her that the attachment I formed for her while in College is lasting, and that I will be most happy to hear from her at any time.  <unclear>Elvie</unclear> is in the City. She looks better than I ever saw her; she will return home Monday next.</p>
+
+<p>Please write me immediately; I may possibly receive the letter before we leave.  You will please direct your letters to this City in the care of D. Jerry -- He will forward them with our papers.  Vessels will be leaving this port for China every month.
+</p>
+<closer><salute>Farewell my Dear Friends -- May God bless you, and prosper you.
+
+Yours ever faithful</salute>
+<signed><persName>M. H. Allen.</persName></signed></closer>
+
+Address
+Mrs J.L. Allen
+Care of D. Jerry-
+200 Mulberry St.
+New. York.</div></body></text>
+</TEI>
