@@ -1,0 +1,208 @@
+<TEI xml:id="yja1856-10-23.003">
+ <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from Mary Houston to Young John Allen, <date when="1856-10-23">October 13, 1856</date>, an electronic edition</title>
+            <author>
+            <name type="person">
+            <choice>
+            <sic>Mary Houston</sic>
+            <reg>Allen, Mary Houston</reg>
+            </choice>   
+            </name>
+             </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Mary Houston to Young John Allen, <date when="1856-10-23">October 23, 1856</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="#lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-03-14">March 14, 2008</date>
+                <name xml:id="MHK">Marian Kelley</name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="letter" xml:id="yja1856-10-23.003">
+<pb facs="4217.jpg"/>
+            <head>[Letter from Mary Houston to Young John Allen]</head>
+<opener><dateline><placeName>Grantville, Georgia </placeName>, <date when="1856-10-23">Oct. 23rd 1856.</date>
+</dateline><lb/>
+    <salute>My Dear Young</salute></opener><lb/>
+
+            <p>Your letter was, if possible, received with more than usual warmth for I was not a <hi rend="underline">little</hi> anxious to hear from you notwithstanding I of course knew the cause of your delay-- And you were right in presuming I would pardon you, for how could I ever do otherwise when you always have a very good excuse and are ever generous to pardon me.</p>
+            <p>I am not going to write you but a very few lines this time, for I am a little indisposed <choice><orig>to night</orig><reg>tonight</reg></choice>--, for a rare thing, and I have been cautioned several times already by <unclear reason="illegible">Miss</unclear> Nellie against exposing myself. I am happy, very happy to know that you will cooperate with me to secure that holy <choice><orig>prise</orig><reg>prize</reg></choice> which can but make us truly
+<pb facs="4218.jpg"/>
+
+blest, and ever happy even in this world amidst the severest afflictions. But this I know you would do, because such a blessing I knew you wished to obtain, besides I knew from what I've often heard you say that you wished to be entirely resigned to the will of our Father, completely given up into his control-- but I'll not dwell upon this now since I must write so concisely. Young you cannot be more happy in me than I in you, you cannot <choice><orig>prise</orig><reg>prize</reg></choice> me more. I can but rejoice when I know that your perfect walk will constrain me to follow your footsteps, and that by your example, I will oftentimes be enabled to flee temptations when I might otherwise be too weak to escape the tempter. And then I expect so much from your counsel.</p>
+<pb facs="4219.jpg"/>
+
+            <p>I was very happy to hear that your meeting was progressing finely for if there is aught I wish to prosper 'tis the cause of our Saviour, and if there is any intelligence, gives me pleasure ''tis this. I do not doubt Young that God did reward your labours in the conversion of souls, and oh 'tis my prayer that you may ever be enabled thus to take up <del>the</del> your cross and work for the one to whom we owe so much but whom we can never pay. My Dear Young I would never be aught but an humble follower of Christ-- for truly there is no station so exalted as this but neither must I dwell upon this as I will stop ere I have commenced.</p>
+
+            <p>I think you acted quite properly in confering with Professor <unclear reason="illegible" cert="medium" resp="#MHK">S</unclear>upon that subject you have so long guarded within your own breast-- save expressing yourself to me. I have not
+<pb facs="4220.jpg"/>
+<add>Oct '56</add><lb/>
+thought a great deal upon that subject lately save I still entertain a lively hope of one day becoming a <unclear reason="illegible" cert="medium" resp="#MHK">Me</unclear>-- for I desire to be this above everything else if 'tis the will of my Father that one so unworthy should occupy so distinguished a post. Mr. Smith has bought a lot <add place="supralinear">in Grantville</add> and is now improving it for my sisters and I have decided to live with them next year as much <del>as much</del> as I dislike the place. I thought I had told you before but I presumed I forgot to do so. So Young you may change my Advocate, if you will, as soon as you please. You will please pardon any delay-- I've no apology to offer save that I've been very busily at <del>w</del> work, and when I would have written you several times I was interrupted and could not do so. Write me very early please for I am anxious to hear from you now.</p>
+ <closer><salute>Yours ever faithful,</salute><lb/> 
+    <persName>Mary Houston</persName></closer>
+</div>
+</body>
+</text>
+
+</TEI>
