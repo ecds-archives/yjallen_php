@@ -161,9 +161,9 @@
         <textClass>
             <keywords scheme="#lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>China--History--20th century.</item>
+                    <item>China--Education--History.</item>
                     <item></item>
                     <item></item>
                 </list>
@@ -176,6 +176,10 @@
                 <name xml:id="LC">Liz Cooper </name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-08" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
     <text>
@@ -244,7 +248,7 @@ The point then to which our desire <add rend="supralinear">particularly</add> to
 your attention resolves itself into this.
 to <del rend="strikethrough">illegible word</del>
 
-<pb facs="pb4407.jpg"/>
+<pb facs="4407.jpg"/>
 
 <hi rend="underline">2nd sheet</hi>
 that the measure of <hi rend="underline">toleration</hi> granted
@@ -258,7 +262,7 @@ and lost -- We therefore would urge that
 while China is projecting and adopting
 reforms , that no reform is more urgent or
 <add place="supralinear">would be more appropriate and</add> <del rend="strikethough">and</del> timely than <del rend="underline">one</del> to grant at once
-and for all, entire Religious library ? It
+and for all, entire Religious liberty? It
 would be in harmony with the present as-
 pirations of the Chinese for a Constitutional 
 Govt, and nothing could <del rend="strikethrough">illegible word</del> commend it 
