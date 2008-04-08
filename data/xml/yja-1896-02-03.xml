@@ -1,0 +1,217 @@
+<TEI xml:id="YJA-3-Feb-1896.001">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from Geo Bell to Doctor, <date when="1896-02-03">February 3, 1896</date>, an electronic edition</title>
+            <author>
+                <name type="person">
+                    <choice>
+                    <sic>Geo H. Bell</sic>
+                    <reg>Bell, Geo H.</reg>
+                        </choice>
+                    </name>
+                </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl><!-- replace this with your letter information -->Letter from Geo H. Bell to Young John Allen, <date when="1896-02-03">February 3, 1896</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="#lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-03-28">March 28, 2008</date>
+                <name xml:id="EAM">Erin Mooney</name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+    <body>
+        <div type="letter">
+            <pb facs="4434.jpg"/>
+      <head>[Letter from Geo H. Bell to Young John Allen]</head>
+<opener>
+    <dateline><placeName> Oxford Ga</placeName><lb/>
+        <date when="1896-02-03">Feb 3rd 96</date></dateline><lb/>
+
+    <salute><persName ref="#yja">My dear Doctor,</persName></salute></opener>
+
+<p>As Miss Haygood leaves Atlanta next Saturday for China, I will write you a line and send it by her. We are sorry that she has to leave us, for she had been a wonderful instrument wherever she went in the awakening of the great missionary movement in China. Surely she had made good use of her time during her short stay in the
+
+    <pb facs="4435.jpg"/>
+United States. The churches where she spoke were not only instructed as well as benefited, but are brought to see the naked facts, until they have to respond  "we will either go or send." Her stay was a blessing to women, to our church, and to the great interest to which we all have a part. May God bless her future work!</p>
+<p>Bishop Haygood's funeral was a happy one. I don't think I have ever attended one like that before. Instead of desperate mourning, there were tears of joy. Instead of gloomy, there were brightness of sunshine. Beautiful flowers of 
+    <pb facs="4436.jpg"/>
+all designs -- given by different parties from Rome, Atlanta and Augusta -- were another attractions which make the occasion most impressive. Bishop Duncan preached a common sense and practical sermon on that occasion. He did not begin with any text but concluded by saying that 'my text is "Well done, thou good and faithful servant".' The procession was a very long one. The students, faculties, citizens, Covington folks, preachers from Atlanta, Augusta and other parts of Ga and a large crowd of colored people were in the procession. I don't think the Bishop's 
+    <pb facs="4437.jpg"/>
+death has caused more loss anywhere than our little village. We missed him. But our loss is his gain. So God moves in a mysterious way.</p>
+
+<p>I am doing splendidly at college. As you know this is my Junior year, it will not be long before I get through. I am not anxious to get through rather than to get in my regular work. I am even getting along in mathematics better than I have been doing. Last time I made 9 in Surveying and Mechanics. I am very well satisfied
+    <pb facs="4438.jpg"/>
+5. <lb/>
+with them. I have been thinking of joining the N. Ga. Conf. and take a year conf. course with my Senior course. What do you think of that? Dr. Candler advised me to do that. I don't suppose it will be too much work for me. There are about four or five classmates of mine that are going to join our Conference this year.</p>
+
+
+<p>Col. Bob <unclear reason="illegible">Hardiman</unclear> has resigned his office as State treasurer and very likely will run for Governor's office at the next election. I am afraid he is too old for that office.</p>
+  
+<pb facs="4439.jpg"/>
+<p>It is rather late tonight and I will get up one more lesson before going to bed, so will conclude. Good night. Give my love to your family and yourself. Hoping to hear from you soon.</p>
+ <closer>           
+<salute>I remain<lb/>
+Yours <unclear reason="illegible">affbly,</unclear></salute><lb/>
+<signed><persName ref="#tsoong">Geo H. Bell</persName></signed></closer>
+</div></body></text>
+</TEI>

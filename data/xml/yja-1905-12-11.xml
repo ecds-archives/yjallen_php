@@ -1,0 +1,298 @@
+<TEI xml:id="YJA-11Dec1905transcription2">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from Young John Allen to Hon. W.W. Rockhill, <date when="1905-12-11">December 11, 1905</date>, an electronic edition</title>
+            <author>
+            <name type="person">
+            <choice>
+            <sic>Young J. Allen</sic>
+            <reg>Allen, Young John, 1836-1907"></reg>
+            </choice>
+            </name>
+  
+            </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Young John Allen to Hon. W.W. Rockhill, <date when="1905-12-11">December 11, 1905</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="#lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-03-28">March 28, 2008</date>
+                <name xml:id="LC">Liz Cooper </name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+    <text>
+        <body>
+            <opener>
+                <pb facs="4405.jpg"/>
+                <head>[Letter from Young John Allen to Hon. W.W. Rockhill]</head>
+             <div type="letterhead"><address><addrLine>TELEGRAPHIC ADDRESS:  "DIFFUSION SHANGHAI."</addrLine>
+<addrLine>Code :  Ager's General and Social. </addrLine></address>
+<list><head>EDITORIAL STAFF:</head>  
+<item>Rev. YOUNG J. ALLEN, D.D., LL.D. 
+Editor Review of the Times.</item>
+<item>Rev. W. A. CORNABY, 
+Editor Chinese Weekly and Christian Review. </item>
+<item>Rev. DONALD MACGILLIVRAY, M.A., B.D.</item>
+<item>Rev. W. GILBERT WALSHE, B.A., Recording Secretary.</item>
+<item>Rev. TIMOTHY RICHARD, D.D., LITT.D., General Secretary.</item>
+</list>
+
+<dateline><orgName>Society for the Diffusion of Christian and General Knowledge
+among the Chinese.  (S. D. C. K.)  </orgName><lb/>
+<address>90 CHAPOO ROAD</address><lb/>
+    <placeName>Shanghai</placeName>,<date when="1905-12-11"> Dec. 11<unclear>th</unclear>, 1905</date> </dateline><lb/></div>
+        <div type="letter">
+
+<salute><persName>Hon.  W.W. Rockhill</persName><lb/>
+U.S. Minister Plenipotentiary, &#x0026;c&#x0026;c<lb/>
+to China --<lb/>
+Dear Sir --</salute> </opener><lb/>
+<p>At a recent meeting of 
+the Board of Trustees of our Soochow University,
+I was requested as their Chairman to call your
+Excellency's attention to the attitude of the 
+Chinese Government toward our Educational In-
+stitutions -- In  general the Govt  recognizes
+the treaty right of <hi rend="underline">Toleration</hi>, and Chinese are
+not debarred from membership in the Christian
+Church, but as Christians, Educated in our 
+institutions, irrespective of their quali-
+fications, they are counted and treated 
+as ineligible to any, even the most in-
+ferior offices.  Thus showing that the
+limited toleration they enjoy has reference
+only to their relation to Foreigners, and
+by no means implies that this Government
+
+<pb facs="4406.jpg"/>
+is disposed to recognize what it is
+supposed to grant -- Now  <add place="supralinear">while</add>  <del rend="strikethrough">an</del> we are <add place="supralinear">(averse)</add> <unclear>averse</unclear>
+<del rend="strikethrough">not disposed <add place="supralinear">averse</add></del> to recognizing the right 
+claimed by the Chinese to inspect our
+higher institutions and dictate what their 
+curricula shall be, thus attempting to 
+substitute a Confucian for a Christian
+Curriculum, we would by no means ob-
+ject to recognizing any Curriculum the 
+Government Schools may adopt, and under-
+take in connection with our system 
+and Courses of study to prepare men
+to stand the requisite examinations for
+the respective degrees, if by so doing our
+graduates are made equally eligible, ac-
+cording to qualification and merit. for 
+appointment to office in the Govt. Services.
+The point then to which our desire <add rend="supralinear">particularly</add> to call
+your attention resolves itself into this.
+to <del rend="strikethrough">illegible word</del>
+
+<pb facs="pb4407.jpg"/>
+
+<hi rend="underline">2nd sheet</hi>
+that the measure of <hi rend="underline">toleration</hi> granted
+in the treaties is not sufficient to cover
+existing conditions, and that unless we 
+insist <add place="supralinear">on</add> a wider recognition on the
+part of the Govt, we may expect to 
+find our schools ignored and their
+great value to China depreciated
+and lost -- We therefore would urge that 
+while China is projecting and adopting
+reforms , that no reform is more urgent or
+<add place="supralinear">would be more appropriate and</add> <del rend="strikethough">and</del> timely than <del rend="underline">one</del> to grant at once
+and for all, entire Religious library ? It
+would be in harmony with the present as-
+pirations of the Chinese for a Constitutional 
+Govt, and nothing could <del rend="strikethrough">illegible word</del> commend it 
+more <add place="supralinear">fully</add> to the Comity-  of nations--
+Believing this to be so, we would most 
+earnestly commend this subject of Religious Liberty
+to your attention and anything you can do toward 
+achieving such a reform will greatly relieve our
+
+<pb facs="4408.jpg"/>
+Christian work and, <del rend="strikethough">We</del> <add rend="supralinear">we</add> are sure, will not
+<del rend="strikethrough">greatly</del> a little influence and improve 
+the relations of China with all Christian 
+nations.</p>
+
+
+<closer><salute><del rend="strikethrough">Yours</del> Respectfully <add place="suprlinear">Submitted</add></salute></closer><lb/>
+<signed><persName>Young J. Allen</persName><lb/>
+Chairman<lb/>
+Board of Trustees of the<lb/>
+Soochow University </signed>
+</closer>
+</div>
+    </body>
+        
+<back><pb/><p>Society for the Diffusion of<lb/>
+Christian and General<lb/>
+Knowledge among the Chinese.<lb/>
+SHANGHAI </p><lb/>
+
+<p>Letter to <lb/>
+H.E. W.W. Rockhill<lb/>
+on the subject<lb/>
+of Religious Liberty in China<lb/></p></back>
+</div></body></text>
+</TEI>
+

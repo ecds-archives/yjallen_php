@@ -1,0 +1,212 @@
+<TEI xml:id="yja-1861-05-06.001">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from  Wright M. Carter to Young J. and Mellie Allen, <date when="1861-05-06">May 6, 1861</date>, an electronic edition</title>
+            <author>
+                <name type="person">
+                <choice>
+            <sic>Wright M. Carter</sic>
+                <reg>Carter, Wright M.></reg>
+            </choice>
+            </name>
+            </author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Wright M. Carter to Young J. and Mellie Allen, <date when="1861-05-06">May 6, 1861</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2008-03-28">March 28, 2008</date>
+                <name xml:id="ER">Elizabeth Russey</name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+
+<text><body><div type="letter"><pb facs="4227.jpg"/>
+    <head>[Letter from Wright M. Carter to Young J. and Mellie Allen]</head>
+    <opener><dateline><placeName>Barnesville, Pike Co.<lb/>
+Geo Southern Confederacy</placeName><lb/>
+<date when="1861-05-06">May 6th, 1861</date></dateline>
+
+<salute>My Very Dear <rs type="person" ref="#yja">Cousins in China</rs></salute>,</opener>
+
+<p>Although it is doubtful whether you ever get this or not, I will take the chance and start it.  Since I wrote you before our country has been in a perfect uproar; things are going on to a bloody end I fear.  Our good Southerns did not and would not submit to Black Republican rule and domination.  Consequently there are two Grand divisions arrayed against each other.  The North against the South and the South as we feel in self-defense.  General Scott has deserted the land of his birth (old Va.) and takes up arms against us.  He has heretofore been very successful in all his engagements with his enemy.  But I hope this is one of the times he will make an awful failure to himself.  There has been one fight at Charleston harbor, of 32 hours duration and not a man killed until after the Federal troops surrendered and were permitted to salute their flag on their departure from the forts at which time one of their guns exploded and killed four of their men.  It seems that Providence did not approbate their actions.  I verily believe that the Lord will approbate our actions, unless we do something to incur his displeasure which I hope we will not do.  I hope we will remember that we are Soldiers of the Cross as well as soldiers of our country.  There is now in the Capital (Washington City) about forty thousand soldiers, and about 30,000 in and near Norfolk, Richmond, Alexandria of the Southern Confederacy and they are pouring up there from the South by thousands.  A general engagement is anticipated between the Armies soon, almost daily.  There is a considerable army at Pensacola, Florida, waiting for the word to be given.  The old Federal Government has possession of Fort Pickens at that point.  The South has possession of all her other Forts.  But Gen. Scott has said, or report to have said, he intended to retake Charleston harbor, Harpers Ferry Arsenal in Virginia at all hazards.  In this I think
+
+
+<pb facs="4228.jpg"/>he will be mistaken; very much mistaken.  Charleston is a strongly fortified place and I think impregnable from the water side.  Brother William is at Pensacola has been there about one month.  He is an officer in his Company.  He left his wife and children (Six) at home.  Bro. John is at his house attending to his business with his old clerk.  We have a Company made up here in Barnesville (called "Barnesville Blues") for the common defense of our common country.  I have the honor to be the second in command of our company.  I do hope our difficulties will be settled before we are called off to the battle field.  It is a place I do not desire to see.  I do not feel like killing any one on earth but if there is no other alternative, I must pitch in and do my best for my country.  A great many of our Young men yet refuse to offer their services to their country.  It seems they are wanting in moral courage to defend their mothers, sisters, homes and all that makes life pleasant.  Brother C. W. Howard has quit his circuit (he supplied it with another) and made up a corps in Greenville to battle for his rights; Capt. Ector also has a company in Meriwether, and Capt. Gus Howard also.  There is a company gone from LaGrange to Va.  William Boyd and Cousin William Hutchens are in the Company.  The College boys at Emory have resolved themselves into a company and offered their services to the Governor but he refuses to accept them as it is not necessary yet to interfere with the Schools.  Mercer University also offered their services and men refused on the same ground but the Governor promised to call for them were they needed in the course of the war.  Everything is in a perfect state of confusion.  I spent a day or two in Atlanta recently and I have never dreamed of seeing the world in such a commotion.  They are drilling in Military tactics day and night and are preparing for the worst if it must come and we shall have some fine officers in the field.  A great many
+
+
+<pb facs="4229.jpg"/>are very anxious to get off to the 'wars.'  As for myself I do not and would not go at all did I not feel it to be my duty. </p>
+
+<p>I received a letter from Mellie a few days ago.  She was not very well, but much better than she had been - she had been quite sick with some throat and headache, and confined to her bed - when she wrote she was able to be about again.  I correspond with her and she tells me that you have never had a letter from there yet.  I can't account for it as you have received letters from others here.  She tells me that Miss Sis Reece is and has been sick some time, dangerously.  Her cousin Zora Houston married a Mr. Lipscomb sometime ago in March I think.  I think he was from Herd County.  Florrie is expecting to go to LaGrange next term.  Sis. Marcella is there now and I guess will remain there till she goes through.</p>
+
+<p>I was in Macon a short time ago and saw Cousin Mollie's type at Prof. Wood's office, I think it was, it and College Hill made me feel quite melancholy.  To think she was so far away from her own pleasure ground in new and untried fields of labor.  I can only breathe a sympathetic prayer for you both whenever I think of you and that is daily.</p>
+
+<p>I expect to go over to see my boys before long as I have not seen them in some time.  I am not yet prepared to have them with me all the time and guess I shall not get any one till our national difficulties are settled.  I don't think I ought to get any one right now but when the time comes I want the right-sort of a woman, an amiable, motherly lady, to make home pleasant without which I could not enjoy life, religion, or anything else that I ought to.  Since writing the above I learn that France and England will or have recognized our Independence, the independence of the Southern Confederacy.  We are in better spirits now about our success, as the old United States had possession of all War fleets belonging to it and are threatening to blockade our Ports at the different points
+
+
+<pb facs="4230.jpg"/>which they cannot do successfully if F. and England are with us they will not surely allow their own commerce interfered with by a Black Republican dynasty and consequently we can get all necessary goods imported without bringing them through Yankeedom.  Our Rulers have suspended payments as we will not pay any more Northern debts till these 'wars' are over.  I am sorry that we pay paid out so much already.  If we had it back we would be better able to support our families and armies, but it is gone to the enemy.</p>
+
+<p>I believe I have told you nearly all important news as far as I can recollect as I have company all the time.  As our Company is to leave in an hour or two I must necessarily be brief.  Brother Palmer has just been in to see me in reference to the Rail Road Sock or the dividends which you gave them.  As I told you before, there was a stock dividend and it amounted to more than the regular per cent (which is 10).  Now if you want or intend, they shall have the whole dividend of the five Shares, Stock dividend and all.  Please say so that I may show them your intention.  If you only intend for them to have fifty dollars or enough for one man, you will say which.  I want them to be satisfied.  I have promised to pay them the whole amount till I hear from you and if you are not satisfied, or don't want them to have any more than the fifty dollars, I shall hold back until I catch up at fifty $ per annum.  </p>
+
+<closer><salute>My dear cousins, I would be very happy to see your faces once more on earth but if we meet no more here, I trust we shall meet when parting is no more.  May the Lord bless and preserve you to everlasting life.  Remember me in your devotions - I remain<lb/>Your brother and cousin</salute><lb/>
+<signed><persName>Wright M. Carter</persName></signed></closer></div></body><back>
+<pb facs="4231.jpg"/>Rev. Y. J. Allen<lb/>
+<placeName>Shanghai, China</placeName></back></text>
+</TEI>
