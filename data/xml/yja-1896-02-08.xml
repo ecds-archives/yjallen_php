@@ -160,11 +160,10 @@
         <textClass>
             <keywords scheme="#lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries--China.</item>
+                    <item>Emory College, Oxford, Ga.</item>
+                    <item>Methodist Church--Georgia--History.</item>
                 </list>
             </keywords>
         </textClass>
@@ -175,6 +174,10 @@
                 <name xml:id="JL">Jana Lonberger</name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-08" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 
@@ -195,11 +198,10 @@
 
 	<p>Before this reaches you Miss Laura will have seen you &#x0026; given you full account of his condition &#x0026; of his departure. It is all very sad, &#x0026; yet it is better that he should go than linger paralyzed for several years. He died as we might fall asleep.</p>
 
-	<p>I have read the pamphlet report &#x0026; have marked some passages for newspaper use. I hope </p>
+	<p>I have read the pamphlet report &#x0026; have marked some passages for newspaper use. I hope
 
 	    <pb facs="4441.jpg"/>
-	    
-<p>I may be able to help you but have not promise for certain. I have upon me just now several large accounts I am pledged to raise soon.</p>
+	    I may be able to help you but have not promise for certain. I have upon me just now several large accounts I am pledged to raise soon.</p>
 
 	<p>There are many signs of returning prosperity in the United States just now. Congress is the worst obstacle in the way of better times. With better financial conditions the Mission Board will surely be able to overcome its debt &#x0026; go forward.</p>
 

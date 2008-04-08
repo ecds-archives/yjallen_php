@@ -128,11 +128,11 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries--China.</item>
+                    <item>China--Religion.</item>
+                    <item>China--History--19th century.</item>
+                    <item>China--History--Taiping Rebellion, 1850-1864.</item>
                 </list>
             </keywords>
         </textClass>
@@ -146,6 +146,10 @@
             </respStmt>
             <item>XML tags inserted in compliance with TEI guidelines.</item>
         </change>
+<change when="2008-04-08" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 <text>

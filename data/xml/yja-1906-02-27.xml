@@ -160,11 +160,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>China--History--20th century</item>
                 </list>
             </keywords>
         </textClass>
@@ -175,6 +172,10 @@
                 <name xml:id="JDP">Jason Puckett</name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-08" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 
@@ -206,7 +207,9 @@ It is simply immense and complete in its accommodation and comfort of its passen
 
 I found among the suite two of my former pupils at Shanghai, and <unclear>number</unclear> of them who were familiar with my books and periodicals, so that intercourse with them from the prince down has been easy and pleasant and I hope profitable. --</p>
 
-<p>I am always glad to hear from you, and I can assure you that it is with the greatest pleasure I look forward to seeing you, and thank you ever so muchfor your very kind invitation to sojourn with you for several days.  It is certainly very kind of you and I am sure I should enjoy as never before such an opportunity for high <unclear>illegible word</unclear> communion and fellowship.</p>
+<p>I am always glad to hear from you, and I can assure you that it is
+with the greatest pleasure I look forward to seeing you, and thank you
+ever so much for your very kind invitation to sojourn with you for several days.  It is certainly very kind of you and I am sure I should enjoy as never before such an opportunity for high <unclear>illegible word</unclear> communion and fellowship.</p>
 
 <p>I can understand your loneliness, for in this far away East, while I have many acquaintances, there are no old friends and the distance, silence and separation from those in the Home land is something appalling --</p>  <closer>I mail this in Seattle and will follow it immediately, and hope <unclear>as</unclear> a convenient time to be with you -- till then good bye my dear old friend -- Love to all -- <signed><persName ref="#yja">YJA</persName></signed></closer>
     
