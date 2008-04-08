@@ -155,7 +155,7 @@
             <rs type="collection">Young John Allen Papers</rs>
             <rs type="language">English</rs>
             <rs type="geography">United States</rs>
-            <date>1800-1899</date>  <!-- or 1900-1999 -->
+            <date>1800-1899</date><date>1900-1999</date>
         </creation>
         <textClass>
             <keywords scheme="lcsh">
@@ -175,6 +175,10 @@
                 <name xml:id="amg">Anne Graham</name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 

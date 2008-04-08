@@ -145,6 +145,10 @@
                 <name xml:id="LC">Lauren Corbett </name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 <text>

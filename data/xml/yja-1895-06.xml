@@ -160,11 +160,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Anglo-Chinese University (Shanghai, China)</item>
                 </list>
             </keywords>
         </textClass>
@@ -175,6 +172,10 @@
                 <name xml:id="JMD">Jeannie Downey </name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
     
@@ -194,7 +195,7 @@
 
 <p>I proposed to re-enter the Anglo-Chinese College but my father told me that he was afrid of your not coming back, &#x0026; so nobody would look would look after me, so entered this school.</p>
 
-<p>I dont like this school at all, Icompared with my oldschool. Now I wish you would entice my father to take me away from this school &#x0026; to again go to your College.</p>
+<p>I dont like this school at all, compared with my old school. Now I wish you would entice my father to take me away from this school &#x0026; to again go to your College.</p>
 
 <p>Has Mr. Bell come back from United-States yet? Please answer my letter as soon as possible. With best regards.</p>
 <lb/>

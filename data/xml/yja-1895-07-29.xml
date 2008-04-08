@@ -161,11 +161,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Japan--History--19th Century</item>
                 </list>
             </keywords>
         </textClass>
@@ -176,6 +173,10 @@
                 <name xml:id="KT">Kate Tomlinson</name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 <text>
@@ -185,7 +186,7 @@
             <head>[Letter from J. Chinoa to Young John Allen]</head>
             <opener>
                 <dateline><placeName>Japanese Consulate General
-Shanghai</placeName>, <date when="1985-07-29">July 29, 1895</date></dateline>
+Shanghai</placeName>, <date when="1895-07-29">July 29, 1895</date></dateline>
 
 <salute>Rev. Y.J. Allen D.D.L.L.D.<lb/>
 	My dear Dr.</salute></opener>

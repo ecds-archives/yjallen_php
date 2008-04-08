@@ -170,10 +170,14 @@
     </profileDesc>
     <revisionDesc>
         <change>
-            <date when="2008-03-13"><!-- today's date --></date>
+            <date when="2008-03-13">March 13, 2008</date>
                 <name xml:id="sej">Steve Johnson</name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 
@@ -223,7 +227,7 @@
 
 <signed><name>A.Y.J.W. Allen</name></signed></closer>
 
-<lb></lb>
+<lb/>
             
 <postscript>P.S.
 
@@ -231,31 +235,31 @@ Tell me in Your next who is praying his <hi rend="underline">distresses</hi> to 
 
 And with due <add place="supralinear">de</add>ference and Much respect I subscribe myself a Hermesian <hi rend="underline">With Motto</hi>
 
-<lb></lb>
+<lb/>
 
-<unclear reason="I don't know Greek, and hard to decipher and will need Greek characters added">Ploutos otes Psuches, Ploutos monos estin aleves</unclear>  --
+<unclear reason="in Greek">Ploutos otes Psuches, Ploutos monos estin aleves</unclear>  --
 
-<lb></lb>
+<lb/>
 
 And dear Mollie may that be your Motto as <hi rend="underline">it is that of The Hermesian Society</hi>
 
-<lb></lb>
+<lb/>
 
 Allen -- <hi rend="underline">a member</hi>
 
 Yes Mollie I'll tell you all about my trip when I returen and some by line if you'll respond soon so that I may receive it when I return -- <unclear reason="scribbled, possible short for Allen?"><sic>an</sic></unclear>
 
-<lb></lb>
+<lb/>
 
  <hi rend="underline">et nunc vale</hi> = and now farewell Mollie
 
-<lb></lb>
+<lb/>
 
 Allen
 
-<lb></lb>
+<lb/>
 
-<unclear reason="I don't know Greek, and hard to decipher and will need Greek characters added">Estin <hi rend="underline">Povos Tou</hi></unclear>  --</postscript>
+<unclear reason="In Greek">Estin <hi rend="underline">Povos Tou</hi></unclear>  --</postscript>
         </div>
     </body>
 </text>

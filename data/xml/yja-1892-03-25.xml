@@ -106,9 +106,9 @@
               <surname>Bell</surname>
             </persName>
           </person>
-    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+</listPerson>
  
-             <listPlace> <!-- add any list places you want to -->
+             <listPlace> 
                 <place>
                     <placeName>
                         <settlement></settlement>
@@ -160,11 +160,9 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries -- China.</item>
+                    <item>Emory College, Oxford, Ga.</item>
                 </list>
             </keywords>
         </textClass>
@@ -175,6 +173,10 @@
                 <name xml:id="ARM">Arthur R. Murphy</name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 
@@ -308,7 +310,7 @@ cept Greek and Latin. <lb/>
 <p><lb/>
 Please thank Mr. Loche <lb/>
 for his interesting to the <lb/>
-Wesleyan Adv. ih regards <lb/>
+Wesleyan Adv. in regards <lb/>
 to both Yiin and me.  If <lb/>
 I have enough time to spare <lb/>
 I wish I would write a <lb/>

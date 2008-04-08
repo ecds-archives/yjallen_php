@@ -176,6 +176,10 @@ in the original text.</p>
           <name xml:id="NN">Naomi Nelson, </name>Assistant Director, MARBL, Emory University
         inserted XML tags in compliance with TEI guidelines.
       </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
   </teiHeader>
 <text>
