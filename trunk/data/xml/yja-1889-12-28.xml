@@ -128,11 +128,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -146,6 +143,10 @@
                  <name xml:id="FCT">Francine Thurston, </name>
              transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 <text><body><div type="letter" xml:id="yja-1889-12-28.002">
@@ -165,7 +166,10 @@ My dear Sir;</salute> </opener>
 
 <p>Among some details in the Jewish service that attracted my attention was the allusions to some of the  N. T. expressions. The Rabbi, in prayer, said, "In Him we live and move and have our being."  He also exhorted the people "to do good not hoping to receive again" as "it is more blessed to give than to receive".  We must improve,<pb facs="4240.jpg"/> the Rabbi said, our talents for "God has given to some 5 talents, to others 2, and to others, one."  Maybe what I think to be the N. T. expressions might have been derived from Jewish writers older that the N. T. itself.</p>
 
-<p>At any rate, the modes of worship in the Synagogue presented a favorable contrast to the heathen rites baptized in a Catholic Church.  The candles, pictures, images, rosary, holdy water, ringing of bells, chanting in an unknown tongue?all these mummeries which are so sonspicuous in a Catholic service interest me chiefly from the fact <pb facs="4241.jpg"/> that they give me some idea of the way in which the Greeks and Romans worshiped their gods.</p>
+<p>At any rate, the modes of worship in the Synagogue presented a
+favorable contrast to the heathen rites baptized in a Catholic Church.
+The candles, pictures, images, rosary, holdy water, ringing of bells,
+chanting in an unknown tongue?all these mummeries which are so conspicuous in a Catholic service interest me chiefly from the fact <pb facs="4241.jpg"/> that they give me some idea of the way in which the Greeks and Romans worshiped their gods.</p>
 
 <p>This afternoon, I am going to take a walk with Jacob, an Armenian.  He is poor in purse, but rich in zeal.  Men laugh at him as a crank, but his honesty and moral strength make him as good a companion as many who are not cranks.
 </p>

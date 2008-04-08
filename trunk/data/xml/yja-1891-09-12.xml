@@ -128,11 +128,9 @@
                      <textClass>
                             <keywords scheme="lcsh">
                                    <list>
-                                          <item></item>
-                                          <item></item>
-                                          <item></item>
-                                          <item></item>
-                                          <item></item>
+                                          <item>Allen, Young John,
+				     1836-1907.</item>
+<item>Emory College, Oxford, Ga.</item>
                                    </list>
                             </keywords>
                      </textClass>
@@ -147,6 +145,10 @@
                                     <name xml:id="BC">Brian Croxall, </name>
                              transcribed and encoded the text.
                      </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
               </revisionDesc>
        </teiHeader>
 

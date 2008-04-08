@@ -160,11 +160,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -175,6 +172,10 @@
             <name xml:id="TR">Tarina Rosen </name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 <text><body><div><pb facs="4419. jpg"/><head>[Letter from Young John Allen to Mrs. Pattills]</head><opener>The image of Buddha is bronze-

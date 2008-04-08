@@ -160,12 +160,10 @@
         <textClass>
             <keywords scheme="#lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                </list>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>China--Religion.</item>
+                    <item>Missionaries -- China.</item>
+		</list>
             </keywords>
         </textClass>
     </profileDesc>
@@ -175,6 +173,10 @@
                 <name xml:id="ALM">Anna Lech-Mlynarz </name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 

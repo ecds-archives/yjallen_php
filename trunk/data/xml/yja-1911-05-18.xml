@@ -160,11 +160,7 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Mary Houston.</item>
                 </list>
             </keywords>
         </textClass>
@@ -175,16 +171,20 @@
                 <name xml:id="EW"><!-- Erich Wendt --> </name>
             transcribed and encoded the text.
         </change>
+<change when="2008-04-04" who="#RSV">
+        <name xml:id="RSV">Stewart Varner</name> Added Library of
+Congress Subject headings and cleaned up the text.
+      </change>
     </revisionDesc>
 </teiHeader>
 
 <text><body><div xml:id="yja-18-May-1911" type="letter"><pb  facs="4432.jpg"/>
-    <head>[Letter from Mary H. Allen to Mellie,]</head>
- <dateline><placeName>Montreal</placeName>:  May 18, 1911</dateline>
+    <head>[Letter from Mary H. Allen to Mellie]</head>
+ <dateline><placeName>Montreal</placeName>:<lb/>  May 18, 1911</dateline>
 
 <salute>Dear <persName>Mollie</persName>,</salute>
 
-	<p>I did not go by San Francisco, to see Ethel-- felt I could not stand the fatigue of the journey.  We have had a very pleasant trip so far, and have met with much kindness from travelling companions.  We have stood the trip very well for us, but Alice had such a severe attack of neuralgia day before yesterday that we were obliged to get off the train at Fort William for her to rest.  We spent a night and a day there  - then came on here.  Do you know Montreal?  It is a lovely old city.  I can't remember if you were ever here.  We shall see Mary Turner and the boys and Harry tomorrow, and will make our first visit there.  Margaret invited us to visit her <pb facs="4433.jpg"/> in June but I do not feel strong enough to go to Florida in Summer.</p>  
+	<p>I did not go by San Francisco, to see Ethel -- felt I could not stand the fatigue of the journey.  We have had a very pleasant trip so far, and have met with much kindness from travelling companions.  We have stood the trip very well for us, but Alice had such a severe attack of neuralgia day before yesterday that we were obliged to get off the train at Fort William for her to rest.  We spent a night and a day there  - then came on here.  Do you know Montreal?  It is a lovely old city.  I can't remember if you were ever here.  We shall see Mary Turner and the boys and Harry tomorrow, and will make our first visit there.  Margaret invited us to visit her <pb facs="4433.jpg"/> in June but I do not feel strong enough to go to Florida in Summer.</p>  
 
 <p>Mrs. Cobb invited us to visit her at Montreal in June and July.  I do not know yet just when we shall go South.  I am sorry not to see big George and little George sooner.  I am so very tired travelling.  Shall be so glad to get to Mary's and have a rest.</p>
 
