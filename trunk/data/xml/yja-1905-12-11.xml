@@ -1,4 +1,5 @@
-<TEI xml:id="YJA-11Dec1905transcription2">
+<TEI xml:id="YJA-11Dec1905transcription2" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
     <teiHeader>
     <fileDesc>
         <titleStmt>
