@@ -1,4 +1,5 @@
-<TEI xml:id="March_25_1890_v002">
+<TEI xml:id="March_25_1890_v002" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -185,7 +186,7 @@ Congress Subject headings and cleaned up the text.
         <div xml:id="yja_1892_03_25_v002_d01" type="letter">
             <head>[Letter from Geo. Bell to Y.J.Allen]</head>
    
-            <pb facs="4272.jpg"/> {Page 1}
+            <pb n="Page 1" facs="4272.jpg"/>
 <opener>
 <dateline><placeName>Oxford, GA</placeName>
 <date when="1890-03-25">March 25, 1892</date></dateline>

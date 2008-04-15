@@ -1,4 +1,5 @@
-<TEI xml:id="YJA18Feb1861">
+<TEI xml:id="YJA18Feb1861" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
     <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -33,8 +34,7 @@
                 <resp>Principal Investigators</resp>
             </respStmt>
         </seriesStmt>
-        <sourceDesc>N
-            <bibl>Letter from W.M. Carter to Young John Allen<date when="1861-02-18">February 18, 1861</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+        <sourceDesc><bibl>Letter from W.M. Carter to Young John Allen<date when="1861-02-18">February 18, 1861</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
