@@ -1,4 +1,4 @@
-<TEI>
+<TEI xml:id="yja-1887-01-28.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 
 <teiHeader>
     <fileDesc>
@@ -42,14 +42,14 @@
                         <forename>John</forename>
                         <surname>Allen</surname>
                     </persName>
-                    <birth when="January 3, 1836">
+                    <birth when="1836-01-03">
                         <placeName>
                             <settlement type="county">Burke County</settlement>
                             <region type="state">Georgia</region>
                             <country>United States</country>
                         </placeName>
                     </birth>
-                    <death when="May 30, 1907">
+                    <death when="1907-05-30">
                         <placeName>
                             <settlement type="city">Shanghai</settlement>
                             <country>China</country>
@@ -71,7 +71,7 @@
                             <country>Korea</country>
                         </placeName>
                     </birth>
-                    <death when="December 6, 1945">
+                    <death when="1945-12-06">
                     </death>
                 </person>
                 <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
@@ -139,9 +139,9 @@
     </profileDesc>
     <revisionDesc>
         <change>
-            <date when="2008-mm-dd"><!-- today's date --></date>
+            <date when="2008-03-18"></date>
             <respStmt>
-                <name xml:id=""><!-- your name here -->, </name>
+                <name xml:id="RSV">Stewart Varner</name>
                 <resp><!-- your position here -->, Emory University.</resp>
             </respStmt>
             <item>XML tags inserted in compliance with TEI guidelines.</item>
