@@ -1,5 +1,5 @@
-
-<TEI xml:id="yja-1891-12-10">
+<TEI xml:id="yja-1891-12-10" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
     
 <teiHeader>
     <fileDesc>
@@ -188,8 +188,8 @@ Congress Subject headings and cleaned up the text.
 
 <pb facs="4254.jpg"/>
         <head>Letter from Tsoong Kia tsing</head>
-        <opener><place>916 Washington Street<lb/>
-San Francisco, Cal.</place><lb/>
+        <opener><address><addrLine>916 Washington Street</addrLine>
+<addrLine>San Francisco, Cal.</addrLine></address>
     <dateline><date when="1891-12-10">Dec. 10th, 1891</date></dateline><lb/>
     <salute>Rev. Y. J. Allen DD<lb/>Dear Teacher</salute>,</opener><lb/>
 

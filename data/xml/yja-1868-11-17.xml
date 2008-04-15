@@ -1,8 +1,9 @@
-<TEI xml:id="yja17Nov1868.001">
+<TEI xml:id="yja17Nov1868.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from C.K Marshall to Dr Allen, <date when="1868-17-11">November 17, 1868</date>, an electronic edition</title>
+            <title>Letter from C.K Marshall to Dr Allen, <date when="1868-11-17">November 17, 1868</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -34,7 +35,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from C.K Marshall to Dr Allen, <date when="1868-17-08">November 17, 1868</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from C.K Marshall to Dr Allen, <date when="1868-11-17">November 17, 1868</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>

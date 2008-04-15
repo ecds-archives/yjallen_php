@@ -1,4 +1,5 @@
-<TEI xml:id="yja-1855-09-14.001">
+<TEI xml:id="yja-1855-09-14.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -105,8 +106,7 @@
               <forename>George</forename>
               <surname>Bell</surname>
             </persName>
-          </person>-
-    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+          </person></listPerson>
  
              <listPlace> <!-- add any list places you want to -->
                 <place>
