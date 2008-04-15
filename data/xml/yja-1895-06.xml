@@ -155,7 +155,7 @@
             <rs type="collection">Young John Allen Papers</rs>
             <rs type="language">English</rs>
             <rs type="geography">United States</rs>
-            <date>1800-1899</date>  <!-- or 1900-1999 -->
+            <date>1800-1899</date>  <date>1900-1999</date>
         </creation>
         <textClass>
             <keywords scheme="lcsh">
