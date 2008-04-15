@@ -1,4 +1,5 @@
-<TEI xml:id="yja-1896-feb-8.001">
+<TEI xml:id="yja-1896-feb-8.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -182,10 +183,10 @@ Congress Subject headings and cleaned up the text.
 </teiHeader>
 
 <text><body><div type="letter">
-    <pb facs="4440.jpg"/>"
+    <pb facs="4440.jpg"/>
     <head>[Letter from W.A. Candler to Young John Allen, February 8, 1896]</head>
     <opener>Emory College<lb/>
-        <placename>Oxford, Ga.</placename><lb/>
+        <placeName>Oxford, Ga.</placeName><lb/>
         W.A. Candler, Prest.	H.H. Stone, Treas.<lb/>
 
         <dateline><date when="1896-02-08"></date>Feb 8 1896</dateline><lb/>

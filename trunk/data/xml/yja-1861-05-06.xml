@@ -1,4 +1,5 @@
-<TEI xml:id="yja-1861-05-06.001">
+<TEI xml:id="yja-1861-05-06.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -209,6 +210,6 @@ Geo Southern Confederacy</placeName><lb/>
 <closer><salute>My dear cousins, I would be very happy to see your faces once more on earth but if we meet no more here, I trust we shall meet when parting is no more.  May the Lord bless and preserve you to everlasting life.  Remember me in your devotions - I remain<lb/>Your brother and cousin</salute><lb/>
 <signed><persName>Wright M. Carter</persName></signed><lb/>
 </closer></div></body><back>
-<pb facs="4231.jpg"/>Rev. Y. J. Allen<lb/>
-<placeName>Shanghai, China</placeName></back></text>
+<pb facs="4231.jpg"/><div><note><address><addrLine><persName>Rev. Y. J. Allen</persName></addrLine><lb/>
+<addrLine><placeName>Shanghai, China</placeName></addrLine></address></note></div></back></text>
 </TEI>

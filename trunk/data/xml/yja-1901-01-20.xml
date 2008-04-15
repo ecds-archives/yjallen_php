@@ -1,8 +1,9 @@
-<TEI xml:id="yja-20-Jan-1901-JC.001">
+<TEI xml:id="yja-20-Jan-1901-JC.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+>
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from  Young J Allen , <date when="1901-Jan-20">January 20, 1901</date>, an electronic edition</title>
+            <title>Letter from  Young J Allen , <date when="1901-01-20">January 20, 1901</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
