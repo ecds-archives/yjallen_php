@@ -1,15 +1,15 @@
-<TEI xml:id="Montreal.1">
+<TEI xml:id="Montreal.1" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
     <fileDesc>
         <titleStmt>
             <title>Letter from Mary H. Allen to Mellie, <date when="1911-05-18">May 18, 1911</date>, an electronic edition</title>
             <author>
-             <choice>
-            <name type="person">
+             
+            <name type="person"><choice>
             <sic>Mary H. Allen</sic>
             <reg>Allen, Mary H.</reg>
-            </name>
-            </choice>
+            
+            </choice></name>
             </author>
         </titleStmt>
         <extent></extent>
