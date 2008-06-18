@@ -203,7 +203,7 @@ Editor Chinese Weekly and Christian Review. </item>
 
 <dateline><orgName>Society for the Diffusion of Christian and General Knowledge
 among the Chinese.  (S. D. C. K.)  </orgName><lb/>
-<address>90 CHAPOO ROAD</address><lb/>
+<address><addrLine>90 CHAPOO ROAD</addrLine></address><lb/>
     <placeName>Shanghai</placeName>,<date when="1905-12-11"> Dec. 11<unclear>th</unclear>, 1905</date> </dateline><lb/>
 <salute><persName>Hon.  W.W. Rockhill</persName><lb/>
 U.S. Minister Plenipotentiary, &#x0026;c&#x0026;c<lb/>
@@ -296,7 +296,7 @@ SHANGHAI </p><lb/>
 <p>Letter to <lb/>
 H.E. W.W. Rockhill<lb/>
 on the subject<lb/>
-of Religious Liberty in China<lb/></p></back>
-</div></text>
+of Religious Liberty in China<lb/></p>
+</div></back></text>
 </TEI>
 
