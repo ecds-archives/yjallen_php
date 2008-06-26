@@ -3,12 +3,12 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from John Watson to Young John Allen <date when="1883-09-27"><!-- September 27, 1883 --></date>, an electronic edition</title>
+            <title>Letter from John Watson to Young John Allen <date when="1883-09-27">September 27, 1883</date>, an electronic edition</title>
             <author>
             <name type="person">
 <choice>
             <sic>John Watson</sic>
-            <reg><!-- regularized form, if available, or Lastname, firstname -->"></reg>
+            <reg>Watson, John</reg>
                 </choice>
             </name>
             </author>
@@ -35,7 +35,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from John Watson to Young John Allen <date when="1890-11-08">November 8, 1890</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from John Watson to Young John Allen <date when="1883-09-27">September 27, 1883</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -181,28 +181,28 @@ Congress Subject headings and cleaned up the text.
     </revisionDesc>
 </teiHeader>
 
-<text><body><div type="letter"><pb facs="4444.jpg"/>**Watson  in pencil on lttr
+<text><body><div type="letter"><pb facs="4444.jpg"/><note>Watson</note>
 
-<opener><dateline><placename>** Amoy</placename><lb/>
+<opener><dateline><placeName>Amoy</placeName><lb/>
 <date when="1883-09-27">27th Sept 1883</date></dateline><lb/>
+</opener>
+<salute>Dear Sir,</salute>
 
-Dear Sir,</opener><lb/>
-
-In answer to your letter to Mr Thompson enquiring about the Kong 
-<unclear reason="illegible">Pau</unclear>
+<p>In answer to your letter to Mr Thompson enquiring about the Kong. 
+Pau. 
 I have to say that of the 54 <del rend="strikethrough">vol</del>
-copies <unclear reason="something above the line then XV"> </unclear>received<lb/>
-30 were distributed (gratis) to Mandarins in &#x0026; around Arnoy<lb/>
-6 <unclear reason="are crossed thru"></unclear>
-remain neither sold nor given away &#x0026; <lb/>
-18 were sold.  A Chinese book-seller got 20 cents com-
-mission on each copy.<lb/>
-I enclose a cheque for $14.40 the balance of $18 after
+copies <add place="supralinear">vol XV</add> received 
+<list>
+<item>30 were distributed (gratis) to Mandarins in &#x0026; around Amoy</item>
+<item>6 <del>are </del>remain neither sold nor given away &#x0026; </item>
+<item>18 were sold.  A Chinese book-seller got 20 cents commission on each copy.</item></list>
+</p>
+<p>I enclose a cheque for $14.40 the balance of $18 after
 
-<pb facs="4445.jpg"/>"
-deducting $3.60 commission
+<pb facs="4445.jpg"/>
+deducting $3.60 commission</p>
 
-I am sorry that we did not manage to sell more.
+<p>I am sorry that we did not manage to sell more.</p>
 
 <closer><salute>I am<lb/>
 
@@ -210,11 +210,11 @@ Yours truly</salute><lb/>
 
 <signed>John Watson<lb/>
 
-Sec. of Tract Society</signed><lb/></closer>
+Sec. of Tract Society</signed><lb/>
+<address>
+<addrLine>To<lb/>
 
-To
+Rev Young J. Allen DD.</addrLine>
 
-Rev Young J. Allen DD.
-
-Shang-hai </div></body></text>
+<addrLine>Shang-hai</addrLine></address></closer></div></body></text>
 </TEI>

@@ -35,7 +35,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from M.H. Allen to Unknown, <date when="1859-12-15">December 15, 1859</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from M.H. Allen, <date when="1859-12-15">December 15, 1859</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -201,25 +201,28 @@ Church, men and women; and have been greatly benefited by their society.  I will
 <p>God has given me wonderful courage in these my great trials, for I pass account for my cheerfulness in no other way. He alone knows how much I love my friends, and how badly I hate to leave them; but I go in His name, to do His work.  May He give me peace and strength to perform it faithfully.</p>
 
 
-<pb face="4304.jpg" />
+<pb facs="4304.jpg" />
 <p>I think I shall be happy in China because I believe it to be my duty to go there: I know I shall if I can have the privilege of hearing from my friends now and then.  You &#x0026; Mrs. Smith will grant me this privilege I hope.  Had I remained at home I should have visited you annually, as it is I may never see you again.  But be this as it may, we may meet, and I confidently believe will meet in Heaven.  What a happy meeting of friends that will be.
 </p>
 <p>You know I used to talk to you sometimes about enjoying the blessing we call sanctification.  But it matter not by what name we called it. I believe you have enjoyed the blessing, and therefore know what it is.  I do not enjoy this blessing so much now as then; but I long to enjoy it again in all its fullness.  I think and feel if this were the case I would be better prepared for usefulness.  I want you therefore, to remember me especially in your prayers, and Mrs. Smith to do the same.  I used to talk to you about any religious condition with more freedom than with any one else, for  I knew your 
     
- <pb face="4305.jpg" />   
+ <pb facs="4305.jpg" />   
 Christian heart, and knew that you would sympathise with me.  If I could see you now it would be such a relief to me to tell you all my feelings.
 I have lost not a particle of my admiration for Mrs. Smith.  You may say to her that the attachment I formed for her while in College is lasting, and that I will be most happy to hear from her at any time.  <unclear>Elvie</unclear> is in the City. She looks better than I ever saw her; she will return home Monday next.</p>
 
-<p>Please write me immediately; I may possibly receive the letter before we leave.  You will please direct your letters to this City in the care of D. Jerry -- He will forward them with our papers.  Vessels will be leaving this port for China every month.
+<p>Please write me immediately; I may possibly receive the letter before we leave.  You will please direct your letters to this City in the care of D. Terry -- He will forward them with our papers.  Vessels will be leaving this port for China every month.
 </p>
 <closer><salute>Farewell my Dear Friends -- May God bless you, and prosper you.
 
 Yours ever faithful</salute>
-<signed><persName>M. H. Allen.</persName></signed></closer>
+<signed><persName>M. H. Allen.</persName></signed>
 
-Address
-Mrs J.L. Allen
-Care of D. Jerry-
-200 Mulberry St.
-New. York.</div></body></text>
+<address><addrLine>Address</addrLine>
+<addrLine><persName>Mrs Y. J. Allen</persName></addrLine>
+<addrLine>Care of D. Terry&#x2014;</addrLine>
+<addrLine>200 Mulberry St.</addrLine>
+<addrLine>New. York.</addrLine>
+</address>
+</closer>
+</div></body></text>
 </TEI>

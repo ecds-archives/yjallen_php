@@ -3,7 +3,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Geo Bell to Doctor, <date when="1896-02-03">February 3, 1896</date>, an electronic edition</title>
+            <title>Letter from Geo Bell to  Young John Allen, <date when="1896-02-03">February 3, 1896</date>, an electronic edition</title>
             <author>
                 <name type="person">
                     <choice>
@@ -35,7 +35,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><!-- replace this with your letter information -->Letter from Geo H. Bell to Young John Allen, <date when="1896-02-03">February 3, 1896</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Geo H. Bell to Young John Allen, <date when="1896-02-03">February 3, 1896</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -215,7 +215,7 @@ with them. I have been thinking of joining the N. Ga. Conf. and take a year conf
 <p>It is rather late tonight and I will get up one more lesson before going to bed, so will conclude. Good night. Give my love to your family and yourself. Hoping to hear from you soon.</p>
  <closer>           
 <salute>I remain<lb/>
-Yours <unclear reason="illegible">affbly,</unclear></salute><lb/>
+Yours Afftly</salute><lb/>
 <signed><persName ref="#tsoong">Geo H. Bell</persName></signed></closer>
 </div></body></text>
 </TEI>

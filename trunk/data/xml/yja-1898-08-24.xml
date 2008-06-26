@@ -1,4 +1,4 @@
-<TEI xml:id="PAGE_yja_August_1898">
+<TEI xml:id="PAGE_yja_August_1898" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -181,9 +181,9 @@ Congress Subject headings and cleaned up the text.
 
 <text><body><div type="letter">     
    <pb facs="4382.jpg"/>
-<opener><dateline><placename>Animdel Hotel, London</placename>
+<opener><dateline><placeName>Animdel Hotel, London</placeName>
     <date when="1898-08-24">August 24th, 1898</date></dateline><lb/>
-<salute><persName ref="">My darling daughter</persName>,</salute></opener><lb/>
+<salute><persName>My darling daughter</persName>,</salute></opener><lb/>
             <p>When I wrote Ma'ma last I promised that I would write next to you. So now I avail of this muggy day, no unusual one by the way in London, to fulfill briefly that engagement. You have been very kind to<unclear> noread </unclear>and regularly, but I was sadly dissappoited on my arrival this morning not to find letters from China as some were due when I left the States and orders were left for them to be forwarded direct to London. When I finished Ma'ma's letter we had just arrived at Liverpool. Since then I have visited Glasgow, The Lochs of Scotland, and <choice><orig>Edinboro</orig><reg>Edinburg</reg></choice>
     <pb facs="4383.jpg"/>
 and arrived in London all within five days. I spent last Monday- today is Saturday in Liverpool and Chester the latter being in Wales and the oldest city in the British Isles. I have some pictures of its quaint buildings.Tuesday I took the train for Glasgow and reached there about 6 o'clock p.m. and spent the next day Wednesday sightseeing in that city. Have some pictures of that also. Thursday morning left for <choice><orig>Edinboro</orig><reg>Edinburg</reg></choice> via Lochs <unclear>Lomond</unclear>, <unclear>Katherine</unclear><unclear> noread  </unclear>spent Friday in Edinburgh and that night came on here by the mail train 35 or 40 miles per hour. So Pulman's Palace Cars are rather a dear luxury in this country. I had to forgo my accustimed rest and so slept more last night. However I do not feel it now though early this morning I could scarcely hold my eyes open. I have not been able to go out much yet as it has been 

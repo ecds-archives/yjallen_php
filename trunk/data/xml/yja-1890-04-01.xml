@@ -8,7 +8,7 @@
              <name type="person">
                  <choice>
                      <sic>T. H. Yun</sic>
-                 <reg>">Yun Ch'i-ho</reg>
+                 <reg>Yun Ch'i-ho</reg>
                  </choice>
              </name>
             </author>
@@ -185,9 +185,9 @@ Congress Subject headings and cleaned up the text.
                 <pb facs="4242.jpg"/>
                 <head>[Letter from T. H. Yun to Y. J. Allen]</head>
                 <opener>
-                    <dateline><persName>T. *H*. </persName> <date when="1890-04-01">Apr. 1st "90."</date></dateline><lb/>
+                    <dateline><persName>T. H. </persName> <date when="1890-04-01">Apr. 1st "90."</date></dateline><lb/>
                     <salute>
-                       <name> Rev. Dr. Allen</name><lb/>
+                       <persName xml:id="yja"> Rev. Dr. Allen</persName><lb/>
                         My Dear Sir,</salute><lb/>
 </opener>
 
@@ -199,14 +199,14 @@ Congress Subject headings and cleaned up the text.
 
 <p>In short I <hi rend="underline">firmly</hi> believe that the strict and speedy enforcement of the Exclusion Bill will be as beneficial to America as to China. This Bill will save America from the presence of indigestible elements in her population, and leave her to enjoy the <pb facs="4244.jpg"/>glorious inalienable heaven-given "right of man" undisturbed. This Bill will save China from her name being daily soiled by the contempt and disgust the miserable coolies excites here; and also from being disgraced by another Exclusion Bill.</p>
 
-<p><name>Mrs. *Mabavoch*</name> has not sent me the *Kwong Pau* yet. I shall, however, if she sends it, try my best in translating it.</p>
+<p><name>Mrs. Malsavoch</name> has not sent me the Kwong Pau yet. I shall, however, if she sends it, try my best in translating it.</p>
 
 <p>My best wishes and love to <name>Mrs. Allen</name>.</p>
 
 <closer>
     <salute>I remain Sir<lb/>
         Yours Sincerely,</salute><lb/>
-<signed><name>T. H. Yun</name></signed>
+<signed><persName ref="#thyun">T. H. Yun</persName></signed>
 </closer>
             </div>
         </body>
