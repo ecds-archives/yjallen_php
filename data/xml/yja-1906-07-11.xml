@@ -179,9 +179,9 @@
 </teiHeader>
 
 <text><body><div xml:id="yja1906-07-11.001" type="letter">
-    <pb n="[1]" facs="4402.jpg"/>
+    <pb facs="4402.jpg"/>
     <head>[Letter from Young John Allen to church leaders from the SE region]</head>
-<dateline><placeName>Atlanta, GA </placeName> <date when="1906-07-11">7/11, 1906</date></dateline>
+<dateline><placeName>Atlanta, GA </placeName><date when="1906-07-11"> 7/11, 1906</date></dateline>
 <salute>My Dear Brother:</salute>
 <p>I take the liberty of addressing you on the subject 
 of this letter because I am assured you have both the 
@@ -206,9 +206,9 @@ depend in such a moment of urgency.  Will you not raise for
 this purpose at least $25 and send it to me at once.  My 
 address being for the next several days, Atlanta, Ga, in care
 of the Wesleyen Christian Advocate.</p>
-<closer>Thanking you in advance for your brotherly assistance, I am,</closer><lb/>
+<closer>Thanking you in advance for your brotherly assistance, I am,<lb/>
 			<salute>Yours fraternally, </salute><lb/>
-    <signed><persName ref="#yja">Young J. Allen</persName></signed></div>
+    <signed><persName ref="#yja">Young J. Allen</persName></signed></closer></div>
 <div type="list"><pb n="2" facs="4403.jpg"/><list>
 <item>Rev. B.f. Fraser, Gainesville, Ga.</item>
 <item>" U/G. Foote, lexington Ky.</item>
@@ -225,7 +225,7 @@ of the Wesleyen Christian Advocate.</p>
 <item>" W.J. Young D.D., Richmond, Va.</item>
 <item>" T. McN. Simpson, Richmond, Va.</item>
 <item>" W. H. Edwards, Petersburg, Va.</item>
-<add place="left margin">yes</add><item>" R.D. Smart, D.D. Norfolk, Va.</item>
+<item><add place="margin-left">yes</add>" R.D. Smart, D.D. Norfolk, Va.</item>
 <item>" W.E. Thompson, Memphis Tenn.</item>
 <item>" W. W. Adams, Jackson, Tenn.</item>
 <item>" J.C. Wilson, Union City, Tenn.</item>
@@ -243,7 +243,7 @@ of the Wesleyen Christian Advocate.</p>
 <item>Rev. W.R. Hendrix, Birmingham, Alabama.</item>
 <item>" F.P. Culver, Birmingham, Alabama.</item>
 <item>" S.E. wasson, Decatur, Ala.</item>
-    <add place="left margin">yes</add><item>" J.W. Newman, Gadsden, Ala.</item>
+<item><add place="margin-left">yes</add>" J.W. Newman, Gadsden, Ala.</item>
 <item>" L.C. Branscomb, Talladega, Ala.</item>
 <item>" J.D. Simpson, Anniston, Ala.</item>
 <item>" W.P. Lovejoy, D.D. Marietta, Ga.</item>
@@ -251,5 +251,5 @@ of the Wesleyen Christian Advocate.</p>
 <item>" F.M. Thomas, Owenboro, Ky.</item>
 <item>" S.P. Cresap, St. Joseph, Mo.</item>
 <item>" C.H. Briggs, DD Marshall, Mo.</item>
-<item>G. Rice D.D., <unclear>Pastor Court St Church</unclear>, Montgomery,</item> Ala</list></div></body>.</text>
+<item>G. Rice D.D., <unclear>Pastor Court St Church</unclear>, Montgomery, Ala.</item></list></div></body></text>
  </TEI>

@@ -186,9 +186,9 @@ Congress Subject headings and cleaned up the text.
 <div xml:id="yja-1855-09-14.002" type="letter">
     <pb facs="4210.jpg"/>
     <head>[Letter from Mary Houston to Young John Allen]</head>
-    <dateline><placeName>Grantville Georgia</placeName> <date when="1855-09-14">September 14th 1855</date></dateline><lb />
-<persName>Mr. A Y J W Allen</persName>,<lb />
-<salute><persName ref="#yja">Dearest Young,</persName></salute><lb />
+    <opener><dateline><placeName>Grantville Georgia</placeName> <date when="1855-09-14">September 14th 1855</date></dateline><lb />
+<persName>Mr. A Y J W Allen</persName>,</opener>
+<salute>Dearest <persName ref="#yja">Young</persName>,</salute><lb />
 <p>It were a mockery to conceal the hearts emotions, to keep back its
 joyous feelings and prevent them from flowing freely when such a
 profusion of them falls to our share, as were mine after the reception
@@ -208,15 +208,18 @@ How inexpressible the fullness of my heart when I knew that thou wert still my f
 I have no other news to write you now save I tell you that Sister's health is improving some.  Write me very soon Dear Young.</p>
 <closer>Believe me thine Forever,<lb />
     <signed><persName>Mary Houston</persName></signed></closer></div>
+</body>
 
 <back>
-<pb facs="4215.jpg"/><dateline><placeName>Grantville GA</placeName><lb />
-<date>Sept 14th</date></dateline><lb />
-<address><persName>Mr. A Y J W Allen</persName><lb />
+<div type="envelope">
+<pb facs="4215.jpg"/><dateline><placeName>Grantville GA</placeName><lb/>
+<date when="1855-09-14">Sept 14th</date></dateline><lb />
+<p><address><persName>Mr. A Y J W Allen</persName><lb />
 <addrLine>Oxford</addrLine><lb />
 <addrLine>Georgia</addrLine></address>
+</p>
 
 <pb facs="4216.jpg"/>
-1 <unclear>illegible</unclear>chapel - 6 <unclear>illegible</unclear><lb />
-2 chapel - Paul <unclear>illegible</unclear></back></body></text>
+</div>
+</back></text>
 </TEI>

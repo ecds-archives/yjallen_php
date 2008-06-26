@@ -8,7 +8,7 @@
             <name type="person">
             <choice>
             <sic>Young J. Allen</sic>
-            <reg>Allen, Young John, 1836-1907"></reg>
+            <reg>Allen, Young John, 1836-1907</reg>
             </choice>
             </name>
   
@@ -188,9 +188,10 @@ Congress Subject headings and cleaned up the text.
 	  <pb facs="4405.jpg"/>
 	  <div type="letter">
                 <head>[Letter from Young John Allen to Hon. W.W. Rockhill]</head>
+<div type="letterhead">
             <opener>
              <address><addrLine>TELEGRAPHIC ADDRESS:  "DIFFUSION SHANGHAI."</addrLine>
-<addrLine>Code :  Ager's General and Social. </addrLine></address>
+<addrLine>Code :  Ager's General and Social. </addrLine></address></opener>
 <list><head>EDITORIAL STAFF:</head>  
 <item>Rev. YOUNG J. ALLEN, D.D., LL.D. 
 Editor Review of the Times.</item>
@@ -200,7 +201,9 @@ Editor Chinese Weekly and Christian Review. </item>
 <item>Rev. W. GILBERT WALSHE, B.A., Recording Secretary.</item>
 <item>Rev. TIMOTHY RICHARD, D.D., LITT.D., General Secretary.</item>
 </list>
-
+</div>
+<div type="letter">
+<opener>	    
 <dateline><orgName>Society for the Diffusion of Christian and General Knowledge
 among the Chinese.  (S. D. C. K.)  </orgName><lb/>
 <address><addrLine>90 CHAPOO ROAD</addrLine></address><lb/>
@@ -213,15 +216,12 @@ Dear Sir --</salute> </opener><lb/>
 the Board of Trustees of our Soochow University,
 I was requested as their Chairman to call your
 Excellency's attention to the attitude of the 
-Chinese Government toward our Educational In-
-stitutions -- In  general the Govt  recognizes
+Chinese Government toward our Educational Institutions -- In  general the Govt  recognizes
 the treaty right of <hi rend="underline">Toleration</hi>, and Chinese are
 not debarred from membership in the Christian
 Church, but as Christians, Educated in our 
-institutions, irrespective of their quali-
-fications, they are counted and treated 
-as ineligible to any, even the most in-
-ferior offices.  Thus showing that the
+institutions, irrespective of their qualifications, they are counted and treated 
+as ineligible to any, even the most inferior offices.  Thus showing that the
 limited toleration they enjoy has reference
 only to their relation to Foreigners, and
 by no means implies that this Government
@@ -229,24 +229,21 @@ by no means implies that this Government
 <pb facs="4406.jpg"/>
 is disposed to recognize what it is
 supposed to grant -- Now  <add place="supralinear">while</add>  <del rend="strikethrough">an</del> we are <add place="supralinear">(averse)</add> <unclear>averse</unclear>
-<del rend="strikethrough">not disposed <add place="supralinear">averse</add></del> to recognizing the right 
+<del rend="strikethrough">not disposed</del> to recognizing the right 
 claimed by the Chinese to inspect our
 higher institutions and dictate what their 
 curricula shall be, thus attempting to 
 substitute a Confucian for a Christian
-Curriculum, we would by no means ob-
-ject to recognizing any Curriculum the 
-Government Schools may adopt, and under-
-take in connection with our system 
+Curriculum, we would by no means object to recognizing any Curriculum the 
+Government Schools may adopt, and undertake in connection with our system 
 and Courses of study to prepare men
 to stand the requisite examinations for
 the respective degrees, if by so doing our
-graduates are made equally eligible, ac-
-cording to qualification and merit. for 
+graduates are made equally eligible, according to qualification and merit. for 
 appointment to office in the Govt. Services.
 The point then to which our desire <add rend="supralinear">particularly</add> to call
 your attention resolves itself into this.
-to <del rend="strikethrough">illegible word</del>
+to <del rend="strikethrough">wit:</del>
 
 <pb facs="4407.jpg"/>
 
@@ -263,8 +260,7 @@ while China is projecting and adopting
 reforms , that no reform is more urgent or
 <add place="supralinear">would be more appropriate and</add> <del rend="strikethough">and</del> timely than <del rend="underline">one</del> to grant at once
 and for all, entire Religious liberty? It
-would be in harmony with the present as-
-pirations of the Chinese for a Constitutional 
+would be in harmony with the present aspirations of the Chinese for a Constitutional 
 Govt, and nothing could <del rend="strikethrough">illegible word</del> commend it 
 more <add place="supralinear">fully</add> to the Comity-  of nations--
 Believing this to be so, we would most 
@@ -286,9 +282,12 @@ Board of Trustees of the<lb/>
 Soochow University </signed>
 </closer>
 </div>
+</div>
     </body>
  
-<back><pb/><div><p>Society for the Diffusion of<lb/>
+<back><div>
+<pb facs="4409.jpg"/>
+<p>Society for the Diffusion of<lb/>
 Christian and General<lb/>
 Knowledge among the Chinese.<lb/>
 SHANGHAI </p><lb/>
