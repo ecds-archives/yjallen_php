@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:exist="http://exist.sourceforge.net/NS/exist"
-  exclude-result-prefixes="exist" version="1.0">
+  exclude-result-prefixes="exist" version="1.0"
+  xmlns:tei="http://www.tei-c.org/ns/1.0">
+
 
   <xsl:include href="utils.xsl"/>
   <xsl:include href="tei-table.xsl"/>
@@ -9,22 +11,22 @@
   <xsl:param name="url_suffix"/>
   <xsl:variable name="myurlsuffix"><xsl:if test="$url_suffix != ''">&amp;<xsl:value-of select="$url_suffix"/></xsl:if></xsl:variable>
 
-  <xsl:template match="teiHeader">
-    <xsl:apply-templates select="//titleStmt/title"/>
+  <xsl:template match="tei:teiHeader">
+    <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
     <xsl:apply-templates select="//relative-toc"/>
-    <xsl:apply-templates select="//titleStmt/author"/>
+    <xsl:apply-templates select="//tei:titleStmt/tei:author"/>
     <p>
-      <xsl:apply-templates select="//sourceDesc"/>
-      <xsl:apply-templates select="//rs[@type='collection']"/>
+      <xsl:apply-templates select="//tei:sourceDesc"/>
+      <xsl:apply-templates select="//tei:rs[@type='collection']"/>
     </p>
     <xsl:call-template name="doclinks"/>
   </xsl:template>
 
 
-  <xsl:template match="sourceDesc">
-      date: <xsl:apply-templates select="bibl/date"/>
+  <xsl:template match="tei:sourceDesc">
+      date: <xsl:apply-templates select="tei:bibl/tei:date"/>
       <br/>
-      source publisher: <xsl:apply-templates select="bibl/publisher"/>
+      source publisher: <xsl:apply-templates select="tei:bibl/tei:publisher"/>
   </xsl:template>
 
   <xsl:template name="doclinks">
@@ -58,7 +60,7 @@
 
 
   <!-- title links back to TOC when not at TOC view -->
-  <xsl:template match="titleStmt/title">
+  <xsl:template match="tei:titleStmt/tei:title">
     <h1>
       <xsl:choose>
         <xsl:when test="$mode = 'toc'">
@@ -74,7 +76,7 @@
     </h1>
 </xsl:template>
 
-<xsl:template match="titleStmt/author">
+<xsl:template match="tei:titleStmt/tei:author">
   <p>by <xsl:apply-templates/></p>
 </xsl:template>
 
@@ -94,11 +96,11 @@
   
 </xsl:template>
 
-<xsl:template match="rs[@type='collection']">
+<xsl:template match="tei:rs[@type='collection']">
   <!-- texts may belong to more than one collection -->
   <xsl:choose>
     <xsl:when test="position() = 1">
-      <br/>collection<xsl:if test="following-sibling::rs[@type='collection']">s</xsl:if>
+      <br/>collection<xsl:if test="following-sibling::tei:rs[@type='collection']">s</xsl:if>
       	<xsl:text>: </xsl:text> 
     </xsl:when>
     <xsl:otherwise>
@@ -115,8 +117,8 @@
 </xsl:template>
 
 
-<xsl:template match="subject|publisher">
-  <xsl:if test="preceding-sibling::publisher">
+<xsl:template match="tei:subject|tei:publisher">
+  <xsl:if test="preceding-sibling::tei:publisher">
     <xsl:text>; </xsl:text>
   </xsl:if>
   <!-- convert special characters to url format -->
@@ -134,7 +136,7 @@
 </xsl:template>
 
 <!-- display date, link to a date search -->
-<xsl:template match="bibl/date">
+<xsl:template match="tei:bibl/tei:date">
   <xsl:variable name="searchdate">
     <xsl:choose>
       <!-- uncertain dates are in this format: [186-?]; search for all 1860 matches -->

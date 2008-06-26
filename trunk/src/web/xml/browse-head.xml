@@ -3,9 +3,9 @@
 <body>
 
 <div class="headimage">
-<img class="headimage" src="images/oxexhead.jpg" width="473"
-     height="288" alt="Young John Allen"/>
-<h2 class="subhead"></h2>
+<img class="headimage" src="web/images/1735.jpg" width="216"
+     height="288" alt="Young John Allen"/><img class="headimage" src="web/images/1740.jpg" width="225" height="288" alt="Young John Allen"/>
+<h2 class="subhead">Young John Allen Papers</h2>
 <!--
 <img class="headimage" src="images/title_sm.jpg"  width="600"  height="216"
        alt="Southern Changes Online"/>

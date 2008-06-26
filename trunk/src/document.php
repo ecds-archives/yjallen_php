@@ -8,7 +8,7 @@ $id = $_REQUEST["id"];
 
 $terms = $_REQUEST["keyword"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 $xsl_file = "xslt/article.xsl";
@@ -17,7 +17,8 @@ $header2_xsl = "xslt/dc-htmldc.xsl";
 //$xsl_params = array('mode' => "flat", "vol" => $vol);
 
 
-$query='for $b in /TEI[@xml:id="' . "$id" . '"]
+$query='declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $b in /tei:TEI[@xml:id="' . "$id" . '"]
 return
 <result>
 {$b}

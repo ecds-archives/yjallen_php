@@ -2,7 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
 	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
-	xmlns:xql="http://metalab.unc.edu/xql/">
+	xmlns:xql="http://metalab.unc.edu/xql/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0">
+
 
 <xsl:include href="utils.xsl"/>
 
@@ -118,7 +120,7 @@
 </xsl:template>
 
 
-<xsl:template match="note">
+<xsl:template match="tei:note">
   <xsl:param name="mode">normal</xsl:param>	<!-- also possible: next-note -->
   <!-- Check the previous sibling; if using next-note and
        next-note-list, use sibling name to determine if we should not
@@ -198,7 +200,7 @@
 </xsl:template>
 
 <!-- inline note : display in the text  -->
-<xsl:template match="note[@place='inline']">
+<xsl:template match="tei:note[@place='inline']">
   <xsl:element name="p">
     <xsl:attribute name="class">inline-note</xsl:attribute>
     <xsl:choose>
@@ -225,7 +227,7 @@
 <!-- only display endnote div if there actually are notes -->
 <!--SC notes are not typed  <xsl:if test="count(//note[@type='foot'])
 > 0"> -->
-<xsl:if test="count(//note) > 0">
+<xsl:if test="count(//tei:text//tei:note) > 0">
     <xsl:element name="div">
       <xsl:attribute name="class">endnote</xsl:attribute>
       <xsl:element name="h2">Notes</xsl:element>
@@ -257,7 +259,7 @@ select="//note[@type='foot']" mode="end"/> -->
 -->
 <!-- SC notes not typed 
 <xsl:template match="note[@type='foot']" mode="end"> -->
-<xsl:template match="note" mode="end">
+<xsl:template match="tei:note" mode="end">
   <xsl:variable name="number">
     <xsl:choose>
       <!-- config parameter set to use n attribute for note number -->
@@ -276,8 +278,8 @@ select="//note[@type='foot']" mode="end"/> -->
  Also note: because of the preceding pb outside the returned div,
  needs a little extra logic to ensure the first page # displayed is correct. --> 
 
-  <xsl:variable name="pb"><xsl:value-of select="preceding::pb[1]/@n"/></xsl:variable>
-  <xsl:variable name="next-pb"><xsl:value-of select="following::pb[1]/@n"/></xsl:variable>
+  <xsl:variable name="pb"><xsl:value-of select="preceding::tei:pb[1]/@n"/></xsl:variable>
+  <xsl:variable name="next-pb"><xsl:value-of select="following::tei:pb[1]/@n"/></xsl:variable>
 
   <!-- convert preceding & following page number strings to numbers -->
   <xsl:variable name="prev-pnum">
@@ -348,15 +350,15 @@ select="//note[@type='foot']" mode="end"/> -->
 </xsl:template>
 
 
-<xsl:template match="note/p" mode="endnote">
+<xsl:template match="tei:note/tei:p" mode="endnote">
    <xsl:apply-templates/><br/>
 </xsl:template> 
 
 <!-- handle poetry lines within a note separately -->
-<xsl:template match="note/l" mode="endnote">
+<xsl:template match="tei:note/tei:l" mode="endnote">
 </xsl:template>
 
-<xsl:template match="note/caption" mode="endnote">
+<xsl:template match="tei:note/tei:caption" mode="endnote">
   <xsl:element name="span">
     <xsl:attribute name="class">endnote-caption</xsl:attribute>
     <xsl:apply-templates/> 
@@ -365,7 +367,7 @@ select="//note[@type='foot']" mode="end"/> -->
 </xsl:template>
 
 <!-- endnote mode: convert turn a ref inside a note into a link -->
-<xsl:template match="note/ref" mode="endnote">
+<xsl:template match="tei:note/tei:ref" mode="endnote">
   <xsl:element name="a">
     <xsl:attribute name="href">cti-tgfwfw-<xsl:value-of select="@target"/></xsl:attribute>
     <xsl:attribute name="target">_top</xsl:attribute>
@@ -380,7 +382,7 @@ select="//note[@type='foot']" mode="end"/> -->
 
 <!-- javascript modes: convert turn a ref inside a note into a link
      (note: space disappears before link; put one in.) -->
-<xsl:template match="note/ref" mode="javascript">
+<xsl:template match="tei:note/tei:ref" mode="javascript">
   <xsl:text> </xsl:text><xsl:element name="a">
     <xsl:attribute name="href">cti-tgfwfw-<xsl:value-of select="@target"/></xsl:attribute>
     <xsl:attribute name="target">_top</xsl:attribute>
@@ -389,7 +391,7 @@ select="//note[@type='foot']" mode="end"/> -->
 </xsl:template>
 
 
-<xsl:template match="hi" mode="endnote">
+<xsl:template match="tei:hi" mode="endnote">
  <span>
    <xsl:attribute name="class"><xsl:value-of select="@rend"/></xsl:attribute>
    <xsl:apply-templates/>
@@ -398,7 +400,7 @@ select="//note[@type='foot']" mode="end"/> -->
 
 
   <!-- enclose text in a javascript variable -->
-  <xsl:template match="note" mode="javascript">
+  <xsl:template match="tei:note" mode="javascript">
     var <xsl:apply-templates select="@id" mode="jsid"/> = '<xsl:apply-templates mode="javascript"/>';
   </xsl:template>
 
@@ -414,7 +416,7 @@ select="//note[@type='foot']" mode="end"/> -->
   </xsl:template>
 
 <!-- note: for some reason, was losing spacing before & after text -->
-<xsl:template match="hi[@r!='roman']" mode="javascript">
+<xsl:template match="tei:hi[@r!='roman']" mode="javascript">
  <xsl:text> </xsl:text>
  <xsl:element name="span">
    <xsl:attribute name="class"><xsl:value-of select="@r"/></xsl:attribute>
