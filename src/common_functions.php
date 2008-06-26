@@ -20,7 +20,7 @@ function getCSS () {
   //$css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   // production
   //  $css_basepath = "http://cti.library.emory.edu/iln/";
-  //  $css_basepath = "http://beck.library.emory.edu/oxfordexperience";
+  //  $css_basepath = "http://beck.library.emory.edu/YoungJohnAllen";
   $css = "web/css/yjallen.css"; 
  /* if ($browser == "MSIE") {
     if ($os == "mac") {
@@ -42,7 +42,7 @@ function html_head ($mode, $contentlist = false) {
   $mycss = getCSS();
 print "<html>
  <head>
- <title>$mode - Young John Allen Letters</title>
+ <title>$mode - Young John Allen Papers</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <meta name=\"robots\" content=\"index,follow\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";

@@ -4,7 +4,8 @@
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
 	xmlns:xql="http://metalab.unc.edu/xql/"
 	xmlns:exist="http://exist.sourceforge.net/NS/exist"
-	exclude-result-prefixes="exist" version="1.0">
+	exclude-result-prefixes="exist" version="1.0"
+	xmlns:tei="http://www.tei-c.org/ns/1.0">
 
 
 <xsl:param name="kwic"/> <!-- value is true if comes from search -->
@@ -27,7 +28,7 @@
 
 <xsl:template match="/"> 
     <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
-    <xsl:apply-templates select="//body"/>
+    <xsl:apply-templates select="//tei:body"/>
 
 </xsl:template>
 
@@ -35,7 +36,7 @@
 <xsl:template match="/"> 
   <!-- recall the article list -->
   <xsl:call-template name="return" />
-<xsl:apply-templates select="//div" />
+<xsl:apply-templates select="//tei:text" />
 <!-- display footnotes at end -->
     <xsl:call-template name="endnotes"/>
   <!-- recall the article list -->
@@ -46,41 +47,41 @@
 
 
 <!-- print out the content-->
-<xsl:template match="body">
+<xsl:template match="tei:text">
 <!-- get everything under this node -->
   <xsl:apply-templates/> 
 </xsl:template>
 
   <!-- figure code for yjallen, using P5 @facs in pb -->
   
-  <xsl:template match="//pb">
-    <xsl:if test="ancestor::p"><br/></xsl:if>
+  <xsl:template match="//tei:pb">
+    <xsl:if test="ancestor::tei:p | ancestor::back"><br/></xsl:if>
     <xsl:element name="a">
       <xsl:attribute name="href"><xsl:value-of select="concat($figure-prefix, @facs)"/></xsl:attribute>
       <xsl:attribute name="target">_blank</xsl:attribute>
       View image of page
     </xsl:element>
-    <xsl:if test="ancestor::p"><br/></xsl:if>
+    <xsl:if test="ancestor::tei:p | ancestor::tei:back"><br/></xsl:if>
   </xsl:template>
   
 <!-- display the title -->
-<xsl:template match="div/head">
+<xsl:template match="tei:div/tei:head">
   <xsl:element name="h1">
    <xsl:apply-templates />
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="byline">
+<xsl:template match="tei:byline">
   <xsl:element name="i">
     <xsl:value-of select="."/>
   </xsl:element>
 </xsl:template>
-<xsl:template match="docDate">
+<xsl:template match="tei:docDate">
 <xsl:element name="p">
   <xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
-<xsl:template match="bibl">
+<xsl:template match="tei:bibl">
 <xsl:element name="p">
   <xsl:apply-templates/>
 </xsl:element>
@@ -112,52 +113,52 @@
 
 </xsl:template> -->
 
-
+<!-- not using this
 <xsl:template match="div3/head">
     <xsl:element name="h2">
     Sidebar: <xsl:value-of select="."/>
   </xsl:element>
 </xsl:template>
+-->
 
-
-<xsl:template match="p/title">
+<xsl:template match="tei:p/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="bibl/title">
+<xsl:template match="tei:bibl/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="p">
+<xsl:template match="tei:p">
   <xsl:element name="p">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="q">
+<xsl:template match="tei:q">
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="list">
+<xsl:template match="tei:list">
   <xsl:element name="ul">
    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="item">
+<xsl:template match="tei:item">
   <xsl:element name="li">
    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
 
 
-<xsl:template match="speaker">
+<xsl:template match="tei:speaker">
 <xsl:element name="br"/>
 <xsl:element name="span">
 <xsl:attribute name="class">speaker</xsl:attribute>
@@ -165,7 +166,7 @@
 </xsl:element>
 </xsl:template>
 
-<xsl:template match="sp/p">
+<xsl:template match="tei:sp/tei:p">
 <xsl:element name="span">
 <xsl:attribute name="class">speech</xsl:attribute>
 <xsl:apply-templates/>
@@ -173,7 +174,7 @@
 <xsl:element name="br"/>
 </xsl:template>
 
-<xsl:template match="lg/head">
+<xsl:template match="tei:lg/tei:head">
 <xsl:apply-templates/>
 <xsl:element name="br"/>
 </xsl:template>
@@ -184,7 +185,7 @@
 <xsl:element name="br"/>
 </xsl:template>
 -->
-<xsl:template match="dateline">
+<xsl:template match="tei:dateline">
 <xsl:apply-templates/>
 <xsl:element name="br"/>
 </xsl:template>
@@ -194,6 +195,12 @@
 <xsl:element name="br"/>
 </xsl:template>
 -->
+
+<!-- usually need a break after an addrLine -->
+<xsl:template match="tei:addrLine">
+<xsl:apply-templates/>
+<xsl:element name="br"/>
+</xsl:template>
 
 <!-- convert rend tags to their html equivalents 
      so far, converts: center, italic, smallcaps, bold   -->
@@ -230,14 +237,28 @@
         <xsl:apply-templates/>
          </xsl:element>
     </xsl:when>
+    <xsl:when test="@rend='strikethrough'">
+      <xsl:element name="span"><xsl:attribute name="class">del</xsl:attribute>
+      <xsl:apply-templates/>
+      </xsl:element>
+      <xsl:element name="span">
+      <xsl:attribute name="class">editorial</xsl:attribute>
+      [deleted]
+      </xsl:element>
+    </xsl:when>
+    <xsl:when test="@rend='superscript'">
+      <xsl:element name="span"><xsl:attribute name="class">superscript</xsl:attribute>
+      <xsl:apply-templates/>
+      </xsl:element>
+    </xsl:when>
   </xsl:choose>
 </xsl:template>
 
-<xsl:template match="lb">
+<xsl:template match="tei:lb">
   <xsl:element name="br" />
 </xsl:template>
 
-<xsl:template match="pb">
+<xsl:template match="tei:pb">
   <hr class="pb"/>
   <xsl:if test="pb/@n">
     <p class="pagebreak">
@@ -245,8 +266,13 @@
 </xsl:if>
 </xsl:template>
 
+<xsl:template match="tei:back">  <!-- print the back-->
+  <xsl:apply-templates/>
+</xsl:template>
+  
+
 <!-- sic : show 'sic' as an editorial comment -->
-<xsl:template match="sic">
+<xsl:template match="tei:sic | tei:orig">
   <xsl:apply-templates select="text()"/>
   <!-- show the text between the sic tags -->
   <xsl:element name="span">
@@ -254,10 +280,49 @@
 	[sic]
   </xsl:element>
 </xsl:template>
+<!-- put the correction in brackets and add style for coloring -->
+<xsl:template match="tei:corr | tei:reg">
+  <xsl:element name="span">
+    <xsl:attribute name="class">edcorr</xsl:attribute>
+  <xsl:text> [</xsl:text>
+  <xsl:apply-templates select="text()"/>
+  <xsl:text>] </xsl:text>
+  </xsl:element>
+</xsl:template>
+<!-- add and del colored and commented -->
+  <xsl:template match="tei:add">
+    <xsl:element name="span">
+      <xsl:attribute name="class">add</xsl:attribute>
+      <xsl:apply-templates select="text()"/>
+    </xsl:element>
+    <xsl:element name="span">
+      <xsl:attribute name="class">editorial</xsl:attribute>
+      [added]
+    </xsl:element>
+  </xsl:template>
 
-
+  <xsl:template match="tei:del">
+    <xsl:element name="span">
+      <xsl:attribute name="class">del</xsl:attribute>
+      <xsl:apply-templates select="text()"/>
+    </xsl:element>
+    <xsl:element name="span">
+      <xsl:attribute name="class">editorial</xsl:attribute>
+      [deleted]
+    </xsl:element>
+  </xsl:template>
+<!--  unclear as an editorial comment -->
+  <xsl:template match="tei:unclear">
+    <xsl:apply-templates select="text()"/>
+    <!-- show the text between the unclear tags -->
+    <xsl:element name="span">
+      <xsl:attribute name="class">editorial</xsl:attribute>
+      [unclear]
+    </xsl:element>
+  </xsl:template>
+  
 <!-- line group -->
-<xsl:template match="lg">
+<xsl:template match="tei:lg">
   <xsl:element name="p">
      <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
     <xsl:apply-templates />
@@ -267,7 +332,7 @@
 <!-- line  -->
 <!--   Indentation should be specified in format rend="indent#", where # is
        number of spaces to indent.  --> 
-<xsl:template match="l">
+<xsl:template match="tei:l">
   <!-- retrieve any specified indentation -->
   <xsl:if test="@rend">
   <xsl:variable name="rend">

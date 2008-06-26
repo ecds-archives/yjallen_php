@@ -1,15 +1,13 @@
-@import "highlight.css";
 @import "footnotes.css";
-body { text-color: #333333;
-     background-image: url(images/bg1.gif);}
+body {background-image: url(images/bg1.gif);}
 /* styles for the header and footer */
 div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
 /*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
 /*div.header { border: 3px solid #02023a; text-align:center;} */
 
 /* styles for main part of page */ 
-a:link {color: #200674; text-decoration: none; }
-a:visited {color: #0028b9; text-decoration:none;}
+a:link {color: blue; text-decoration: none; }
+a:visited {color: purple; text-decoration:none;}
 
 div.header h1 { font-family: "Arial", "MS Arial", sans-serif; 
 	   font-size: 36pt; 
@@ -38,19 +36,23 @@ p.searchbox {font-family: Arial, sans-serif;
 p.searchbox b {padding-right: 5px;}
 p.searchbox input#go{margin-left: 5px;}
 
-div.headimage {position:static;  
+div.headimage {position:static; 
+              display: block;
+              text-align:center;
 	      margin-top: 2em; 
 	      margin-bottom: 1em; }
 div.headimage h2 { font-family: "Arial", "MS Arial", sans-serif; 
-	   font-size: 13pt;
-	   color: #20074b;
-	   font-style: italic; 
+	   font-size: 28pt;
+	   color:#684E4C;
+	   /*font-style: italic; */
 	   text-align: center;}
+div.headimage img {display: inline;
+    padding: 5px;
+    margin: 0 auto;}
 
-img.headimage {display: block;
-	      text-align: center;
+/*img.headimage {display: block;
 	      margin-left: auto; 
-	      margin-right: auto;}
+	      margin-right: auto;}*/
 
 div.nav {font-family: "Arial Bold", Arial, "MS Arial", sans-serif;
 	font-size: 24pt;  
@@ -148,6 +150,10 @@ p#beck {margin-left: auto;
 
 span#bc, span#src {padding: 0 2em;}
 span.editorial { color: #545454; font-size: 10px; font-weight: normal; /* same as body text, even inside a head */ }
+span.edcorr {color: #545454;}
+span.add {color:green;}
+span.del {color:red}
+
 
 span.speaker {font-weight: bold;}
 
@@ -216,6 +222,9 @@ span.match { font-weight:bold; background-color:#200674; color:#FFFFFF; }
 
 /*span.right for text right aligned*/
 span.right {text-align:right;}
+
+/*span.superscript for elevated text*/
+span.superscript {vertical-align: super; font-size: smaller;}
 
 /* next/prev/etc. navigation */
 div.searchnav {
