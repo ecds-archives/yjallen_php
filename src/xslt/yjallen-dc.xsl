@@ -7,7 +7,7 @@
   <!-- This stylesheet creates Dublin core metadata for each document -->
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="baseurl">http://beck.library.emory.edu/</xsl:variable>
-  <xsl:variable name="siteurl">YoungJohnAllen</xsl:variable>
+  <xsl:variable name="siteurl">youngjohnallen</xsl:variable>
 
   <xsl:template match="/">
     <dc>
