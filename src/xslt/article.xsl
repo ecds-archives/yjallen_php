@@ -39,7 +39,7 @@
   <xsl:call-template name="return" />
 <xsl:apply-templates select="//tei:text" />
 <!-- display footnotes at end -->
-    <xsl:call-template name="endnotes"/>
+<!--    <xsl:call-template name="endnotes"/> -->
   <!-- recall the article list -->
   <xsl:call-template name="return" />
 <!-- links to next & previous titles (if present) -->
@@ -56,7 +56,7 @@
   <!-- figure code for yjallen, using P5 @facs in pb -->
   
   <xsl:template match="//tei:pb">
-    <xsl:if test="ancestor::tei:p | ancestor::back"><br/></xsl:if>
+    <xsl:if test="ancestor::tei:p | ancestor::tei:back"><br/></xsl:if>
     <xsl:element name="a">
       <xsl:attribute name="href"><xsl:value-of select="concat($figure-prefix, @facs)"/></xsl:attribute>
       <xsl:attribute name="target">_blank</xsl:attribute>
@@ -202,6 +202,14 @@
 <xsl:apply-templates/>
 <xsl:element name="br"/>
 </xsl:template>
+
+<!-- handle notes inline for yja -->
+<xsl:template match="tei:text//tei:note">
+<xsl:element name="span"><xsl:attribute name="class">note</xsl:attribute>
+<xsl:text>[Note: </xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
+</xsl:element>
+</xsl:template>
+
 
 <!-- convert rend tags to their html equivalents 
      so far, converts: center, italic, smallcaps, bold   -->
