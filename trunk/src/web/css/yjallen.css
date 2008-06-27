@@ -1,5 +1,5 @@
 @import "footnotes.css";
-body {background-image: url(images/bg1.gif);}
+body {background-image: url(web/images/bg1.jpg);}
 /* styles for the header and footer */
 div.header, div.footer { text-align: center; width: 700px;  /*width: 665px;*/ margin: auto; }
 /*div.header, div.footer { center: true; text-align: center; width: 665px; margin: auto; clear: both; }*/
@@ -218,7 +218,7 @@ li.firstresultlink { border-left: none; }
 div.resultlink { float: right; padding-right: 0.5in;}
 
 /*span.match { font-weight: bold; }*/
-span.match { font-weight:bold; background-color:#200674; color:#FFFFFF; }
+span.match { font-weight:bold; background-color:#684E4C; color:#FFFFFF; }
 
 /*span.right for text right aligned*/
 span.right {text-align:right;}
@@ -228,7 +228,7 @@ span.superscript {vertical-align: super; font-size: smaller;}
 
 /* next/prev/etc. navigation */
 div.searchnav {
-  background:#200674; 
+  background:#684E4C; 
   margin-bottom:10px; 
   height:20px;
   text-align:center;
@@ -247,7 +247,7 @@ div.searchnav a:hover, table.searchnav a:hover {
 }
 
 table.searchnav { 
-  background:#200674; 
+  background:#684E4C; 
   margin-bottom:10px; 
   height:20px;
   text-align:center;
