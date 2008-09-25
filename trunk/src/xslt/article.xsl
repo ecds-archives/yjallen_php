@@ -289,6 +289,16 @@
 	[sic]
   </xsl:element>
 </xsl:template>
+
+<!-- gap : show 'gap' as an editorial comment, pick up @extent, @unit, @reason -->
+<xsl:template match="tei:gap">
+  <xsl:element name="span">
+    <xsl:attribute name="class">editorial</xsl:attribute>
+       <xsl:text>[gap </xsl:text><xsl:value-of select="@extent"/><xsl:text> </xsl:text><xsl:value-of select="@unit"/><xsl:text> </xsl:text><xsl:value-of select="@reason"/><xsl:text>]</xsl:text>
+  </xsl:element>
+</xsl:template>
+
+
 <!-- put the correction in brackets and add style for coloring -->
 <xsl:template match="tei:corr | tei:reg">
   <xsl:element name="span">
