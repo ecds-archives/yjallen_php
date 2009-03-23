@@ -2,10 +2,10 @@
  <teiHeader>
   <fileDesc>
    <titleStmt><title>Letter from Young John Allen to Mollie Houston, <date when="1857-04-12">April
-      13, 1857</date>, an electronic edition</title> ****<author>
+      13, 1857</date>, an electronic edition</title><author>
      <name type="person">
       <choice>
-       <sic>A.Y.J.W. Allen</sic>
+       <sic>Young</sic>
        <reg>Allen, Young John, 1836-1907</reg>
       </choice>
      </name>
@@ -58,55 +58,11 @@
      </person>
      <person xml:id="thyun">
       <persName>
-       <forename>T.</forename>
-       <forename>H.</forename>
-       <surname>Yun</surname>
+       <forename>Mary</forename>
+       <forename>Houston</forename>
+       <surname>Allen</surname>
       </persName>
-      <persName>
-       <forename>Ch'i-ho</forename>
-       <surname>Yun</surname>
-      </persName>
-      <birth when="1865">
-       <placeName>
-        <country>Korea</country>
-       </placeName>
-      </birth>
-      <death when="1945-12-06">December 6, 1945 </death>
-     </person>
-     <person xml:id="wac">
-      <persName>
-       <forename>Warren</forename>
-       <forename>Akin</forename>
-       <surname>Candler</surname>
-      </persName>
-      <birth when="1857-08-23">
-       <placeName>
-        <settlement type="county">Carroll County</settlement>
-        <region type="state">Georgia</region>
-        <country>United States</country>
-       </placeName>
-      </birth>
-      <death when="1941-09-25">
-       <placeName>
-        <settlement type="city">Atlanta</settlement>
-        <region type="state">Georgia</region>
-        <country>United States</country>
-       </placeName>
-      </death>
-     </person>
-     <person xml:id="tsoong">
-      <persName>
-       <forename>Kia</forename>
-       <forename>Tsing</forename>
-       <surname>Tsoong</surname>
-      </persName>
-      <persName>
-       <forename>George</forename>
-       <surname>Bell</surname>
-      </persName>
-     </person>
-
-
+      
      <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->
     </listPerson>
     <listPlace>
@@ -163,13 +119,12 @@
     <keywords scheme="lcsh"> ***<list>
       <item>Allen, Young John, 1836-1907.</item>
       <item>Emory College, Oxford, Ga.</item>
-      <item>Missionaries -- China.</item>
-      <item>China--Religion.</item>
+      <item>Allen, Mary Houston</item>    
      </list>
     </keywords>
    </textClass>
   </profileDesc>
-  <revisionDesc> ***<change><date when="2009-03-23">March 23, 2009</date><name xml:id="sej">Yvette
+  <revisionDesc><change><date when="2009-03-23">March 23, 2009</date><name xml:id="sej">Yvette
      Wright</name> transcribed and encoded the text. </change>
   </revisionDesc>
  </teiHeader>
@@ -233,7 +188,7 @@
      the Conference next winter.--</p>
     <p>My case (concerning which I asked your advice) is before the preacher &amp; leaders. I have
      not heard yet the result of my petition but will in a few days and let you know.-- I went no
-     farther down the road than Atlanta-- But according to <unclear>illegible word</unclear> I shall have to go down on some
+     farther down the road than Atlanta-- But according to <unclear>friends</unclear> I shall have to go down on some
      business to Grantville about the first of May.-- If there should be anything at that time you
      want from there, or that I can do for you please write me Mollie and you know how happy I will
      be to do it for you. I can get anything for you and send it down from Atlanta to you on my
