@@ -1,3 +1,4 @@
+<TEI>
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -5,7 +6,7 @@
             <author>
             <name type="person">
               <choice>
-                <sic><!-- First name Last name--></sic>
+                <sic>Young</sic>
                   <reg>Allen, Young John, 1836-1907</reg>
               </choice>
             </name>
@@ -56,7 +57,7 @@
                     </death>
                     </person>
                 
-    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+    <person><persName><forename>Mollie</forename><surname>Houston</surname></persName></person>                     </listPerson>
  
              <listPlace> <!-- add any list places you want to -->
                 <place>
@@ -105,7 +106,7 @@
             <rs type="collection">Young John Allen Papers</rs>
             <rs type="language">English</rs>
             <rs type="geography">United States</rs>
-            <date>1800-1899</date>  <!-- or 1900-1999 -->
+            <date>1800-1899</date>  
         </creation>
         <textClass>
             <keywords scheme="lcsh">
@@ -127,7 +128,12 @@
         </change>
     </revisionDesc>
 </teiHeader>
-<opener><dateline><placeName>E. C. Oxford, Geo.,</placeName> Aug. 21st 1836</dateline></opener>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen-11-ff1-007.jpg"/>
+<opener><dateline><placeName>E. C. Oxford, Geo.,</placeName> Aug. 21st 1856</dateline></opener>
+                    
 
 <salute>My dearest Mollie,</salute>
 
@@ -174,9 +180,12 @@ own constantly and purely forever.</p>
 <placename>Grantville
     Georgia</placename></address>
 
-<postscript><p>Mr. Peabody of Columbus, of my class who left here sick on the night of the 5th of July, is dead.</postscript>
+<postscript><p>Mr. Peabody of Columbus, of my class who left here sick on the night of the 5th of July, is dead.</p></postscript>
 
-    <p>Are you acquainted with a Mr. Honeycut of Coweta, now a student here?</p>  <signed>"Thine own"</signed><p>Mollie Dearest please answer this as soon as you can and I will try and writ4 you a letter after a while, and talk <hi rend="underline">lots</hi> with you.</p>
+                <postscript><p>Are you acquainted with a Mr. Honeycut of Coweta, now a student here?</p></postscript>  <signed>"Thine own"</signed><p>Mollie Dearest please answer this as soon as you can and I will try and writ4 you a letter after a while, and talk <hi rend="underline">lots</hi> with you.</p>
     <p>Good bye</p>
         <signed><name>Young</name></signed>
-
+            </div>
+         </body>   
+    </text>
+</TEI>

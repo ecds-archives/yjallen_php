@@ -1,4 +1,5 @@
-<TEI><teiHeader>
+<TEI>
+    <teiHeader>
     <fileDesc>
         <titleStmt>
             <title>Letter from Young John Allen to Mollie Houston, <date when="1856-08-02">August 2nd 1856</date>, an electronic edition</title>
@@ -33,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>letter from Young John Allen to Mollie Houston<date when="1856-08-02">August 2 1856</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>letter from Young John Allen to Mollie Houston<date when="1856-09-10">August 2 1856</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -104,7 +105,7 @@
             <rs type="collection">Young John Allen Papers</rs>
             <rs type="language">English</rs>
             <rs type="geography">United States</rs>
-            <date>1800-1899</date>  <!-- or 1900-1999 -->
+            <date>1800-1899</date>  
         </creation>
         <textClass>
             <keywords scheme="lcsh">
@@ -126,19 +127,22 @@
         </change>
     </revisionDesc>
 </teiHeader>
-    <text><body>
+    <text><body><div>
+        <pb facs="Allen-11-ff1-016.jpg"/> 
         <opener>
             <dateline><placename>Emory College, Oxford Geo. </placename><lb/>
-                <date when="1856-09-10">Sept. 10 1836</date>
+                <date when="1856-09-10">Sept. 10 1856</date>
             </dateline><lb/>
             <salute>My Dear Mollie,</salute></opener>
         <p>Three weeks ago tomorrow I wrote you a short letter, and hearing of your excuse for not replying sooner, I waited two weeks, and then 
             addressed you another, since which I have now waited to within one day of another week, making out the three, and no reply has come yet.
             My Dearest One, you must pardon me if I begin to be impatient, and if I should suppose something very excusable has transpired, I can not 
-            account for it, unless some of you are sick and I <hi rend="underline">do hope not,</hi> for I know you<hi rend="underline">have not forgotten me</hi>,  no, you cannot forget me.</p>
-        <p>Perhaps you did not receive my letters, which might be possible, but I reckon they went through right.<pb/>
-        Now Dearest, you cannot doubt my wixh to hear from you.</p>
-        <p>You cannot imagine, "the pain the agony, the doubt," that has characterized this long, long and painful suspense, thris long and coubly painful because it is <hi rend="underline">thee</hi>, and <hi rend="underline">thy</hi> delay.  I have no doubt as to your excuse for not having written, atall, and that is one of the <hi rend="underline">whys</hi>, that I am so anxious to hear from you, that I may know what has been the cause, whether anything serious or not, for I begin to fear there is- and yet if you were sick or otherwise seriously or providentially hindered from writing it seems that some of my friends surely would write me some information of it; but as yet none of <hi rend="underline">them</hi> have written, surely I must<pb/> be <hi rend="underline">forgotten</hi>.</p>
+            account for it, unless some of you are sick and I <hi rend="underline">do hope not,</hi> for I know you <hi rend="underline">have not forgotten me</hi>,  no, you cannot forget me.</p>
+        <p>Perhaps you did not receive my letters, which might be possible, but I reckon they went through right.
+            <pb facs="Allen-11-ff1-017.jpg"/> 
+        Now Dearest, you cannot doubt my wish to hear from you.</p>
+        <p>You cannot imagine, "the pain the agony, the doubt," that has characterized this long, long and painful suspense, thris long and coubly painful because it is <hi rend="underline">thee</hi>, and <hi rend="underline">thy</hi> delay.  I have no doubt as to your excuse for not having written, atall, and that is one of the <hi rend="underline">whys</hi>, that I am so anxious to hear from you, that I may know what has been the cause, whether anything serious or not, for I begin to fear there is- and yet if you were sick or otherwise seriously or providentially hindered from writing it seems that some of my friends surely would write me some information of it; but as yet none of <hi rend="underline">them</hi> have written, surely I must
+            <pb/> be <hi rend="underline">forgotten</hi>.</p>
         <p>Dearest one, I know you will write before long; if not before receiving this, in answer to this.</p>  
         <p>This surely is punishment, is torture commensurate with any crimes I have done, is'nt so Mollie.</p>
         <p>I have <hi rend="underline">a heap</hi> to write you My <hi rend="underline">Dearest One</hi>, as soon as you will reply to my previous letters and cheer me up enough to write it.  Please do it then soon.</p>
@@ -147,6 +151,6 @@
         <p>Miss Mollie Houston<lb/>
         Grantville<lb/>
         Georgia</p>
-    </body></text>
+    </div></body></text>
     
 </TEI>
