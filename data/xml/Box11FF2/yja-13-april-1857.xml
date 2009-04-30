@@ -1,8 +1,10 @@
 <TEI>
  <teiHeader>
   <fileDesc>
-   <titleStmt><title>Letter from Young John Allen to Mollie Houston, <date when="1857-04-12">April
-      13, 1857</date>, an electronic edition</title><author>
+   <titleStmt>
+    <title>Letter from Young John Allen to Mollie Houston, <date when="1857-04-12">April 13,
+      1857</date>, an electronic edition</title>
+    <author>
      <name type="person">
       <choice>
        <sic>Young</sic>
@@ -61,8 +63,9 @@
        <forename>Mary</forename>
        <forename>Houston</forename>
        <surname>Allen</surname>
-      </persName></person>
-      
+      </persName>
+     </person>
+
      <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->
     </listPerson>
     <listPlace>
@@ -119,18 +122,20 @@
     <keywords scheme="lcsh"> ***<list>
       <item>Allen, Young John, 1836-1907.</item>
       <item>Emory College, Oxford, Ga.</item>
-      <item>Allen, Mary Houston</item>    
+      <item>Allen, Mary Houston</item>
      </list>
     </keywords>
    </textClass>
   </profileDesc>
-  <revisionDesc><change><date when="2009-03-23">March 23, 2009</date><name xml:id="sej">Yvette
-     Wright</name> transcribed and encoded the text. </change>
+  <revisionDesc>
+   <change><date when="2009-03-23">March 23, 2009</date><name xml:id="sej">Yvette Wright</name>
+    transcribed and encoded the text. </change>
   </revisionDesc>
  </teiHeader>
  <text>
   <body>
    <div type="letter">
+    <pb facs="Allen_11_ff2_003.jpg"/>
     <opener>
      <dateline>E.C. Oxford Geo. <date when="1857-04-13">Apr. 13 1857</date></dateline>
 
@@ -144,17 +149,19 @@
      is leading us on.-- My Dear Mollie, your letter overcame me I was <hi rend="underline">so
       glad</hi>.-- I went away, <hi rend="underline">far away</hi>into a <hi rend="underline">thick
       wood</hi> and there praised and blessed God and thanked him that he had heard our prayers and
-     blessed our souls with the <hi rend="underline">fulness</hi> of his love and with the joy and<pb/>
-     of a <hi rend="underline">full Salvation</hi>, of an entire and accepted consecration, yes of
-     an entire Sanctification of soul and all its powers, of body, time, talents and <add
-      place="supralinear">all our</add> substance and all our interests in the world.-- And just
-     about the time I got your letter, I believe on the very same day, I found out that another one
-     of my friends here had gained the triumph.-- And oh! Glory be to God, Mollie, I have been <hi
-      rend="underline">full</hi> all the week, I could <hi rend="underline">scarcely talk</hi>,
-     tears of joy would rush and fill my eyes all the times, and choke my utterance. I had to stay
-     in my room and rejoice and my happy, dear friends would visit me once and awhile and such <del
-      rend="strikethrough">a</del>glorious times this earth never affords to poor sinners-- And my
-     Mollie<pb/><p>At class meeting on Friday night the good Spirit and all its sweet and heavenly influences
+     blessed our souls with the <hi rend="underline">fulness</hi> of his love and with the joy
+      and<pb/><pb facs="Allen_11_ff2_004.jpg"/> of a <hi rend="underline">full Salvation</hi>, of an
+     entire and accepted consecration, yes of an entire Sanctification of soul and all its powers,
+     of body, time, talents and <add place="supralinear">all our</add> substance and all our
+     interests in the world.-- And just about the time I got your letter, I believe on the very same
+     day, I found out that another one of my friends here had gained the triumph.-- And oh! Glory be
+     to God, Mollie, I have been <hi rend="underline">full</hi> all the week, I could <hi
+      rend="underline">scarcely talk</hi>, tears of joy would rush and fill my eyes all the times,
+     and choke my utterance. I had to stay in my room and rejoice and my happy, dear friends would
+     visit me once and awhile and such <del rend="strikethrough">a</del>glorious times this earth
+     never affords to poor sinners-- And my Mollie</p>
+    <pb/>
+    <p>At class meeting on Friday night the good Spirit and all its sweet and heavenly influences
      were there.-- Our leader called on me to close by prayer after the exercises were over-- and in
      the act of praying the power of the Spirit seemed to rest upon my soul and almost overcome me,
      (this poor soul)-- so that I went away rejoicing and from that time till now I have been
@@ -162,19 +169,20 @@
     <p>I set down on Saturday evening to answer your letter, but before I wrote half a page, my soul
      became so full and overwhelmed that I had to stop,-- I <hi rend="underline">could not</hi>
      write.-- I feel the same good Spirit this morning and would delight to write you a full answer
-     to your letter but I cannot<pb/> as I have but a very few minutes this morning and I know not when I
-     ever will have time again-- as I Just hastily drop you these lines to tell you My <hi
+     to your letter but I cannot<pb/><pb facs="Allen_11_ff2_005.jpg"/> as I have but a very few minutes this morning and I know not
+     when I ever will have time again-- as I Just hastily drop you these lines to tell you My <hi
       rend="underline">Dearest, precious Mollie</hi>, that I know not when I can write you a full
      answer, for I have so much to do now I can scarcely turn round.-- I want you to write me a <hi
       rend="underline">long letter</hi> in answer to <hi rend="underline">this</hi> if it is <hi
       rend="underline">but a note</hi>, and tell me some more of your experience and how you have
-     enjoyed yourself since that happy triumphing hour when "faith lent its realizing light."-- Don't
-     be ashamed, nor <sic>affraid</sic> to confess what the Lord has done for you My Beloved Mollie
-     no, no, that is, to those who ought to know.</p>
+     enjoyed yourself since that happy triumphing hour when "faith lent its realizing light."--
+     Don't be ashamed, nor <sic>affraid</sic> to confess what the Lord has done for you My Beloved
+     Mollie no, no, that is, to those who ought to know.</p>
     <p>Be sure and read the <hi rend="underline">Riches</hi> of <hi rend="underline">Grace</hi> as I
      asked you Mollie, in connection with your present experience it will confirm and establish your
      heart in its present height of joy and love.-- We sent on for 5 more copies of it here, all the
-     boys are so anxious to read it.</p><pb/>
+     boys are so anxious to read it.</p>
+    <pb/><pb facs="Allen_11_ff2_006.jpg"/>
     <p>Speak to Miss Nellie on the subject, if you think it will be prudent, or any other of your
      friends that are anxious for a growth in grace and get them enlisted with you and endeavor, My
      Dearest, to awaken a deep concern on the subject there as there is now with us.-- Oh! the good,
@@ -185,19 +193,21 @@
      Columbus-- one of my best friends, the <hi rend="underline">first</hi> one that raised the
      shout of <hi rend="underline">triumph</hi> this term in Oxford-- he is a happy soul, will join
      the Conference next winter.--</p>
-    <p>My case (concerning which I asked your advice) is before the preacher &amp; leaders. I have
-     not heard yet the result of my petition but will in a few days and let you know.-- I went no<pb/>
-     farther down the road than Atlanta.-- But according to <unclear>friends</unclear> I shall have to go down on some
-     business to Grantville about the first of May.-- If there should be anything at that time you
-     want from there, or that I can do for you please write me Mollie and you know how happy I will
-     be to do it for you. I can get anything for you and send it down from Atlanta to you on my
-     return.-- You can write home and have arrangements made for sending you whatever you want and I
-     will attend to it as I return.--</p>
-    <closer><p><hi rend="underline">My Dearest Mollie</hi>, pray much for your own unworthy Young, that he may hold out, be faithful
-     and do the will of God in all things.--</p>
-    <p>Pardon this as it is only a few lines to warn you that I know not when I can write.-- Write
-     immediately please My Mollie.-- God bless you and keep you in the prayer of <hi rend="underline">your own faithful</hi>
-     Young <hi rend="underline">forever</hi>.--</p></closer>
+    <p>My case (concerning which I asked your advice) is before the preacher &amp; leaders. I
+     have not heard yet the result of my petition but will in a few days and let you know.-- I went
+     no<pb/><pb facs="Allen_11_ff2_007.jpg"/> farther down the road than Atlanta.-- But according to <unclear>friends</unclear> I
+     shall have to go down on some business to Grantville about the first of May.-- If there should
+     be anything at that time you want from there, or that I can do for you please write me Mollie
+     and you know how happy I will be to do it for you. I can get anything for you and send it down
+     from Atlanta to you on my return.-- You can write home and have arrangements made for sending
+     you whatever you want and I will attend to it as I return.--</p>
+    <closer>
+     <p><hi rend="underline">My Dearest Mollie</hi>, pray much for your own unworthy Young, that he
+      may hold out, be faithful and do the will of God in all things.--</p>
+     <p>Pardon this as it is only a few lines to warn you that I know not when I can write.-- Write
+      immediately please My Mollie.-- God bless you and keep you in the prayer of <hi
+       rend="underline">your own faithful</hi> Young <hi rend="underline">forever</hi>.--</p>
+    </closer>
    </div>
   </body>
  </text>
