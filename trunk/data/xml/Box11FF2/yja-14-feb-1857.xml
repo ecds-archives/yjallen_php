@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-14-feb-1857.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -41,8 +41,7 @@
                 </respStmt>
             </seriesStmt>
             <sourceDesc>
-                <bibl>Letter from Young John Allen to Mollie, <date when="1857-02-14">February 14,
-                        1857</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book
+                <bibl>Letter from Young John Allen to Mollie, <date when="1857-02-14">February 14, 1857</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book
                     Library, Emory University.</bibl>
                 <listPerson>
                     <person xml:id="yja">
@@ -114,7 +113,8 @@
 
             </creation>
             <textClass>
-                <keywords scheme="lcsh"> ***<list>
+                <keywords scheme="lcsh"> 
+		  <list>
                         <item>Allen, Young John, 1836-1907.</item>
                         <item>Emory College, Oxford, Ga.</item>
                         <item>Allen, Mary Houston</item>
@@ -130,25 +130,25 @@
     <text>
         <body>
             <div type="letter">
-                <pb facs="Allen_11_ff2_049.jpg"/>
-                <opener>"Don't view this with critic's eye<lb/>But pass its imperfections by."<lb/>--Nights--<lb/>
-                    <dateline>Emory College. Oxford Geo. <date when="1857-02-14">Feb. 14
+                <pb facs="Allen_11_ff2_049.jpg" n="1st"/>
+                <opener><epigraph><quote>"Don't view this with critic's eye<lb/>But pass its imperfections by."</quote></epigraph>
+                    <dateline>Night<lb/>Emory College. Oxford Geo. <date when="1857-02-14">Feb. 14
                         1857</date></dateline>
                     <salute>My Dearest Mollie,</salute></opener>
                 <p>Not <hi rend="underline">more joyfully</hi>did <del rend="strikethrough"
-                        >Ahab</del>the words of the Old Phrophet fall upon the ears of Ahab,
+                        >Ahab</del>the words of the Old Prophet fall upon the ears of Ahab,
                     announcing "a sound of abundance of rain", after the long drought of three
                     years, than <del rend="strikethrough">those</del><add place="supralinear"
                         >did</add><hi rend="underline">those</hi>which announced for me thy letter
-                    this morning.-- With "hope" as my <hi rend="underline">Prophet</hi> and
+                    this morning.  With "hope" as my <hi rend="underline">Prophet</hi> and
                     "patience" for my servant, I had long been tarrying on Mt Carmel gazing far down
                     upon the Mediterranean. Often, yea more than <hi rend="underline"
                     >seven</hi>times had "patience" clambered to the heights of the Mt. and returned
-                    with sad countenance; but the Old Prophet, <hi rend="underline">"hope"- eternal
+                    with sad countenance; but the Old Prophet, <hi rend="underline">"hope"&#x2014;eternal
                         hope"</hi>, <del rend="strikethrough">still</del> once more arousing himself
                     as for a desperate effort, pierced the veil by faith, and saw the cloud,<pb/><pb
                         facs="Allen_11_ff2_050.jpg"/> the timid cloud arise; and bidding "patience"
-                    again retrace her steps to the <del rend="strikethrough">heights</del><add
+                    again retrace her steps to the <del rend="strikethrough">height</del><add
                         place="supralinear">summit</add> of the torturous peak, on tiptoe with eager
                     gaze, <hi rend="underline">too</hi>, she something spied, -which while she
                     hurried down in joyful haste to tell, fast and faster grew till all the sky was
@@ -159,16 +159,16 @@
                     sound thereof and had arisen from her sepulchre of death and had come forth with
                     bounding life currents and heart of health<del rend="strikethrough">ful</del>
                     and full pulse to meet the God of <del rend="strikethrough">showers</del><add
-                        place="supralinear">rain</add> as he descended in blessings upon her head.--
+                        place="supralinear">rain</add> as he descended in blessings upon her head.
                     Yes, Dearest, you have but to read the account of Elijah and his servant upon
                     Mt. Carmel, <del rend="strikethrough">and you</del>
                     <add place="supralinear">to</add> have a true picture of <hi rend="underline"
                         >me</hi> (old wretched Ahab)<pb/> as <hi rend="underline">I passed the last
-                        two weeks--1st Kings 18th Chap.</hi></p>
+                        two weeks&#x2014;1st Kings 18th Chap.</hi></p>
                 <p>But I must not tarry longer on this subject, for I fear I have already wearied
                     your patience; Suffice it however in this place to state, that you are perfectly
                     pardonable; for your excuse is certainly a most acceptable as well as valid one,
-                    -but on the other hand let me beg of you to pardon my great impatience of spirit
+                    &#x2014;but on the other hand let me beg of you to pardon my great impatience of spirit
                     and anxiety of mind, which you <hi rend="underline">see</hi> I had, (though only
                     partially manifested,) if the above <hi rend="underline">illustration</hi> is
                     not too incredible for your faith.</p>
@@ -177,27 +177,26 @@
                         rend="strikethrough">to me,</del> It comforts, cheers, animates the drooping
                     spirit, revives the heart wearied with tasks and burdened with cares, shines
                     upon the pathway of duty with an encouraging and tranquil radiance, that seems
-                    to say, Ho! Pilgrim, courage, onward press, this is not thy goal, not thy rest.--<pb/>
-                    <pb facs="Allen_11_ff2_052.jpg"/>then, how soon I remember the words, "That in
+                    to say, Ho! Pilgrim, courage, onward press, this is not thy goal, not thy rest.<pb facs="Allen_11_ff2_051.jpg"/>
+                    <pb facs="Allen_11_ff2_052.jpg" n="4th"/>then, how soon I remember the words, "That in
                     the Catalogue which fate reserves for a generous manhood, there <hi
                         rend="underline">is no such word as fail</hi>," and old energies arouse, new
                     efforts spring into being, and the spirit <add place="supralinear">thus</add>
                     fired and energized leaps forth from its lethargy into active life and with zeal
-                    rejoices again to enter the race of joy and usefulness-- those are some of the
+                    rejoices again to enter the race of joy and usefulness&#x2014; those are some of the
                     happy results which thy letters effect for me; and far greater than these might
                     I mention. I <hi rend="underline">will add</hi>, though, that, I find nothing
                     else so indispensable to my cheerfulness, my enjoyments, my very life as the
                     assurance <del rend="strikethrough">which</del> and encouragements which are
-                    granted me through thy correspondence.-- Surely I <hi rend="underline">must</hi>
+                    granted me through thy correspondence.&#x2014; Surely I <hi rend="underline">must</hi>
                     be, <hi rend="underline">ought</hi> to be, <hi rend="underline">am</hi> happy,
-                    as some have ventured to say, blessed with such a <hi rend="underline"
-                    >Dear</hi>, <hi rend="underline">congenial</hi>, <hi rend="underline"
-                        >faithful</hi>, <hi rend="underline">"spirit-mate"</hi>, as Miss Amelia
+                    as some have ventured to say, blessed with such a <hi rend="underline">Dear</hi>, <hi rend="underline">congenial</hi>, <hi rend="underline">faithful</hi>, <hi rend="underline">"spirit-mate"</hi>, as Mrs Amelia
                     would have it.</p>
-                <pb/>
+            </div>
+	    <div>
                 <pb facs="Allen_11_ff2_053.jpg"/>
-                <dateline>--Noon--<date when="1857-02-18">Feb. 18th <hi rend="underline">57</hi>
-                    </date>--</dateline>
+                <dateline>Noon <date when="1857-02-18">Feb. 18th <hi rend="underline">57</hi>
+                    </date></dateline>
                 <p>With the preceding preliminary and rather excursory, if not at times, extravagant
                     remarks, I will now proceed, or at least so endeavor, to answer your letter, so
                     full of tenderness and affection, of sweet simplicity and generous confidence;
@@ -207,64 +206,63 @@
                     little, and thus after awhile perhaps I can fulfill a responsive sheet; I merely
                     make the above statement that you may be the better prepared to pardon the
                     disconnected and limping sentences that I may be able under such circumstances
-                    to throw together.--</p>
-                <p>I am happy to hear, Dear Mollie that you are so well pleased with your <hi
+                    to throw together.</p>
+                <p>I am happy to hear, Dear Mollie, that you are so well pleased with your <hi
                         rend="underline">comparatively</hi> new situation; that you have formed so
-                    high an opinion and<pb/> estimate of your instructors; <del>[?]</del> and that
+                    high an opinion and<pb/> estimate of your instructors; <del><gap reason="overwritten" extent="6" unit="letters"/></del> and that
                     among your new acquaintances, the students, you have found some choice, valuable
-                    and sweet girls, in whom <del>[?]</del> you can confide, and with whom you can
-                    now and then spend a "happy moment's time."-- Many intimate friendships, I
+                    and sweet girls, in whom <del><gap reason="strikethrough" extent="6" unit="letters"/></del> you can confide, and with whom you can
+                    now and then spend a "happy moment's time." Many intimate friendships, I
                     always thought were not desirable, or if desirable at least not advisable, and
                     so following <add place="supralinear">as well</add> my own inclination as the
                     desire to act "<hi rend="underline">prudently</hi>," wherever I have been, I
                     never would seek, nor form but few, and the same I would recommend to you
-                    Dearest, --although my experience reaches only to one side of the question, <add
+                    Dearest,&#x2014;although my experience reaches only to one side of the question, <add
                         place="supralinear">yet</add> observation will testify that it is the safest
                     and happiest in its results. Then Dear Mollie, though you find but few among the
                     many, in whom you can trust as bosom friends, prize, cherish and love them for
-                    they will make you happy when the friendships and professions<pb/><pb
-                        facs="Allen_11_ff2_055.jpg"/> of the "many" shall have waxed cold and their
+                    they will make you happy when the friendships and professions<pb facs="Allen_11_ff2_054.jpg"/><pb
+                        facs="Allen_11_ff2_055.jpg" n="7th"/> of the "many" shall have waxed cold and their
                     disguises have fallen off.</p>
                 <p>I am sorry however to hear that the <hi rend="underline">very</hi> ones who ought
                     to be your most intimate and devoted friends are among the "many" whose
-                    tratorous lips and false pretensions are so much to be shunned and despised; yet
+                   <sic>tratorous</sic> lips and false pretensions are so much to be shunned and despised; yet
                     Dearest, like the thorn which annoyed and vexed Paul, these things amy be
                     intended by a designing Providence to work out happy and glorious results for
                     us. We ought <del rend="strikethrough">always</del> to remember that the "<hi
-                        rend="underline">thorn</hi>is always linked with the sweets fo the rose"--
+                        rend="underline">thorn</hi>is always linked with the sweets fo the rose"&#x2014;
                     but by no means are <hi rend="underline">they</hi>justifiable to continue in sin
-                    that <hi rend="underline">grace</hi> may the much more <hi rend="underline"
-                        >abound</hi> in your behalf. God forbid, says the great Apostle in Romans
+                    that <hi rend="underline">grace</hi> may the much more <hi rend="underline">abound</hi> in your behalf. God forbid, says the great Apostle in Romans
                     6thC. 1st-2nd.</p>
                 <p>Well, Dearest, I have had some experience also in a situation very similar to
-                    what your present one is,<pb/><pb facs="Allen_11_ff2_056.jpg"/>I have had all
-                    sorts and dispositions of <unclear>ch?</unclear>, <add place="supralinear"
+                    what your present one is,<pb facs="Allen_11_ff2_056.jpg"/>I have had all
+                    sorts and dispositions of <unclear>chums</unclear>, <add place="supralinear"
                         >from</add> the mild, inoffensive, good natured, peaceable, quiet,
-                    charitable religions and happy, to the wild, reckless, wretched, inconsiderate,
+                    charitable religious and happy, to the wild, reckless, wretched, inconsiderate,
                     passionate and irreligious hard heart, stubborn and flinty and abandoned to
                     wretchedness and sin, and therefore, though I am <add place="supralinear"
                         >not</add> the better off by it having been so, yet I am the better prepared
                     to appreciate your very unenviable position and to sympathize with you in your
-                        <hi rend="underline">seeming</hi> misfortune, in having been thus placed--
+                        <hi rend="underline">seeming</hi> misfortune, in having been thus placed&#x2014;
                     but would you have a <hi rend="underline">sovereign antidote</hi> against all
                     such influences and dispositions and tempers which might be sinful in their
-                    tendency, unwholy and uncharitable in their character, growing out of your
+                    tendency, unholy and uncharitable in their character, growing out of your
                     present circumstances, then would I recommend to you a sure and prevailing
                     remedy, which will<pb/> not only prevent the <hi rend="underline">risings</hi>
                     of such <hi rend="underline">things</hi> in the future, but will even eradicate
                     all that has, (if any,) sprung up heretofore. It is a <hi rend="underline"
                         >medicine</hi> which I find to be pleasant in every respect.</p>
                 <p><del rend="strikethrough">I found</del>It is designed to affect the heart more
-                    particularly, and in nearly all its diseases proves a healing balm-- Will you
+                    particularly, and in nearly all its diseases proves a healing balm. Will you
                     try it, My Dearest Mollie? Yes I know you will, and incorporate it as I have
                     done in the list of Antidotes which are so much needed at times by the student
                     to counteract the poisonous influences and unwholesome prejudices which are so
-                    apt to insinuate themselves into our <unclear>pa?</unclear> and our lives. Then
+                    apt to insinuate themselves into our <unclear>pain</unclear> and our lives. Then
                     here it is, in a few and simple words. "That I may be kept from speaking or
                     thinking amiss of my Christian friends, associates, or even my foes" those who
                     may be my secret oppressers, enemies, despisers or persecutors, "<hi
-                        rend="underline">I will daily for them</hi>."</p>
-                <pb/>
+                        rend="underline">I will daily</hi> <hi rend="underline">for them</hi>."</p>
+                <pb facs="Allen_11_ff_057.jpg"/>
                 <pb facs="Allen_11_ff2_058.jpg"/>
                 <p>Adopt that, Dearest, as one of your principal rules in the governing your heart
                     and regulating the sometimes "unruly member," and let what come then will, you
@@ -280,17 +278,17 @@
                         rend="strikethrough">much</del> prejudiced to your common worldly or sensual
                     pleasures and enjoyments as to those of a more spiritual and holy character;
                     therefore you must pardon me if I have been rather <hi rend="underline">over
-                        tedious></hi>, which doubtless you can justly say.--</p>
-                <p>Tis now -"Night"- again, and I have a few more minutes to employ in communion
+                        tedious</hi>, which doubtless you can justly say.</p>
+                <p>Tis now &#x2014;"Night"&#x2014; again, and I have a few more minutes to employ in communion
                     with thee, and as it is usual to put off the <hi rend="underline">best</hi> for
                     the last, I now propose to close this rather lengthy communication with <hi
                         rend="underline">what</hi> I may say, in reply to your request, on that most
                     important subject, which I am <hi rend="underline">so</hi> glad to hear you say,
                     has not been neglected nor forgotten by you, but on the other hand, is eliciting
-                    more &amp; more serious investigation every day, more earnestness, <del
+                    more &#x0026; more serious investigation every day, more earnestness, <del
                         rend="strikethrough">a</del> more "hungering and thirsting after entire
                     holiness of heart, <add place="supralinear">after</add> righteousness, after
-                    Perfection- Sanctification.</p>
+                    Perfection&#x2014;Sanctification.</p>
                 <pb/>
                 <p>Now Dearest, you wish to know how to proceed; And by that I understand, if you
                     will allow me to draw inferences, -though I am satisfied in this instance
@@ -306,7 +304,7 @@
                     present life, are now willing and ready to use <hi rend="underline">any means,
                         make any sacrifices, to be<del rend="strikethrough">come</del></hi> an
                     humble follower of our Lord all your days, "through evil as well as through good
-                        report,"<pb/><pb facs="Allen_11_ff2_061.jpg"/> that you are willing to be
+                        report,"<pb facs="Allen_11_ff2_060.jpg"/><pb facs="Allen_11_ff2_061.jpg" n="13th"/> that you are willing to be
                     number'd with the outcasts, abandoned and persecuted, for his <hi
                         rend="underline">name's</hi> sake; to have your name even <del
                         rend="strikethrough">a</del> become a byword and reproach among <add
@@ -323,24 +321,24 @@
                     kingdom advanced by you in any manner. Well now, Dearest, if you are willing to
                     "do" and "suffer" the above,<pb/><pb facs="Allen_11_ff2_062.jpg"/> which I know
                     you are, because your words and your actions, which have never deceived me, both
-                    testify to the earnestness and trughfulness of your inquiries into the way of
+                    testify to the earnestness and truthfulness of your inquiries into the way of
                     Holiness, there <add place="supralinear">are</add> a few conditions, which <del
                         rend="strikethrough">yours</del> in accordance to your <hi rend="underline"
                         >belief</hi>, "that there is such a state, and that <hi rend="underline"
-                        >that state</hi> is attainable &amp;c here," that you must comply with
+                        >that state</hi> is attainable &#x0026;c here," that you must comply with
                     and fulfill, in order that you may begin to employ the means which are in your
-                    power &amp;c, these conditions, some of them at least, are that you manifest
+                    power &#x0026;c, these conditions, some of them at least, are that you manifest
                     your desires after Perfection and the earnestness of your intentions, and more
                     than all <del rend="strikethrough">by</del> your willingness to have the
                     blessing bestowed upon you, by your actions and the earnest groanings of your
                     heart, unto God continually, besieging the throne of his Mercy by day and night
-                    in continued supplication, prayers and tears, &amp;c. These are some of the
+                    in continued supplication, prayers and tears, &#x0026;c. These are some of the
                     conditions that<pb/><sic>that</sic> you must comply with in order to prove your
                         <hi rend="underline">willingness</hi><add place="supralinear">to receive
                         it</add>; but, Dearest, there are others, also, which are equally important,
                     that you may prove (also) your <hi rend="underline">willingness</hi> to make <hi
                         rend="underline">any sacrifice</hi>, which might be necessary on your part
-                    to secure that inestimable blessing-- which (blessing can be defined no <hi
+                    to secure that inestimable blessing&#x2014;which (blessing can be defined no <hi
                         rend="underline">more truly</hi> than in the brief words of our Dear
                         Savior<del rend="strikethrough">'s</del> when he said "<hi rend="underline"
                         >Father thy will be done not mine</hi>," that is the <hi rend="underline"
@@ -348,26 +346,26 @@
                         Perfection"</hi> and when Dear Mollie, you arrive at that place or point in
                     your experience when under any circumstances of adversity or prosperity, joy or
                     sorrow, griefs, trials, misfortunes or peace, happiness, of <del
-                        rend="strikethrough">?</del> &amp;c when you can <hi rend="underline"
+                        rend="strikethrough"><gap reason="strikethrough" extent="1" unit="word"/></del> &#x0026;c when you can <hi rend="underline"
                         >say from the very bottom</hi> of <hi rend="underline">your heart</hi>,
                     "Lord thy <hi rend="underline">will</hi>, not <hi rend="underline">mine</hi> be
                         <hi rend="underline">done</hi>", then you have gained the <hi
                         rend="underline">triumph</hi> and the <hi rend="underline">joy</hi> is
-                    yours,-- <hi rend="underline">that</hi> is, the "all in all" of <hi
-                        rend="underline">Sanctification</hi>, believe<pb/><pb
+                    yours,&#x2014; <hi rend="underline">that</hi> is, the "all in all" of <hi
+                        rend="underline">Sanctification</hi>, believe<pb facs="Allen_11_ff2_063.jpg"/><pb
                         facs="Allen_11_ff2_064.jpg"/>me, My Dearest, because it is the very essence
                     of the Spirit of Christ, himself, who hath left us <hi rend="underline"
                         >that</hi> model of <del rend="strikethrough">His</del> Perfection, that
                     high and holy standard of holiness unto which, through his own amazing
                     condescension, Love and Mercy, he hath opened up a way for our approach, and
                     thereby made what would otherwise have been forever inimitable and inaccessible
-                    by us, plain and easy.--</p>
-                <p>But to return,--now Mollie, after a considerable digression, which I trust
-                    however will prove beneficial to us both-- we will (again) notice the second
+                    by us, plain and easy.</p>
+                <p>But to return,&#x2014;now Mollie, after a considerable digression, which I trust
+                    however will prove beneficial to us both&#x2014;we will (again) notice the second
                     condition with which you must comply, "<hi rend="underline">that</hi> of making
-                        <hi rend="underline">any</hi> sacrifice necessary;--</p>
+                        <hi rend="underline">any</hi> sacrifice necessary;&#x2014;</p>
                 <p>Now, Dearest, you must examine your heart <hi rend="underline">thoroughly</hi>,
-                    spare not; &amp; though it be painful to probe its secret depths, search it,
+                    spare not; &#x0026; though it be painful to probe its secret depths, search it,
                     and try it, view it in the light of the Holy Spirit; try the strength of its <hi
                         rend="underline">attachment</hi> to the <hi rend="underline">cause</hi> of
                         <hi rend="underline">God</hi>, test its <hi rend="underline">sincerity</hi>,
@@ -376,7 +374,7 @@
                         <hi rend="underline">life and eternity</hi> consecration, of all it holds
                     dear, <del rend="strikethrough">values</del>
                     <add place="supralinear">or estimates</add> or is in disguise connected with it
-                    in time or eternity.-- Whether (<hi rend="underline">it</hi>is) <add
+                    in time or eternity.  Whether (<hi rend="underline">it</hi>is) <add
                         place="supralinear">
                         <hi rend="underline">or you are</hi>
                     </add> willing to consecrate for once and always unto the Lord.</p>
@@ -390,27 +388,27 @@
                         rend="underline">fame</hi>,<lb/> Your <hi rend="underline">loved
                         Sisters</hi>, health and <hi rend="underline">name</hi>,<lb/>And can adopt
                         <del rend="strikethrough">now</del> the language of the Pious <hi
-                        rend="underline">Chas</hi> Wesley and say-- "From <hi rend="underline">this
-                        moment</hi>, Lord, live or die,<lb/>I came, to serve my God alone."--</p>
+                        rend="underline">Chas</hi> Wesley and say&#x2014; "From <hi rend="underline">this
+                        moment</hi>, Lord, live or die,<lb/>I came, to serve my God alone."</p>
                 <p>And if it can answer an affirmative to <hi rend="underline">all</hi> these, then
                     Dearest, <hi rend="underline">all is right</hi>.</p>
                 <p>Now Mollie, we have examined all the conditions except one I believe, and
-                    that<pb/> too has partially, if not wholy been incorporated in the last, --<del
+                    that<pb/> too has partially, if not wholy been incorporated in the last, &#x2014;<del
                         rend="strikethrough">and all of them</del> though perhaps they are all so
                     confused that it will prove quite a task to (decipher) <add place="supralinear"
                         >unravel</add> their tanglements and trace out their true meaning. Since
                     there may be some difficulty in understanding them I will try to place them in a
-                    more tangible and plainer --form-- The 1st condition is-- That you manifest an
-                    earnest desire and willingness on your part to receive the blessing.<lb/> 2d
+                    more tangible and plainer &#x2014;form&#x2014;<list><item>The 1st condition is&#x2014;That you manifest an
+                    earnest desire and willingness on your part to receive the blessing.</item><item> 2d
                     That you be willing to make any sacrifice or consecration which the Lord may see
-                    best in his wisdom to require.<lb/>3d- Which is to a great extent contained in
+                    best in his wisdom to require.</item><item>3d- Which is to a great extent contained in
                     the second, that you be willing to resign yourself entirely into the hands of
-                    the Lord and give up to his directions and his will altogether.</p>
+                    the Lord and give up to his directions and his will altogether.</item></list></p>
                 <p>The above are the conditions, Dearest, of which I have been in somewhat a
-                    bungling <sic>maner</sic> speaking, and with<pb/><pb facs="Allen_11_ff2_067.jpg"
+                    bungling <sic>maner</sic> speaking, and with<pb facs="Allen_11_ff2_066.jpg"/><pb facs="Allen_11_ff2_067.jpg"
                     />which you are required to comply.</p>
                 <p>Now Dear Mollie, just proceed in that way and see what <del rend="strikethrough"
-                        >ever</del> is <hi rend="underline">on</hi> the way-- and remove it
+                        >ever</del> is <hi rend="underline">in</hi> the way&#x2014;and remove it
                     immediately. Test your <hi rend="underline">willingness</hi> first, and see if
                     you desire <hi rend="underline">it</hi> above <hi rend="underline">all
                         things</hi> else, and if you find you <hi rend="underline">do</hi>, why then
@@ -418,24 +416,24 @@
                     ask yourself how it must be obtained; and when you learn that it must be by a
                     thorough, entire and unreserved consecration of <hi rend="underline">all</hi>
                     you have and <hi rend="underline">are</hi> to <hi rend="underline">God</hi>,
-                    your tempers, dispositions thoughts &amp;c, and that you cannot fully comply
+                    your tempers, dispositions thoughts &#x0026;c, and that you cannot fully comply
                     with the <hi rend="underline">second</hi> without <del rend="strikethrough"
                         >the</del> performing the 3d, why then comply with <hi rend="underline">it
                         too</hi> in all haste, delay not, but resign <hi rend="underline"
-                    >all</hi>life, time, talents &amp;c, to him and lay yourself humbly at the
-                    feet of Jesus and there wait the words of Your Blessed Jesus -Your Friend
-                    &amp; Savior.<pb/><pb facs="Allen_11_ff2_068.jpg"/>But now, Mollie don't
+                    >all</hi>life, time, talents &#x0026;c, to him and lay yourself humbly at the
+                    feet of Jesus and there wait the words of Your Blessed Jesus&#x2014;Your Friend
+                    &#x0026; Savior.<pb/><pb facs="Allen_11_ff2_068.jpg"/>But now, Mollie don't
                     forget that there is no <hi rend="underline">merit</hi> whatsoever in any thing
                     of <hi rend="underline">works</hi> that you can devise or use, and that this
                     blessing comes just like justification by <hi rend="underline">faith alone</hi>
                     in the Lord Jesus Christ, who is able to cleanse and purify and make holy. <hi
                         rend="underline">Faith</hi> is what you must use, Dearest, <hi
                         rend="underline">all the time</hi>. Place all you are and have upon the
-                    Altar of <hi rend="underline">Entire consecration</hi> and <hi rend="underline"
+                    Altar of <hi rend="underline">entire consecration</hi> and <hi rend="underline"
                         >there abide by faith, in prayer</hi>, till you receive the answer to your
                     petitions, yes an assurance that your consecration has been accepted and your
-                    soul admitted into the sunshine of perfect love-- never, never retrace your
-                    steps, but having vowed, like good old Jephtha <unclear>say</unclear> your vows.
+                    soul admitted into the sunshine of perfect love&#x2014;never, never retrace your
+                    steps, but having vowed, like good old Jephtha pay your vows.
                     I am so glad that you are fully determined in the matter that you will seek
                     until the "promised blessing" is secured.</p>
                 <pb/>
@@ -450,13 +448,14 @@
                         joy<del rend="strikethrough">s</del> and peace as has been mine very nearly
                     every day since the 10th day of November. I want us to rejoice and praise God
                     together in our hearts and in the labor of our hands, be steadfast, persevering
-                    and bold to claim the promises which <hi rend="underline">are</hi> ours there
+                    and bold to claim the promises which <hi rend="underline">are</hi> ours <unclear>this</unclear>
                     Dearest, and we shall be permitted to live and serve our God "<hi
-                        rend="underline">with joyful hearts &amp; free</hi>."</p>
-                <pb/>
+                        rend="underline">with joyful hearts &#x0026; free</hi>."</p>
+                <pb facs="Allen_11_ff2_069.jpg"/>
+	    </div><div>
                 <pb facs="Allen_11_ff2_070.jpg"/>
                 <dateline>
-                    <date when="1857-02-19">--Morning-- 19th</date>
+                    <date when="1857-02-19">Morning 19th</date>
                 </dateline>
                 <p>Your letter, Dearest, did not reach me until Tuesday morning. I however
                         <unclear>according</unclear> as it requested, had kept your <hi
@@ -467,58 +466,54 @@
                 <p>It proved, Mollie, a happy day indeed to my soul, and one long to be remembered
                     for its blessings, and benefits. I hope, Dearest, for I prayed for it, that you
                     too enjoyed much of the presence and joy of the Lord in your Soul, and that you
-                    were much strenghened and confirmed and encouraged to--<lb/>"Set out anew, your
-                    journey to pursue,<lb/>And after Glory <unclear>renew</unclear>."</p>
+                    were much strenghened and confirmed and encouraged to&#x2014;<quote><l>"Set out anew, your
+                    journey to pursue,</l><l>And after Glory run</l>."</quote></p>
                 <pb/>
                 <pb facs="Allen_11_ff2_071.jpg"/>
                 <p>That you are now better prepared, by examination and prayer to devote yourself to
                     the service of the Lord, (And) that whether you live or whether you die you may
                     be entirely the Lord's. Be encouraged, My Dearest Mollie, the promise is yours,
                     claim it, the <hi rend="underline">blessings</hi> are yours too, appropriate
-                    them and be happy.--</p>
+                    them and be happy.</p>
                 <p>There are many other things Mollie about which I thought I would speak a few
                     words, but I must I reckon pass over them now, and reserve <hi rend="underline"
                         >them</hi> for the next times. I wish I did have time sufficient to allow me
-                    to mention them, but I will <add place="supralinear">have</add> not now, -but
+                    to mention them, but I will <add place="supralinear">have</add> not now, &#x2014;but
                     enjoin it upon <hi rend="underline">you particularly</hi> to <hi
                         rend="underline">immediately reply to this</hi> and then I will give them to
                     you <hi rend="underline">at length</hi>. Remember now, Dearest, I shall take it
-                    as a test of your anxiety and willingness<pb/> to hear from (--), whether you
-                    write soon or delay.-- I head from <unclear>Ma?</unclear>, the other day, but I
+                    as a test of your anxiety and willingness<pb/> to hear from (&#x2014;), whether you
+                    write soon or delay. I heard from Matt., the other day, but I
                     suppose you have heard since I have. She began her school on your <hi
-                        rend="underline">birth day</hi>&amp;c--</p>
-                <p>I wrote to Mellie as I told you I was going to.-- I could not comply Mollie
-                    Dearest, with all your requests particularly the <unclear>Val</unclear>-- Please
+                        rend="underline">birth day</hi>&#x0026;c.</p>
+                <p>I wrote to Mellie as I told you I was going to. I could not comply Mollie
+                    Dearest, with all your requests particularly the <unclear>Val</unclear>.Please
                     write me what kind of books you would prefer, and what kind of a Society is
-                    yours- I mean Secret or Literary.--</p>
+                    yours&#x2014;I mean Secret or Literary.</p>
                 <p>Are you acquainted with Misses Lundy, Mollie Rylander, Mollie Butts, a small
                     girl,? there are several others I thought I would ask you about but I have
-                    forgotten their names.--</p>
+                    forgotten their names.</p>
                 <p>Be sure now, <hi rend="underline">My Dearest</hi>, and do not delay if you have
                     to do as I have done in order to write this, for I will be more than <hi
                         rend="underline">anxious</hi> to hear from you before I do, any way, even if
                     you write immediately.</p>
-                <pb/>
+                
                 <pb facs="Allen_11_ff2_072.jpg"/>
                 <p>Mollie, what do <sic/> think about taking music lessons, do you think <sic/>would
-                    be a valuable appropriation of your time? that is the time spent at it?--</p>
+                    be a valuable appropriation of your time? that is the time spent at it?</p>
                 <p>I believe if I were you I would take lessons during your <add place="supralinear"
                         >my</add> course there, it is true it would not do <hi rend="underline"
                         >you</hi> much good in the extensive sense that it might others, who would
                     wish to add a new charm to their beauties, or greater fascination to their
                     loveliness, by such flourishes and flashes in Society, but it would sweeten life
                     to some extent; for music hath its charms, and they soften down our coarser
-                    natures &amp;c &amp;c-- but I have not time now to descant on that. You
+                    natures &#x0026;c &#x0026;c&#x2014; but I have not time now to descant on that. You
                     must learn to sing Dearest, if you have to take lessons only for that. I am
                     going to learn too, we have two splendid teachers here now and I have entered as
                     a subscriber, <hi rend="underline">vocal music only</hi>. I am going to make an
                     effort to learn, please cooperate with me.</p>
                 <closer>Write now very soon Mollie, please. <salute>Thine and thine only
                         forever.</salute><signed>Young J. Allen</signed></closer>
-                <p/>
-
-                <p/>
-
             </div>
         </body>
     </text>
