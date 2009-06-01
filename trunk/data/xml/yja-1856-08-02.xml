@@ -1,3 +1,4 @@
+<TEI xml:id="yja-1856-08-02.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -54,8 +55,13 @@
                             <country>China</country>
                         </placeName>
                     </death>
-                
-                   <person>Mollie Houston</person>
+                </person>
+                   <person xml:id="mh">
+		     <persName>
+		   <forename>Mollie</forename>
+		   <surname>Houston</surname>
+		   </persName>
+		   </person>
                          </listPerson>
  
              <listPlace> <!-- add any list places you want to -->
@@ -122,7 +128,7 @@
     <revisionDesc>
         <change>
             <date when="2009-04-01">April 1, 2009</date>
-                <name xml:id="">Sue Trowbridge</name>
+                <name xml:id="ST">Sue Trowbridge</name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>

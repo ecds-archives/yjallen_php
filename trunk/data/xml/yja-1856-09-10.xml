@@ -1,4 +1,4 @@
-<TEI>
+<TEI xml:id="yja-1856-09-10.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -41,7 +41,7 @@
                         <forename>Young</forename>
                         <forename>John</forename>
                         <surname>Allen</surname>
-                    </persName></person>
+                    </persName>
                     <birth when="1836-01-03">January 3, 1836
                         <placeName>
                             <settlement type="county">Burke County</settlement>
@@ -55,7 +55,7 @@
                             <country>China</country>
                         </placeName>
                     </death>
-                    
+                </person>  
                 </listPerson>
             
             <listPlace> <!-- add any list places you want to -->
@@ -122,7 +122,7 @@
     <revisionDesc>
         <change>
             <date when="2009-04-01">April 1, 2009</date>
-            <name xml:id="">Sue Trowbridge</name>
+            <name xml:id="ST">Sue Trowbridge</name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -130,8 +130,7 @@
     <text><body><div>
         <pb facs="Allen-11-ff1-016.jpg"/> 
         <opener>
-            <dateline><placename>Emory College, Oxford Geo. </placename><lb/>
-                <date when="1856-09-10">Sept. 10 1856</date>
+            <dateline><placeName>Emory College, Oxford Geo. </placeName> <date when="1856-09-10">Sept. 10 1856</date>
             </dateline><lb/>
             <salute>My Dear Mollie,</salute></opener>
         <p>Three weeks ago tomorrow I wrote you a short letter, and hearing of your excuse for not replying sooner, I waited two weeks, and then 
@@ -141,16 +140,16 @@
         <p>Perhaps you did not receive my letters, which might be possible, but I reckon they went through right.
             <pb facs="Allen-11-ff1-017.jpg"/> 
         Now Dearest, you cannot doubt my wish to hear from you.</p>
-        <p>You cannot imagine, "the pain the agony, the doubt," that has characterized this long, long and painful suspense, thris long and coubly painful because it is <hi rend="underline">thee</hi>, and <hi rend="underline">thy</hi> delay.  I have no doubt as to your excuse for not having written, atall, and that is one of the <hi rend="underline">whys</hi>, that I am so anxious to hear from you, that I may know what has been the cause, whether anything serious or not, for I begin to fear there is- and yet if you were sick or otherwise seriously or providentially hindered from writing it seems that some of my friends surely would write me some information of it; but as yet none of <hi rend="underline">them</hi> have written, surely I must
-            <pb/> be <hi rend="underline">forgotten</hi>.</p>
+        <p>You cannot imagine, "the pain the agony, the doubt," that has characterized this long, long and painful suspense, thris long and doubly painful because it is <hi rend="underline">thee</hi>, and <hi rend="underline">thy</hi> delay.  I have no doubt as to your excuse for not having written, atall, and that is one of the <hi rend="underline">whys</hi>, that I am so anxious to hear from you, that I may know what has been the cause, whether anything serious or not, for I begin to fear there is- and yet if you were sick or otherwise seriously or providentially hindered from writing it seems that some of my friends surely would write me some information of it; but as yet none of <hi rend="underline">them</hi> have written, surely I must
+            <pb facs="Allen-11-ff1-017.jpg"/> be <hi rend="underline">forgotten</hi>.</p>
         <p>Dearest one, I know you will write before long; if not before receiving this, in answer to this.</p>  
         <p>This surely is punishment, is torture commensurate with any crimes I have done, is'nt so Mollie.</p>
         <p>I have <hi rend="underline">a heap</hi> to write you My <hi rend="underline">Dearest One</hi>, as soon as you will reply to my previous letters and cheer me up enough to write it.  Please do it then soon.</p>
-        <salute>Accept the unfeigned love of your ever faithful and Devoted One,</salute>
-        <signed><persname>Young Allen</persname></signed>
-        <p>Miss Mollie Houston<lb/>
-        Grantville<lb/>
-        Georgia</p>
+        <closer><salute>Accept the unfeigned love of your ever faithful and Devoted One,</salute>
+        <signed><name>Young Allen</name></signed>
+        <dateline><name>Miss Mollie Houston</name><lb/>
+        <placeName>Grantville<lb/>
+        Georgia</placeName></dateline></closer>
     </div></body></text>
     
 </TEI>
