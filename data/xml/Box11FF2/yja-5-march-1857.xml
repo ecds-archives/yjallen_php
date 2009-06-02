@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-5-march-1857.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -168,10 +168,10 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
+                        <item>Emory College, Oxford, Ga.</item>
+                        <item>Allen, Mary Houston</item>
+                     <item/>
                         <item/>
                     </list>
                 </keywords>
@@ -189,9 +189,9 @@
                 <opener>
                     <dateline>
                         <placeName>E. C. Oxford Geo.</placeName>
-                        <date when="1857-03-5">March 5th 1857</date>
+                        <date when="1857-03-05">March 5th 1857</date>
                     </dateline>
-                    <salute>My Dear Mollie--</salute>
+                    <salute>My Dear Mollie</salute>
                 </opener>
                 <p>Last night, <add rend="supralinear">I</add>began a response to your letter and
                     thought then, that perhaps I might be able to write you without much trouble or
@@ -206,35 +206,35 @@
                     very <hi rend="underline">Idol</hi>of my being and the "life of all my
                     (sweetest) delights." But I must yield in cheerful obedience to the "powers that
                     be"; and to warn you against the <hi rend="underline">anxieties</hi> which my
-                    delay might cause in your mind, <delete rend="strikethrough">whe</delete> if
-                    ignorant of the true cause, I send you this hurried line-- <delete
-                        rend="strikethrough">to</delete> hoping that you will pardon (me) and grant
-                    me a "<hi rend="underline">week's grace</hi>".-- I have a few items of news,
+                    delay might cause in your mind, <del rend="strikethrough">whe</del> if
+                    ignorant of the true cause, I send you this hurried line-- <del
+                        rend="strikethrough">to</del> hoping that you will pardon (me) and grant
+                    me a "<hi rend="underline">week's grace</hi>". I have a few items of news,
                     which by the by, is a rare thing with me, don't you think? that I will give you
                     in addition to what I promised, I had in reserve for the next communication. My
-                    Dearest, you will receive this perhaps tomorrow (<delete rend="strikethrough"
-                        >Thursday</delete><add rend="supralinear">Friday</add>) and as you failed to
+                    Dearest, you will receive this perhaps tomorrow (<del rend="strikethrough"
+                        >Thursday</del><add rend="supralinear">Friday</add>) and as you failed to
                     answer a few questions in<pb/> my last, I would be <hi rend="underline"
                         >more</hi> than glad, yes happy, that you would spend a few minutes with me
                     on Saturday morning and write me a short or long letter as your <hi
                         rend="underline">heart</hi> or feelings might dictate.-- Please now Dearest,
                     do write me a few lines any how. You know how welcome they will be. I will reply
                     just as soon as <hi rend="underline">possible</hi>, yes if it were this very
-                    evening.--</p>
-                <p>Yes Mollie, I know Mr. Hightower of the Sen. Class- and by the by he is
+                    evening.</p>
+                <p>Yes Mollie, I know Mr. Hightower of the Sen. Class&#x2014; and by the by he is
                     acquainted with a Miss Kendall of your Sen. Class, perhaps <hi rend="underline"
                         >more intimately</hi> than I with him.</p>
-                <p>I find out a secret now and then Mollie. Several of your boys have their hearts
+                <p>I find out a secret now and then Mollie. Several of our boys have their hearts
                     centered <hi rend="underline">there</hi>. Miss Rylander's <hi rend="underline"
                         >SweetHe--</hi> is one of <add rend="supralinear">my</add> particular
                     friends so is the Cousin of Miss Lundy &amp;c.</p>
-                <p>I reserve the balance for the anticipated<pb/><pb facs="Allen_11_ff2_048.jpg"/>time when I can fully express
+                <p>I reserve the balance for the anticipated<pb facs="Allen_11_ff2_048.jpg"/>time when I can fully express
                     myself-- on all these points.--</p>
                 <closer>You will please My Dearest, Remember me often, and know that at morn and at
                     noon and night I never fail to remember Thee at the Mercy Seat and every hour in
-                    the day besides.--</closer>
+                    the day besides.
                 <salute>Thine in faithful devotion and love forever,</salute>
-                <signed>Young J Allen</signed>
+                <signed>Young J Allen</signed></closer>
             </div>
         </body>
     </text>
