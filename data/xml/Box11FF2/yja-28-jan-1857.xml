@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to Mollie Houston, <date when="1857-01-28"
+                        >January 28, 1857</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to Mollie Houston, <date when="1857-01-28"
+                        >January 28, 1857</date>; Young John Allen Papers, Manuscript, Archives, and
+                    Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907 <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Mollie">
+                        <persName>
+                            <forename>Mary</forename>
+                            <forename>Houston</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+
+                </listPerson>
+
+                <listPlace>
+
+                    <place>
+                        <placeName>
+                            <settlement type="city">Madison</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-06-08">June 9, 2009</date>
+                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff2_076.jpg"/>
+                <opener>
+                    <dateline>
+                        <placeName>E. C. Oxford Ga.</placeName>
+                        <date when="1857-01-28">Jan. 28th 1857</date>
+                    </dateline>
+                    <salute>My Dearest Mollie,</salute>
+                </opener>
+                <p>With many thanks to a kind and obliging <hi rend="underline">Guardian</hi>, and
+                    doubly many to your worthy, indulgent and generous President, for the honor
+                    conferred and the fond privileges granted us, --which I trust shall be improved
+                    happily and appreciated highly and well by us,-- I will endeavor, though hastily
+                    and briefly, to respond <add place="supralinear">to</add> yours and
+                    yester-morning-at-hand. To be brief then and concise I will try the plan of
+                    Richard Watson, when writing to his daughter and "be systematic", for I like
+                    system, order and adjustment in all things when convenient, and in writing a
+                    letter, perhaps nothing is more desirable, <del rend="strikethrough">than</del>
+                    to a proper distribution of facts or <add place="supralinear">a</add> relation
+                    of items of news or information, than system, by which I mean a separate and
+                    distinct disposition of each heterogeneous variety of news.<pb/><pb
+                        facs="Allen_11_ff2_077.jpg"/>But I must proceed to my "<hi
+                        rend="supralinear">task</hi>," which lies more immediately before me, as I
+                    did not set out with the intention of writing an essay on the <hi
+                        rend="underline">necessity</hi>of<hi rend="underline">System</hi> or the <hi
+                        rend="underline">advantages</hi> of <hi rend="underline">System</hi> in what
+                    we do, besides that of writing a letter is by far the more preferable as well as
+                    the more pleasing task --if thus you will allow me to call, its -- Oxford-- my
+                    return &amp;c &amp;c.</p>
+                <p>You are perhaps aware, from your knowledge of my past history in Oxford and of my
+                        <hi rend="underline">returns</hi> hither, that on arriving here I found some
+                    warm and generous friends both old and young, gentlemen and ladies to welcome me
+                    back, and shall I be "presumptuous" enough to tell you the flattering <hi
+                        rend="underline">truth</hi> that both by student and citizen I had a hearty
+                    welcome to my "<hi rend="underline">Home Again</hi>," -- well be it so-- here I
+                    am.</p>
+                <p>Leisurely and lazily <hi rend="underline">in room</hi>, I spent the greater part
+                    of my first week, it being<pb/>rather forbidding out-doors. I shall not enter
+                    into minute detail of each several day, but suffice it on this head to say, that
+                    a right respectable band of new students at the end of the week had gathered in,
+                    to fill the places of the <hi rend="underline">departed</hi>, but in some
+                    instances, not very tearfully lamented. There are perhaps now in of new and old
+                    80 or 90-- On sabbath we had quite a treat from our Pastor, who formerly was
+                    stationed there, (at Macon) he preached us two beautiful and sweet sermons. I
+                    think him an amiable and zealous man; I became acquainted with him at Conference
+                    and I tell <hi rend="underline">you</hi> I feel like giving him my hand in the
+                    glorious work in which he is engaged and heartily cooperating with him. May God
+                    bless and abound his good words and works in this place and build <add
+                        place="supralinear">up</add> for himself an <del rend="strikethrough"
+                        >great</del> exceeding great name her in the conversion<pb/><pb
+                        facs="Allen_11_ff2_078.jpg"/> and reclamation of all these sinners and
+                    back-sliders, that a great cloud indeed (of witnessess) may arise from here and
+                    spread itself with showers of blessings and benefits to communities and states
+                    far and near.--</p>
+                <p>Monday, regular exercises in College began and to day under full canvases I think
+                    we have cleared our moorings with prospect of a prosperous and happy voyage. I
+                        <hi rend="underline">know</hi> we have a faithful and tried Pilot, a Crew
+                    whom other days have inured to perils and dangers, quicksands and wrecks, and
+                    passengers some, of whom, at least, I can affirm, they will be landed safely at
+                    our next Post-- Commencement -- but enough -- enough!!--</p>
+                <pb/>
+                <pb facs="Allen_11_ff2_079.jpg"/>
+                <p>Religious -- By the grace of God, my Dearest One, I intend to make the days of
+                    this year severally and separately the holiest and happiest of my life. I have
+                    done laid <hi rend="underline">all</hi> upon the Altar, made an entire, full and
+                    consecrate surrender of life, time and talents-- soul, body and mind-- of all I
+                    am or have-- substance, prospective, things temporal and things spiritual and do
+                    again this night redetermine and vow to follow the Lord with whithersoever his
+                    providence may guide or direct. The power of his grace supporting and the
+                    strength of his Spirit sustaining me. I want to be a holy, sanctified and
+                    zealous Christian servant, entirely devoted to the will and service of my most
+                    holy Master. I want to be usefull in my day and generation -- and spend <hi
+                        rend="underline">the day</hi> alloted me here in the vineyard of the Lord.
+                    Do you not agree with <pb/><pb facs="Allen_11_ff2_080.jpg"/>me, Dearest, in what
+                    I have said? Yes I know you do, for our intentions are one and the same our
+                    purposes and our aims in life -- that is, the glory of God and the salvation of
+                    our own souls and those of our fellow mortals. May the Lord help us so to devote
+                    ourselves, in our intercourse with the world, in our conduct and deportment, to
+                    his cause as shall successfully <del rend="strikethrough">as shall</del> "land
+                    and magnify <del rend="strikethrough">"</del> his name."</p>
+                <p>I have last night and to day just made my first entries in my journal. I began by
+                    totally resigning myself to God and consecrating <hi rend="underline">my
+                        all</hi> to him, and (have been) <add place="supralinear">
+                        <hi rend="underline">continued by</hi>
+                    </add> framing and selecting such rules as I thought would best assist me in
+                    carrying out <hi rend="underline">Our plans</hi>, regulating my life and
+                    governing my conduct.</p>
+                <p>My Dear Mollie, though far we be from each other I know you will <pb/>zealously
+                    and fervently write with me in carrying out our general and I trust
+                    Providence-approved plans of future life. Let us devote ourselves then, Dearest,
+                    more entirely more thoroughly to God, become more alive to God and good works
+                    and more dead to the world and the things of the world.</p>
+                <p>"<hi rend="underline">Blessed</hi> are <hi rend="underline">all</hi> they that
+                    put their trust in the Lord". Is not our trust Mollie, in the Lord only? then
+                    let's hold fast; <hi rend="underline">there's</hi> the promise and "<hi
+                        rend="underline">He</hi> is faithful that promised." Let us not forget the
+                    "ways of pleasantness and paths of peace" which are of the Lord-- nor stray from
+                    God's flock that cheerfully feeds in the "green pastures and beside the still
+                    waters," "to walk in the counsel of the ungodly, nor stand in the way of sinners
+                    nor sit in the seat of the scornful-- but rather let us delight in the law of
+                    the Lord and <pb/><pb facs="Allen_11_ff2_081.jpg"/><sic>and</sic> in his law
+                    meditate day and night, that we too, like <hi rend="underline">that man</hi>
+                    described in the 1st Psalm, may be like a tree <hi rend="underline">planted</hi>
+                    (not a wild tree) but <hi rend="underline">a tree planted</hi> by the <hi
+                        rend="underline">rivers</hi> of <hi rend="underline">water</hi> not <hi
+                        rend="underline">by a little branch</hi> that the summer droughts exhaust
+                    and dry away, not by a little wet-weather streamlet, but by the <hi
+                        rend="underline">rivers</hi>of water, that bringeth forth his fruit in his
+                    season; whose leaf shall not wither, but whatsoever he doeth shall be watered
+                    and nourished of God and therefore shall prosper.-- God Bless you My Dearest
+                        One.--<closer>I must now close. Pardon this very hasty and imperfect reply
+                        to yours. I would have selected a better time, but I knew not when it would
+                        come, so rather than hold you in further suspense I submit this. There are
+                        several items I shall have to neglect now Dr N. for instance &amp; his
+                        care. I am going to write to Mellie soon as I can. <hi rend="underline">Must
+                            I</hi>? Mollie I know you will write me soon therefore I will not ask
+                        you, for I know you will and I expect it-- anxiously await a "lengthy"
+                        reply. <salute>Thine Own &amp; Forever</salute><signed>Yound J.
+                            Allen</signed>
+                    </closer></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
