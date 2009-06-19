@@ -163,5 +163,24 @@
             I have written this in great haste for I have to leave now to get back to our prayer meeting to night.  God Bless and keep you forever.  Farewell
             for a few days</postscript>
     </div>
-</text>
+    </body>
+    <back>
+        <div type="envelope">
+            <pb facs="005.jpg"/>
+           <dateline>
+               <placeName>Grantville GA</placeName>
+           <date when="1856-08-02">Aug 2 '56</date>
+           </dateline>
+            <lb/>
+            <p>
+                <address><persName>Miss Mollie Houston</persName>
+                <lb/>
+                <addrLine>Grantville</addrLine>
+                <lb/>
+                <addrLine>Georgia</addrLine>
+                </address>
+            </p>
+        </div>
+        </back>
+  </text>
 </TEI>
