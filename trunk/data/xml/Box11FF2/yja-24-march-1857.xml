@@ -181,6 +181,19 @@
                     <signed>Young J Allen</signed>
                 </closer>
             </div>
-        </body>
+        </body><back>
+            <div type="envelope">
+                <pb facs="Allen_11_ff2_027.jpg"/>
+                <dateline>
+                    <date when="1857-03-24">Mar. 24 1857</date>
+                </dateline>
+                <lb/>
+                <p>
+                    <address><persName>Miss Mollie Houston</persName><lb/><addrLine>W. F. College</addrLine><lb/><addrLine>Macon</addrLine><lb/><addrLine>Georgia</addrLine></address>
+                </p>
+                <p>Care of<lb/>Prest. Smith</p>
+                <pb facs="Allen_11_ff2_028.jpg"/>
+            </div>
+        </back>
     </text>
 </TEI>
