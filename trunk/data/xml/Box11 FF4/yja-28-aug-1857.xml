@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to Mollie Houston, <date when="1857-08-28"
+                        >August 28, 1857</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to Mollie Houston, <date when="1857-08-28">August
+                        28, 1857</date>; Young John Allen Papers, Manuscript, Archives, and Rare
+                    Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907 <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Mollie">
+                        <persName>
+                            <forename>Mary</forename>
+                            <forename>Houston</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+
+                </listPerson>
+
+                <listPlace>
+
+                    <place>
+                        <placeName>
+                            <settlement type="city">Madison</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-06-29">June 29, 2009</date>
+                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff4_015.jpg"/>
+                <opener>
+                    <dateline>
+                        <placeName>Oxford Geo.</placeName>
+                        <date when="1857-08-28">Aug 28th 1857</date>
+                    </dateline>
+                    <salute>My Own Beloved Mollie,</salute>
+                </opener>
+                <p>I know you are beginning to expect a letter from me by this time, and I feel that
+                    I ought to write you a few lines <hi rend="underline">any how</hi> though I have
+                    no time and <add place="supralinear">or</add> opportunity for a full
+                        <unclear>expression</unclear> of my heart.</p>
+                <p>I <unclear>am</unclear> here, Dearest as you might expect; am pleasantly
+                    situated; have a fine and agreeable <hi rend="underline">Chum</hi>, the same in
+                    spirit, in faith and in calling. Have begun College duties, have a very
+                    flattering prospect for a happy and pleasant term and as full a number of
+                    students as formerly.</p><p>I tell you my Dear Mollie, I<pb/><pb
+                        facs="Allen_11_ff4_016.jpg"/><sic></sic>very unfit for a Senior in College,
+                    and the responsibilities with which I am now invested. I almost shrink even from
+                    the performance of known antics sometimes, but yet I cannot with a peaceful
+                    conscience. I had not been here half a day- <unclear>nay</unclear>before Saturday
+                    night, the day I got here, I had two calls <del rend="strikethrough">from</del>
+                    with request from friends to fill two appointments immediately; I had
+                        <unclear>rather</unclear> to hesitate at first but then I consented to do
+                    all I could by the <unclear>help</unclear> of him who hath said "My grade shall
+                    be sufficient for you." But Oh! my Dear Mollie, how unworthy I do feel; how
+                        <unclear>?</unclear>, how<pb/>insignificant and incapable of doing or saying
+                    the least thing or word which shall <unclear>t?</unclear> to the glory of God in
+                    the Salvation of a single Soul. Oh! how deceitful, how rebellious is the heart
+                    of man; how guilty and wretched even his best estate, Oh! the terror and horror
+                    of <hi rend="underline">such <unclear>impr?</unclear> and indiscretion</hi> as
+                    sometimes get hold of the heart of man. The Lord <hi rend="underline">knows our
+                        hearts</hi>; Oh! may he <hi rend="underline">reach</hi> and <hi
+                        rend="underline">cleanse</hi> them, and purify and sanctify them from all
+                        <hi rend="underline">past stains</hi> and guilts of sin. </p>
+                <p>God Bless Thee, My Own Mollie, I want us to live entirely for God, I want<pb/><pb
+                        facs="Allen_11_ff4_017.jpg"/>it to be <hi rend="underline">our meat</hi> and
+                    our <hi rend="underline">drink</hi> to do the will of our Lord daily, to walk
+                    humbly, discreetly and soberly before him; but Oh! how far short of such a life
+                    were we living during my vacation. Were we not rather conforming to the world,
+                    did we not become even worse, were we not too worldly minded, too "sensual, too
+                    devilish"? My Dearest, we did not live right. I know it. I feel it, let us then
+                    repent and confess our sins to him who hath said "he is faithful to forgive us
+                    our sins if we confess them." Let us begin a new life, to walk more closely with
+                    God. That we may always<pb/><pb facs="Allen_11_ff4_018.jpg"/>have the happy and
+                    healthfull influences of the <unclear>vital</unclear> power of Godliness in our
+                    souls and in our lives. My dearest <hi rend="underline">Prayer, prayer,
+                        prayer</hi> is what <hi rend="underline">we need</hi>; we neglect it <hi
+                        rend="underline">too much we did not pray as we used to</hi>, or we would
+                        <add place="supralinear">not</add> have fallen into such temptations and
+                    indiscretions as we did. Let us then "awaken and arise from the dead" that we
+                    may enjoy the light which Christ promises us.</p>
+                <p>I would like to write much to you My Dear Love, you know. I would, but time
+                    forbids this evening.</p>
+                <p>I thought I would just<pb/><pb facs="Allen_11_ff4_019.jpg"/>write you a few lines
+                    now in order that you might hear from me on tomorrow morning, lest you might
+                    become anxious about me, for I know you do once and a while think of <hi
+                        rend="underline">him who is yours only.</hi></p>
+                <p>I wish you Dearest to write to Miss Sallie Hudson and learn from her whether or
+                    not she has received a copy of the "Guide to Holiness" for July &amp;
+                    August, and please inform me. Don't forget it now Mollie.</p>
+                <p>My Mollie Dearest, I have now no more time, and must now close, with a request
+                    for an immediate response, tell me all the news, and the occurrences<pb/>of the
+                    past week.</p>
+                <p>Did you go down to Uncle Carter's. Did Miss Tish come? how did you enjoy yourself
+                    and what did Matt. say?</p>
+                <p>Give my best-- to Miss Tish, I thought I should get to see her before I left, but
+                    she did'nt come,-- but it is well she did not, for had she I should not have
+                    reached here till Monday. So it is all for the best on my part.</p>
+                <p>My love to Mellie and all of them.--</p>
+                <closer>
+                    <salute>More committedly &amp; devotedly thine than ever</salute>
+                    <signed>Young J. Allen</signed>
+                </closer>
+                <postcript>
+                    <label>P.S.</label>
+                    <p>Please do'nt let any one see <hi rend="underline">this letter</hi> for my
+                        sake.</p>
+                    <signed>Young J Allen</signed>
+                </postcript>
+
+            </div>
+        </body>
+    </text>
+</TEI>
