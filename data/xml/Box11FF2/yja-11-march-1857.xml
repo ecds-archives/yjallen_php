@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-11-march-1857.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -180,7 +180,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-04-07">April 7, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="YW">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -191,7 +191,7 @@
                         <placeName>E. C. Oxford Geo.</placeName>
                         <date when="1857-03-11">March 11th 1857</date>
                     </dateline>
-                    <salute>My Dearest Mollie--</salute>
+                    <salute>My Dearest Mollie</salute>
                 </opener>
                 <p>You received my <hi rend="underline">note</hi> a few days since, I suppose,
                     acquainting you, that I should be necessarily detained
@@ -207,7 +207,7 @@
                         <hi rend="underline">will</hi> not withhold any longer, that which I know
                     and feel <add place="supralinear">so</add>justly belongs to <hi rend="underline"
                         >thee</hi>.<pb/><pb facs="Allen_11_ff2_036.jpg"/>But, Dearest, in the first place, I have many apologies to
-                    make, and I think they are due to yourself and just to me.-- My remarks in
+                    make, and I think they are due to yourself and just to me. My remarks in
                     reference to the anxiety and suspense (well, well Mollie I've broke my gold pen
                     right here) which I felt, were perhaps rather strong, and expressed in language,
                     as I too truly apprehended, which was of so dubious and equivocal meaning as to
@@ -223,14 +223,14 @@
                     (though you say you have none) and I accept them. I did not then write them, to
                     reprove your delay, by no means; nor did I censure the past to amend the future,
                     and yet, Dearest Mollie, those sentiments are <add place="supralinear"
-                        >were</add>the true utterances of my heart.-- Yes, Mollie, of that heart,
+                        >were</add>the true utterances of my heart. Yes, Mollie, of that heart,
                     whose every pulse claims to be a throb responsive to thine; They were
                     utterances, voices, echos, as it were, from the very soul of affection, and how
-                    sorry indeed was I to learn that they had pained thy heart- but why should I
+                    sorry indeed was I to learn that they had pained thy heart-- but why should I
                     write so much about <hi rend="underline">this</hi>, were it <hi rend="underline"
                         >a crime</hi>, then it might need some extenuation, a flagrant offense, then
                     might I waste time to palliate it,<pb/><pb facs="Allen_11_ff2_037.jpg"/> but as it is neither, (<del
-                        rend="strikethrough">[illegible]</del>) but what I regard, as the <add
+                        rend="strikethrough"><gap reason="strikethrough" unit="words" extent="1"/></del>) but what I regard, as the <add
                         rend="supralinear">most</add> indubitable evidence and unmistakeable
                     manifestation on either side.-- (The <sic>strongh</sic> expressions and rather,
                     as some might think, extravagant picture of anxiety on the one and the pained
@@ -238,7 +238,7 @@
                     union of hearts which (<hi rend="underline">I trust</hi>) we have enjoyed for so
                     many years, and which I trust we shall in years to come enjoy <add
                         rend="supralinear">still</add>more <hi rend="underline">intimately</hi> and
-                        <hi rend="underline">inseparably</hi>.-- <del>[illegible]</del> I shall now
+                        <hi rend="underline">inseparably</hi>.-- <del><gap reason="strikethrough" unit="words" extent="2"/></del> I shall now
                     hasten on, knowing that you will not love me less for having told you how glad I
                     am <hi rend="underline">to be</hi>with you and when I cannot <hi
                         rend="underline">be</hi>with you, how I rejoice <hi rend="underline">to
@@ -246,52 +246,53 @@
                     interval <pb/><pb facs="Allen_11_ff2_038.jpg"/>that <unclear>we</unclear> are separated, that holds our hearts
                     from <del rend="strikethrough">the</del><add place="supralinear">sweet</add>
                     communion. Pardon me, Dearest, for writing so much about that, I could not say
-                    less.--</p>
-                <p>I have just now arrived at the <hi rend="underline">threshold</hi> of my letter-
-                    and doubtless you think I ought to have been there before now- and I find that I
-                    am scarcely able to enter; I am litterally, Dearest, nearly worn out; duty!
+                    less.</p>
+                <p>I have just now arrived at the <hi rend="underline">threshold</hi> of my letter--
+                    and doubtless you think I ought to have been there before now-- and I find that I
+                    am scarcely able to enter; I am <sic>litterally</sic>, Dearest, nearly worn out; duty!
                     duty!! study! study!! clamors at my heels all day long, and at night fatigued
                     and weary I sit down to write with brain addled, thoughts confused, and scarcely
                     strength or energy enough to originate a thought or conceive an idea, and so it
-                    is <sic>to night</sic>, as you perceive from what has preceded, and no hope for
-                    the better.</p><pb/><pb facs="Allen_11_ff2_039.jpg"/>
+                    is to night, as you perceive from what has preceded, and no hope for
+                    the better.</p><pb facs="Allen_11_ff2_039.jpg"/>
                 <p>But, Dearest, I promised <del rend="strikethrough">you</del> that I had a few
                     items for you, reserved especially for this communication, in addition to which
                     I thought I would also add some little fragments of news (or "reflected
                     fragments" as Mrs. Cross calls them) as news is such <hi rend="underline">a
                         rare</hi> thing with me, and still <hi rend="underline">rarer</hi> in our
-                    communications.--</p>
+                    communications.</p>
                 <p>In company with Prof. Williams I had the privilege on last Saturday week of
                     visiting Madison, by the way, quite a noted place for its colleges, schools and
                     general intelligence, for the high toned moral character and dignified
-                    sentiments and deferment of its citizens.-- As we were there for solicitation
+                    sentiments and deportment of its citizens. As we were there for solicitation
                     and our only business was to establish a Lodge of Knights of Jericho, (at the
                     head of which<pb/>we found the <hi rend="underline">Pastor</hi><add
                         place="supralinear"/><hi rend="underline"
-                    ><unclear>Dean</unclear>Kelsey</hi>of the Church surrounded by a noble and
+                    ><unclear>D'nl</unclear>Kelsey</hi>of the Church surrounded by a noble and
                     zealous corpse of the oldest and most valiant citizens of the place, all of the
                     same fold, (Methodists I mean) we had some more attention paid us than had it
                     been a visit on any other occasion-- (but by the by, Prof W. was once Prof.
                     there in the Meth. Col.) and therefore I was well accommodated and provided
-                    for.-- Pardon my awful (--)ses.</p>
-                <p>In the evening I went around to the College buildings and made my circuit embrace
+                    for.-- Pardon my awful (--)ses.<add place="inline">parentheses</add>
+                In the evening I went around to the College buildings and made my circuit embrace
                     the principal boarding houses. I saw many <hi rend="underline">beautiful
                         faces</hi>, notwithstanding the compliment quite the contrary which I heard
-                    a <hi rend="underline">Yound American</hi><unclear>pay</unclear>them.--</p>
-                <p>I could hardly realize the place or the thought that I was passing<pb/><pb facs="Allen_11_ff2_040.jpg"/>through
+                    a <hi rend="underline">Yound American</hi><unclear>pay</unclear>them.--
+                I could hardly realize the place or the thought that I was passing<pb facs="Allen_11_ff2_040.jpg"/>through
                         <add place="supralinear">the</add>streets of Madison, hemmed in on all sides
                     by so many bright eyes and happy, smiling faces as met my askant glance from
-                        <add place="supralinear">to</add>the window of their study.I fancied myself
+                        <add place="supralinear">to</add>the window of their study. I fancied myself
                     more than once in LaGrange, but as quickly from there I found myself at Macon,
-                    but no <hi rend="underline">Dearest One's</hi> glance, or smile or eye, for I
+                    but no <hi rend="underline">Dearest One's</hi> glance, or smile or eye, kindled this heart or yey, for I
                     knew, My <hi rend="underline">Only Beloved</hi>, was not one of <hi
                         rend="underline">them</hi>, but that she was far away, and that made me sad.
                     So pensively I passed from their midst, but as I was wending along betwixt a
                     "smile and a tear", half glad and half sad, about, I knew not what, lo! I came
                     to the <hi rend="underline">grave yard</hi>-- the fittest place for me then--
-                    and entering, soon<pb/><pb facs="Allen_11_ff2_041.jpg"/>I stood the living above the dead-- as if in obedience to
-                    the poetic inspiration--<lb/>"Ye living men come view the ground<lb/>Where you
-                    must shortly lie,"<lb/>I had appeared there. It was a solemn place, the pantings
+                    and entering, soon<pb facs="Allen_11_ff2_041.jpg" n="9th"/>I stood the living above the dead--as if in obedience to
+                    the poetic injunction--<quote><l>"Ye living men come view the ground</l><l>Where you
+                    must shortly lie,"</l></quote>
+I had appeared there. It was a solemn place, the pantings
                     of the multitude died away before they reached it, no thoroughfare with its
                     jumbling of carriages and rattling wheels and tides of (active) life, broke upon
                     the stillness of the scene, nor invaded the rights of the sleepers; no unki<add
@@ -299,7 +300,7 @@
                         >eye</add> wandered amid the habitations of the lonely dead or traced the
                     brief epitaph at once their history and eulogisms. It was a solemn place, I
                     repeat again, but I love solitude and solemn things and therefore I loved that
-                    place<pb/><pb facs="Allen_11_ff2_042.jpg"/>and indulging (the) a meditative mood I found it good to be there.
+                    place<pb facs="Allen_11_ff2_042.jpg"/>and indulging (the) a meditative mood I found it good to be there.
                     "Solitude" says our great <hi rend="underline">Revivalist</hi>, "makes the head
                     clearer and heart better." So I hope it was with me that evening. I wandered
                     amid the tombs, read inscriptions, meditated, thought of the past, the present
@@ -308,7 +309,7 @@
                     should be as they, that I had a hope that I should be with Christ. Learned many
                     impressive lessons from <hi rend="undeline">its</hi> pages, resolved to live
                     better, more devoted to God, nearest to heaven and in Christ. I forgot to  
-                    mention that at a little distance northward runs the R. Road where the<pb/>cars
+                    mention that at a little distance northward runs the R. Road where the<pb/><sic>the</sic>cars
                     as they pass over the lofty embankment seemed <add rend="supralinear">as</add>
                     if intent, to point the weary traveller to his last and final home; yes, it
                     struck me very forcibly Dearest, to see the cars sweeping by there freighted
@@ -316,12 +317,12 @@
                     somehow thus--"<unclear>That</unclear>day will come when he that runs shall
                     read," and thought I, this must surely be an instance of its fulfillment-- for
                     who, that looked upon that place, did not read his own destiny and his (final)
-                    inscription, thus--<lb/>"<hi rend="underline">'Tis the birthright of
-                        mankind<lb/>to die."</hi>--</p>
-                <p>Many <add rend="supralinear">more</add>interesting reflections and thoughts were
+                    inscription, thus--<quote>"<hi rend="underline">'Tis the birthright of
+                        mankind<lb/>to die."</hi></quote>
+                Many <add rend="supralinear">more</add>interesting reflections and thoughts were
                     suggested there, but I have not time now to speak of them, I fear I am wearing
                     your patience any how.</p>
-                <pb/><pb facs="Allen_11_ff2_043.jpg"/>
+                <pb facs="Allen_11_ff2_043.jpg"/>
                 <p>Suffice <add rend="supralinear">it</add>then to say in conclusion for the <add
                         rend="supralinear">
                         <hi rend="underline">to</hi>
@@ -332,12 +333,12 @@
                     10AM and took the 11AM train back to Oxford reaching here about 1PM, had a fine
                     night's rest &amp;c and arose early and prepared for the duties and
                     exercises of the sabbath, a brief account of which I will give you tomorrow
-                    night if nothing prevents more than I now know of to the contrary.--<closer>So
+                    night if nothing prevents more than I now know of to the contrary.</p><closer>So
                         until then, I commit thee <add rend="supralinear">to</add>My Dear Savior,
                         and bid <hi rend="underline">you</hi><add rend="supralinear">thee</add>an
                         affectionate <hi rend="underline">Good
-                        Bye</hi>.--</closer><signed>Young</signed>
-                </p>
+                        Bye</hi>.--<signed>Young</signed>
+                </closer>
             </div>
         </body>
     </text>
