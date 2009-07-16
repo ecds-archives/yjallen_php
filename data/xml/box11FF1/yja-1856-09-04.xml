@@ -1,0 +1,169 @@
+<TEI xml:id="yja-1856-09-04.xml" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title> letter from Young John Allen to Mollie Houston, <date when="1856-09-04">Sept. 4th 1856</date>, an electronic edition</title>
+            <author>
+            <name type="person">
+              <choice>
+                <sic>Young John Allen></sic>
+                  <reg>Allen, Young John, 1836-1907</reg>
+              </choice>
+            </name>
+	</author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Young John Allen to Mollie Houston, <date when="1856-09-04">November 8, 1890</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                
+   <person>Mollie Houston</person>        
+          
+                           </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2009-03-25">March 25, 2009</date>
+                <name xml:id="">Sue Trowbridge</name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+<text>
+    <body>
+        <div xml:id="yja_1856_09_04" type="letter">
+<pb facs="Allen-11-ff1-013.jpg"/>
+           <head>[Letter from Y. J. Allen to Mollie Houston]</head>
+
+           <opener>
+               <dateline>
+                   <name type="place">Emory College, Oxford Geo.</name>
+                   <date when="1856-09-04">Sept 4 1836</date>
+               </dateline>
+
+            <salute>My Dear One,</salute> 
+           </opener>
+
+           <p>I have gained a few minutes this evening, by hastening over my Philosophy, which I desire after some sort to spend in communion with thee.  Two
+    weeks ago, today, I wrote you a hasty letter, as this too must be, which I should have long since expected an answer to, had I not heard <hi rend="underline">what</hi> I took to be a valid and I assure you a most acceptable excuse, though I must admit that I have been looking anxiously with <hi rend="underline">a partial</hi> expectation, <hi rend="underline">at least</hi>, of getting one every morning, for near 5 days now, not knowing how long that excuse (for it is a good one, and you are excusable most assuredly under all such circumstances) might still continue; I have now taken it for granted that you are still engaged both mentally <pb n="Allen-11-ff1-014.jpg"/>and spiritually in that glorious work which seems to have sprung up near you and thereby given you such precious opportunities and privileges to work for your Redeemer's cause; My Dear, I did not wish hardly to mention this subject just here, but could not help it, but wished to wait until I should hear 
+from your own heart and pen what has been done, then to give you some of my feelings as they come up in earnest emotions the morning I got the 
+the news of your devotedness in zeal and active exertion for the cause you have espoused.  <hi rend="underline">I was glad, I was glad Dearest One</hi>, when I heard of the lively interest you had taken and publicly manifested in the meeting at Grantville, I so hope and pray that the Lord will greatly bless your 
+efforts and give you greater courage and strength to labor in his vineyard, with increasing <pb n="Allen-11-ff1-014.jpg"/>assurances of success, and of hope for the rewards of his 
+promises.  Dearest Mollie, I will not anticipate and say in this little <hi rend="underline">hasty scribble</hi> what I desire to say at more length at another and better time, especially after I hear from <hi rend="underline">you</hi>.  I don't intend this to be considered as a letter, Mollie, at all, but just a <add place="supralinear">few</add> <hi rend="underline">little ramblings</hi> of the pen and mind a few minutes before going in to the lecture room.  I have no news that would interest you anyway, I suppose, and shall therefore mention none, 'cepting (<hi rend="underline">your word</hi>) I tell you that I heard from <hi rend="underline">Dessa</hi> the other day.  Two of our students, and I don't know how many more, live very near her and know her well.  I heard of her swapping brothers with another young lady up there, the young man a student here of the Soph. class, with whom I suppose she enjoyed a sweet ride, as they exchanged for that purpose, <pb n="Allen-11-ff1-015.jpg"/>Messrs. Peek and Blance are the two gentlemen and the latter the one she <hi rend="underline">swapped for</hi>, I have told you this particularly that you may take advantage of the information in writing to her sometime if you desire.</p>
+
+          <p>I must now close, begging that you pardon <hi rend="underline">this almost unpardonable attempt</hi> at a <hi rend="underline">communion</hi>, especially with.</p>
+          <p>And I must request that you write
+me soon, and give me all the particulars and news &#x0026;etc that have occurred since <del rend="strikethrough">that</del> I left.  Do now, <hi rend="underline">My Dear Mollie</hi>, please write me a long letter and I will repay you twofold in my next.</p>
+
+          <p>Give my love to Mellie &#x0026; sisters and believe <add place="supralinear">me</add> ever faithful and devotedly</p> 
+
+          <closer>
+              <salute>thine own</salute>
+              <signed>Young Allen></signed>
+          </closer>
+            <postscript>Scold Matt for me, what did you think of Elsie?  <hi rend="underline">Please answer my</hi> ?</postscript>
+        </div>
+    </body>
+</text>
+</TEI>
