@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to Mollie Houston, <date when="1857-06-15">June
+                        15, 1857</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to Mollie Houston, <date when="1857-06-15">June
+                        15, 1857</date>; Young John Allen Papers, Manuscript, Archives, and Rare
+                    Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907 <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Mollie">
+                        <persName>
+                            <forename>Mary</forename>
+                            <forename>Houston</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+
+                </listPerson>
+
+                <listPlace>
+
+                    <place>
+                        <placeName>
+                            <settlement type="city">Madison</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-06-08">June 15, 2009</date>
+                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff4_003.jpg"/>
+                <opener>
+                    <dateline>
+                        <placeName>E. C. Oxford Geo.</placeName>
+                        <date when="1857-06-15">June 15th 1857</date>
+                    </dateline>
+                    <salute>My <hi rend="underline">own Dear One</hi>,</salute>
+                </opener>
+                <p>I should have answered your letter gladly long before now, but I wished when I
+                    wrote to accompany the letter with a Catalogue, designating the Speakers
+                    &amp;c for Commencement, and so have been delayed till this morning, which
+                    happens to be a very unfortunate hour for writing to <hi rend="underline"
+                        >you</hi>. I shall then Dearest, be very brief, for time is short for
+                    writing. I have a great deal to do. I think we shall have mutually to excuse
+                    each other from long letters now; I will not then expect nor require long ones
+                    from you nor must you from me.<pb/><pb facs="Allen_11_ff4_004.jpg"/>I shall not
+                    let you off however from writing me short ones, for I cannot do without hearing
+                    from you; and I know <sic>will</sic> not wish me too will you Mollie?</p>
+                <p>I received a letter from Matt this morning and Oh! you have no idea how her <hi
+                        rend="underline">words burned my very heart;</hi> I <hi rend="underline"
+                        >could not write</hi> to her; I try to be impartial, honest, punctual and
+                    faithful to my Correspondent. I have'nt but few-- but there are times when <hi
+                        rend="underline">I cannot write</hi>. I wanted to write her a long and
+                    interesting letter, and was delayed for very want of time. My time is all
+                    occupied. The scenes and antics through which I<pb/>had been passing I thought
+                    would excuse me in the past. And now I scarcely know how to write to anyone. I
+                    have a speech to write for Commencement, my College antics all to attend to,
+                    besides I have got preparation to make this week for the Pulpit on next sabbath
+                    and then on the next week I have a like engagement to fill. Oh! where! where! is
+                    the time the boasted leisure of the student who attends or would attend to his
+                    duties!-- I know you will pardon me <hi rend="underline">My own</hi> Mollie.</p>
+                <p>Well now let me say a few words in reference to Commencement. Matt. says she
+                    cannot come, and does not expect to come now- My Mollie<pb/><pb
+                        facs="Allen_11_ff4_006.jpg"/></p>
+                <p><unclear>Fairila</unclear> I don't expect will come. Now how will it be with <hi
+                        rend="underline">My Dearest Mary</hi> won't <hi rend="underline">she
+                        come</hi> neither? Now I did want you all to come, and <hi rend="underline"
+                        >you</hi> specially Mollie, but I shall not insist if you do not feel
+                    inclined to come since all the others- your friends have given out the
+                    notion.</p>
+                <p>I do want to <hi rend="underline">see you very much</hi>, and <hi
+                        rend="underline">would be glad</hi> to meet you in Atlanta and bring you
+                    down if you will come. Now Dearest, please write me fully whether or not you
+                    will come and I will be sure to meet you in Atlanta if <hi rend="underline">you
+                        will let me</hi>.</p>
+                <p>Be assured you will be among friends here Mollie, if you come<pb/><pb
+                        facs="Allen_11_ff4_007.jpg"/>and that you will be taken good care of for <hi
+                        rend="underline">I will do it myself</hi>,-- great assurance isnt it. And
+                    you shall have the <hi rend="underline">best</hi>attention and the <hi
+                        rend="underline">best</hi>company that can be selected from the young men
+                    here to attend you anywhere you may wish to go when I can not with propriety
+                    attend you myself. You understand what I mean by propriety.</p>
+                <p>I want you to come if you will, but if not, <hi rend="underline">it won't be
+                        long, no it won't be long before I will come to see you</hi>, and <hi
+                        rend="underline">be</hi> with you.</p>
+                <p>Please pardon this rambling letter. Write me back immediately all about it--
+                    about your Commencement, your subject for Composition, and please<pb/><add
+                        place="supralinear"><hi rend="underline">Have I "indulged" too
+                        much</hi>?</add> send me a Catalogue.</p>
+                <closer>
+                    <p>My Dear Mary, I must close now, and I want to request you to pray much, and
+                            <hi rend="underline">very earnestly</hi> for me that I may have strength
+                        and power to do the will of God in all things boldly and courageously-- and
+                        expecially on the next two sabbaths,-- I wish you particularly to remember
+                        me.</p>
+                    <p>Write me soon, let me ask again, and tell me, all you can in the letter
+                        circumstances may favor you to write- whether in the long or short. I have
+                        much I wanted to write you but I must wait now till I see My Mollie face to
+                        face then will have a happy time. Oh! how <unclear>?</unclear> only one
+                        looks forward to that day.</p>
+                    <salute>Yes thine alone I am</salute>
+                    <signed>Young J Allen</signed>
+                </closer>
+            </div>
+        </body>
+        <back>
+            <div type="envelope">
+                <pb facs="Allen_11_ff4_001.jpg"/>
+                <dateline>
+                    <date when="1857-06-15">June <add rend="supralinear">15</add> 57</date>
+                </dateline>
+                <lb/>
+                <p>
+                    <address><persName>Miss Mollie Houston</persName><lb/><addrLine>W. F. College</addrLine><lb/><addrLine>Macon, Georgia</addrLine></address>
+                </p>
+                <p>Care of<lb/>Prest. Smith</p>
+                <pb facs="Allen_11_ff4_002.jpg"/>
+            </div>
+        </back>
+    </text>
+</TEI>
