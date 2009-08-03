@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to an editor, <date when="1868-01-28">Janurary
+                        28, 1868</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J. Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to an editor, <date when="1868-01-28">January
+                        28, 1868</date>; Young John Allen Papers, Manuscript, Archives, and Rare
+                    Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907 <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Mollie">
+                        <persName>
+                            <forename>Mary</forename>
+                            <forename>Houston</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+
+                </listPerson>
+
+                <listPlace>
+
+                    <place>
+                        <placeName>
+                            <settlement type="city">Madison</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-08-03">August 3, 2009</date>
+                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff8_015.jpg"/>
+                <opener>
+                    <dateline>
+                        <placeName>Shanghai China</placeName>
+                        <date when="1868-01-28">Jan. 28, 1868</date>
+                    </dateline>
+                    <head>Letter No. 2.</head>
+                </opener>
+                <p>In a previous letter I informed you, if I mistake not, that the late Tai-ping
+                    rebellion was of a two-fold, politico-religious character, and that while they
+                    sought the overthrow of the present Tartar dynasty, their chief object both at
+                    its beginning and during its progress was the extermination of idolatry. Their
+                    iconoclastic fury far surpassed all their other characteristics, and was
+                    unabated even to the day of their downfall. Hence, they laid waste in capital,
+                    city and country, on islet, lake, river, and mountain, every temple and
+                    habitation appropriated to idolatry. I have travelled through a large extent of
+                    the country once in their hands and in no place did I find one of ten thousand
+                    temples whose idols had not fallen before them. Indeed, so complete an erasure
+                    both of images and priests did they effect that idolatry seemed almost, if not
+                    entirely and hopelessly, doomed to extinction.</p>
+                <p>After the overthrow of the Rebellion and the restoration of the country to Tartar
+                    rule, the missionaries were very anxious to follow the returning refugees to
+                    their desolated homes and carry with them an effectual antidote against a
+                    relapse into the fatal errors and superstitions which formerly duped and
+                    beggared them.</p>
+                <p>The desire to follow up the openings thus made by the Rebels was the greater, and
+                    the entrance more certain and hopeful, from the fact that among those returning
+                    were many Christians who desired to carry with them and establish in their midst
+                    the Christian Church and its doctrines. Many of us did all we could to enter in,<pb/>
+                    <pb facs="Allen_11_ff8_017.jpg"/>but for lack of laborers, both native and
+                    foreign, the country seemed destined once more to be given up to idolatry. Judge
+                    then of our surprise and joy when we learned at Su Chow, the other day, that the
+                    evil day is still put off and the Church has yet another opportunity of entering
+                    the field, a large field, amongst a people who are refused the privilege of
+                    rebuilding their temples or resorting to idolatry.</p>
+                <p>The facts are about these: A large number of Mandarins holding office in the
+                    recently desolated region, convinced apparently of the folly of idolatry, its
+                    deceptive and impoverishing character, have in the interests of the country
+                    petitioned or memorialized the Government to forbid the rebuilding or even the
+                    repairing of any of the temples, except the Confucian, which even the Rebels
+                    respected. The Emperor had responded favorably, and I was told that a
+                    proclamation had been issued accordingly in the region above mentioned. Again,
+                    in the city of Su Chow, where I had least <sic>expevted</sic> such a turn in the
+                    matter, I was shown a proclamation which was issued about the 25th of December
+                    last, by the On toah-sz, or Criminal Judge of this Province, and placarded in
+                    the largest thoroughfares and public places, absolutely forbidding women to
+                    enter the temples, while idolatry and the priesthood are denounced, the one as
+                    vile (encouraging lewdness), and the other as the deceivers of the people, and
+                    heavy penalties are threatened against all who dare violate the proclamation by
+                    appearing at the temples for purposes of worship. The priests are threatened
+                    with the <hi rend="underline">cangue</hi>, or heavy wooden collar, and to be
+                    chained at the entrance of their<pb/>
+                    <pb facs="Allen_11_ff8_019.jpg"/> temples. The husband of any woman violating is
+                    to be held responsible and punished with the bamboo, and the smaller mandarins
+                    having jurisdiction are made responsible for the conduct of their several
+                    districts, and are threatened with degradation, and other punishment, if they
+                    attempt to evade the requirements of the proclamation. </p>
+                <p>The people were thunder-struck at the announcement and read the <hi
+                        rend="underline">writing on the wall</hi> with awe. I heard the following
+                    comment only, "the proclamation savors of the Jesus doctrines; the Judge must
+                    belong to the Church."</p>
+                <p>On Monday the 20th, we left Su-chow, and in a day and a half reached Kia-Shin-fu
+                    in the Che-kiang provinces, about sixty miles to the south of Su-chow. There we
+                    found that the highest Mandarin of the place had but a few weeks previously
+                    issued a proclamation in obedience to the Governor General who had several
+                    months before issued one at Hang-Chow, removing every obstruction out of the way
+                    of freely preaching Christianity, and also guaranteeing to the people the utmost
+                    religious liberty.</p>
+                <p>Mr. Editor, we missionaries at Shanghai are almost overwhelmed by the signs of
+                    the times. What do they mean? We are astonished at the revelations that are now
+                    apparent. Are not all things working together here to accomplish the purposes of
+                    Jehovah? It is not by might nor by power, but by the Spirit of the Lord that
+                    Christianity is noiselessly effecting her revolutions in this ancient pagan
+                    land. The word of the Lord shall not return unto him void. Oh! how our faith, or
+                    rather want of faith, is being rebuked.<pb/>
+                    <pb facs="Allen_11_ff8_021.jpg"/></p>
+                <p>If there was ever a time for the Church to awake, arise and put her armor on and
+                    advance to victory, that time, that opportunity is the present. The Mandarins
+                    themselves, though it may be all unconsciously, have arrayed themselves on our
+                    side and have set to their powerful arm to arrest the tide of returning
+                    superstition, idolatry and death. While, therefore, the Emperor on his throne,
+                    and the Madarins in the provinces are proscribing idolatry and inviting
+                    Christianity by removing its disabilities, shall the Church cease to pray for
+                    the China Mission, withhold its support and deny in future -- at an early day,
+                    to send one, five or ten of the score and more missionaries that are now an
+                    absolute necessity to secure a tithing of the harvest spread out to the
+                    sickle?</p>
+                <closer>
+                    <salute>Yours truly,</salute>
+                    <signed>Young J. Allen.</signed>
+                </closer>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>
