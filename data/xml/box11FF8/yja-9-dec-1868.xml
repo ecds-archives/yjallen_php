@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to his church Board, <date when="1868-12-09"
+                        >December 9, 1868</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J. Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to his church Board, <date when="1868-12-09"
+                        >December 9, 1868</date>; Young John Allen Papers, Manuscript, Archives, and
+                    Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907 <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Mollie">
+                        <persName>
+                            <forename>Mary</forename>
+                            <forename>Houston</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+
+                </listPerson>
+
+                <listPlace>
+
+                    <place>
+                        <placeName>
+                            <settlement type="city">Madison</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-08-21">August 21, 2009</date>
+                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff8_027.jpg"/>
+                <opener>
+                    <dateline>
+                        <placeName>Shanghai, China,</placeName>
+                        <date when="1868-12-09">Dec. 9, 1868.</date>
+                    </dateline>
+                </opener>
+                <p>Missionaries are constantly arriving from England and America. Scarcely a month
+                    passes that does not chronicle an addition to our forces. The interior is
+                    gradually becoming occupied, and the aspects of our general work all along the
+                    coast line are brightening. Toleration is everywhere proclaimed, and the country
+                    is now decidedly open and inviting. Mobs, violence and persecution, sometimes,
+                    however -- as recently as Yangchow and Formosa -- are still experienced, but
+                    their effect rather stimulates than abates the progress of our work.</p>
+                <p>We are anxious to see <hi rend="underline">our</hi> stations multiplied, and had
+                    hopes that early reinforcements would enable us to move abreast with other
+                    missions, but recent letters from the Secretary of the Board and Brother
+                    Smithson quite disappoint our expectations in that respect, and in the mean time
+                    our only native preacher has sickened and died, leaving us almost helpless and
+                    hopeless.</p>
+                <p>By the mail just in, we are in receipt of a small remittance from the Treasurer,
+                    which has been appropriated to paying off the balance of our debt, which is now
+                    reduced to a minimum. But he gives us but little encouragement for the future.
+                        <hi rend="underline">What are we to do</hi>? For ourselves we have resolved
+                    the question: <hi rend="underline">We will never abandon the China mission</hi>.
+                    You can't starve us out. The siege has lasted seven years, and though it last as
+                    many more we will not surrender. But perhaps you -- I mean the church -- are too
+                    well satisfied of that already; hence do not concern yourself about it.</p>
+                <p>Under the circumstances I am not able to preach much, but am doing the next thing
+                    to it -- teaching and printing. From nine<pb/><pb facs="Allen_11_ff8_029.jpg"/>
+                    till twelve o'clock I am engaged in the Anglo-Chinese school, which consists of
+                    fory young men, who are looking forward to appointments as the future ministers
+                    and consuls to Western nations. They are of the higher and better class of
+                    Chinese society, and I have so far succeeded in gaining their confidence that I
+                    have no hesitation in pronouncing the school under my control and influence. I
+                    shall not give it up again voluntarily. Every other afternoon, from one o'clock
+                    till five P.M., is devoted exclusively to the tri-weekly newspaper, of which I
+                    am editor. It is a secular paper, chiefly occuupied with the news, foreign and
+                    domestic, scientific instruction, etc., and advertisements. It has numerous
+                    readers, and through it I hope to instruct a large number in the knowledge of
+                    the truth, and thus, by removing the basis of many of their superstitions,
+                    prepare them for the truth as it is in Jesus. They all know the edtor as a <hi
+                        rend="underline">Kiau Sz</hi>. The balance of my time is employed editing
+                    the Native Church Intelligencer, our only church organ, of which I am also
+                    proprietor. It has met with wonderful success, and has been most highly
+                    commended by our oldest and foremost missionaries. The native churches are
+                    delighted with it, and the native preachers heartily support it. It is taken by
+                    all the missions, without exception, and circulates at all the ports and in the
+                    interior, wherever there is a native preacher. You see, therefore, that I am
+                    fully employed, and perhaps as usefully employed, and as successfully as is
+                    possible.</p>
+                <p>As a teacher and editor, I have access to all classes, and that constantly. If
+                    the Board wishes me to release the school and papers<pb/><pb
+                        facs="Allen_11_ff8_031.jpg"/> I will do so, provided they will enable me,
+                    without distraction, to do something better. But until then I shall never
+                    voluntarily surrender my present position before this people, thirsting for
+                    knowledge and dying without salvation. Under the circumstances I need to
+                    apologize for brevity and haste.</p>
+                <closer>
+                    <signed>Y. J. Allen</signed>
+                </closer>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>
