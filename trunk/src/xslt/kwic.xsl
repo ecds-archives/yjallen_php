@@ -16,7 +16,10 @@
 
 
   <xsl:template match="/">
-    <xsl:apply-templates select="item"/>
+    <xsl:apply-templates/>
+  </xsl:template>
+
+  <xsl:template match="item">
   
     <h2>Keyword in Context</h2>
     
@@ -24,9 +27,9 @@
       <p>
         <a>
           <xsl:attribute name="href">document.php?id=<xsl:value-of select="//@xml:id"/>&amp;<xsl:value-of select="$url_suffix"/></xsl:attribute>
-          <xsl:value-of select="//tei:title"/>, 
-        </a><xsl:apply-templates select="//tei:name//tei:sic"/>, 
-    <xsl:value-of select="//tei:date"/>
+          <xsl:value-of select="tei:title"/>, 
+        </a><xsl:apply-templates select="tei:name//tei:sic"/>, 
+    <xsl:value-of select="tei:date"/>
       </p>
     </div>
    

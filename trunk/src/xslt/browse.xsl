@@ -10,23 +10,21 @@
 
 <xsl:output method="html"/>
 <xsl:template match="/">
-
-<!-- begin body -->
-<xsl:element name="body">
-  <xsl:apply-templates select="//result"/>
-</xsl:element>
+<xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="result">
   <xsl:element name="ul">
     <xsl:attribute name="class">contents</xsl:attribute>
+<xsl:for-each select=".">
   <xsl:element name="li">
     <xsl:element name="a">
-      <xsl:attribute name="href">document.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>
+      <xsl:attribute name="href">document.php?id=<xsl:apply-templates select="@xml:id"/></xsl:attribute>
       <xsl:apply-templates select="tei:title"/>
     </xsl:element><!-- a -->
     <xsl:text>, </xsl:text><xsl:value-of select="tei:sic"/>
   </xsl:element> <!-- li -->
+</xsl:for-each>
   </xsl:element> <!-- ul -->
 </xsl:template> <!--result -->
 </xsl:stylesheet>

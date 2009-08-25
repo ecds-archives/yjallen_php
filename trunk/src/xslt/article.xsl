@@ -26,12 +26,10 @@
 <xsl:include href="table.xsl"/> -->
 <xsl:include href="footnotes.xsl"/>
 <xsl:output method="html"/>  
-
-<xsl:template match="/"> 
-    <xsl:call-template name="footnote-init"/> <!-- for popup footnotes -->
-    <xsl:apply-templates select="//tei:body"/>
-
-</xsl:template>
+<!-- this is broken -->
+<!-- <xsl:template match="/">
+    <xsl:call-template name="footnote-init"/> --><!-- for popup footnotes -->
+<!--</xsl:template> -->
 
 
 <xsl:template match="/"> 
