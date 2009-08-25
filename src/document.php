@@ -18,6 +18,7 @@ $header2_xsl = "xslt/dc-htmldc.xsl";
 
 
 $query='declare namespace tei="http://www.tei-c.org/ns/1.0";
+declare option exist:serialize "highlight-matches=all";
 for $b in /tei:TEI[@xml:id="' . "$id" . '"]';
 if ($terms != '') {$query .= "[. |= \"$terms\"]";}
 $query .= 'return
