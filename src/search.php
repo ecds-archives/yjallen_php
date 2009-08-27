@@ -3,7 +3,7 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -43,9 +43,10 @@ if ($subj)
 if (count($options)) {
 
   $searchfilter = "[.//tei:div" . implode(" and ", $options) . "]"; 
-  print("DEBUG: Searchfilter is $searchfilter");
+  // print("DEBUG: Searchfilter is $searchfilter");
   
   $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';
 for \$a in /tei:TEI$searchfilter
 let \$t := \$a//tei:titleStmt//tei:title
 let \$auth := \$a//tei:titleStmt//tei:author/tei:name
