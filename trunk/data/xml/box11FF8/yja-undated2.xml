@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to Dr Lehon, <date when="1868">1868?</date>, an
+                    electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J. Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to Dr Lehon, <date when="1868">1868?</date>;
+                    Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory
+                    University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907 <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Mollie">
+                        <persName>
+                            <forename>Mary</forename>
+                            <forename>Houston</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+
+                </listPerson>
+
+                <listPlace>
+
+                    <place>
+                        <placeName>
+                            <settlement type="city">Madison</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-09-01">September 01, 2009</date>
+                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff8_012.jpg"/>
+                <head>Letter 3d</head>
+                <opener>
+                    <salute>My dear Dr. Lehon,</salute>
+                </opener>
+                <p>Having in previous letters nos 1 &amp; 2 urged the necessity of qualifying
+                    and thrusting out a greater number of vigorous native agents to meet the wants
+                    of our work and extend the area of our operations, I will now venture to call
+                    your attention to the <hi rend="underline">field</hi> which seems most open and
+                        appr<unclear>?</unclear> for the full development of our church system. Our
+                    church in spirit and cast is essentially missionary in its organization, based
+                    on the great principle that redemption by Christ is general, and that
+                    consequently, christianity is a universal remedy for the <hi
+                        rend="strikethrough">wants</hi><add place="supralinear">sin</add> and woe of
+                    the world, and true to that principle and spirit, it has set to work, accepted
+                    the world as its parish, and adopted a system, at once characteristic and
+                    competent as a means to the end, of reaching and meeting <unclear>?</unclear>
+                    its wants.</p>
+                <p>The success which our church has had in the West during the past century has been
+                    unparalleled and marvelous and while we may not claim all the honor of its
+                    efficiency as attaching to and belonging to the <unclear>?</unclear>, yet we
+                        <unclear>conceive</unclear> this greater share of its trimphs is due to the
+                    ubiquitous and vigorous <unclear>enterprises</unclear> of that system.</p>
+                <p>While therefore, we are anxious to see our church established here, and that
+                    characteristic and efficient feature of it in large and extensive exercise among
+                    this people, (yet we cannot<pb/><pb facs="Allen_11_ff8_013.jpg"/> to discern
+                    great embarrassments, and hence great and just reasons for careful consideration
+                    of the field that we should broach and occupy in view of the largest measure of
+                    success and protracted usefulness.)</p>
+                <p>We think it becoming in us, in view of the vastness of this Empire, and the great
+                    diversity of its dialects, as well as the utter impossibility <add
+                        place="supralinear">inability</add> under which the church suffers <add
+                        place="supralinear">labors</add> to meet the demands made upon it to use
+                    every caution to make a selection from the numberless dialects and sections of
+                    this great country, which shall give us the widest range of efficiency and
+                    usefulness.</p>
+                <p>As you are aware, and as I have stated above, the country while it is nominally
+                    one, governed by the same Emperor and laws, and having the same written and
+                    printed characters, is really divided into as many sections or tribes, with
+                    altogether different spoken dialects, quite as dissimilar and unintelligible to
+                    each other, except by means of the written character as the nations of Europe,
+                    who use the roman letters but have an idiom and dialect peculiarly their own. So
+                    extensive are these differences that scarcely any two of the ports now open to
+                    foreign commerce in China, have the same dialect or are intelligible to each
+                    other. These difficulties not only <unclear>?</unclear> on the coast they are
+                    more <unclear>?</unclear> still in the Interior where each large<pb/> city
+                    becomes the center of a different dialect which is gradually shaded down and
+                    lost as you proceed still farther beyond. Besides, none of these dialects, admit
+                    of being written, no <hi rend="strikethrough">works</hi>
+                    <add place="supralinear">books</add> are attempted to be printed in them by the
+                    natives. If they read at all, which is exceedingly rare, perhaps about one in a
+                    hundred, may have some idea of what a few of the simplest
+                        <unclear>char</unclear> are called- they must <unclear>?</unclear> the
+                        <unclear>?</unclear>literary style, or the Mandarin which is a simpler
+                    style, consequently they have to use what to them is a dead language.</p>
+                <p>These remarks apply more particularly to that Section of Country to the South of
+                    the great river Yang Tze, where the tribes and dialects are as numerous
+                    apparently as their large cities. <hi rend="strikethrough">Having learned one of
+                        their dialects, you are</hi> The acquisition of one of them does not qualify
+                    you for access to or <unclear>work</unclear> among the others, for the natives
+                    themselves find it impossible to acquire anything like a proficiency to enable
+                    them to communicate very readily. North of the great river however while there
+                    exists slight changes in dialect yet the idiom, and expression is the same and
+                    apparently had a common origin, in one distinct tribe. Their language is what is<pb/>
+                    <pb facs="Allen_11_ff8_014.jpg"/>
+                    <sic>is</sic>
+                    <unclear>usually?</unclear> known as the <hi rend="underline">Mandarin</hi>
+                    which is both written and <unclear>printed?</unclear>. It is the language of the
+                        <unclear>Consul?</unclear> and has always been, both where the Capital was
+                    at Nankin and in Pekin. All <add place="supralinear">
+                        <unclear>?</unclear>
+                    </add> teachers and tradesmen are supposed to speak and understand more or less
+                    of it. It is estimated that 3/4 of the Provinces of the Empire can read it
+                    understandingly and that it is the spoken dialect of nearly one half the whole
+                    Empire. Through this vast section from Nankin its most southern city you may
+                    travel north to Pekin and be readily understood &amp; vice versa or from the
+                    Shantung province on the eastern coast to the <unclear>far?</unclear> interior
+                    provinces of Sz Chen and Shensi and be also intelligible.</p>
+                <p>While in the Southern regions a native preacher would be almost useless away from
+                    his own immediate city and dialect, in the north he may travel and preach
+                    &amp; <add place="supralinear">be</add> understood throughout the whole
+                    region.</p>
+                <p>These are facts which I think it worth while to notice, in view of our future
+                    operations here, for although it is our desire to give all this
+                    people, whatever be their dialect, the opportunity of having the gospel
+                    &amp;c- yet I think it far more compatible with common sense, and the system
+                    of </p>
+            </div>
+        </body>
+    </text>
+</TEI>
