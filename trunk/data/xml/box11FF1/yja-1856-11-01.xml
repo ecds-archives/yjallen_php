@@ -164,5 +164,22 @@
                 <p>Your Paper I have ordered to be changed, and perhaps you have received it for this week.<pb/></p>
                     <pb facs="Allen-11-ff1-048.jpg"/>  
                 <p>You may prepare, Mollie, to visit the Conference with me this winter as I shall expect you to go with me&#x2014; please go, now Dearest, do not disappoint me. I promise that it shall prove a happy as well as interesting time with us.</p><p>Please now, <hi rend="underline">do</hi> forgive the imperfections of this harem scarem letter and write me back immediately, on the very day you get this, if possible for I will be <hi rend="underline">over</hi> anxious to hear from <hi rend="underline">you</hi>.  Give my love to Mellie and Bexa</p> <closer><salute>and still believe me thine only and thine faithfully</salute><signed><name rend="underline">Young Allen</name></signed></closer><lb/><postscript><p>Give me all the news with <hi rend="underline">you</hi> both temporal and spirtiual, please</p></postscript>
-            </div></body></text>
-</TEI>
+            </div>
+	  </body>
+	  <back>
+	    <div type="envelope">
+	      <pb facs="Allen_11_FF1_036.jpg"/>
+		<note place="inline">Nov. 1 '56</note>
+		  <p>
+		    <address><persName>Miss Mollie Houston</persName>
+		    <lb/>
+		    <addrLine>Grantville</addrLine>
+		    <lb/>
+		    <addrLine>Georgia</addrLine>
+		    </address>
+		  </p>
+	      <pb facs="Allen_11_FF1_037.jpg"/>
+	    </div>
+	  </back>
+	</text>
+      </TEI>
