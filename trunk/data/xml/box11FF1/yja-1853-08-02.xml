@@ -1,4 +1,4 @@
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:id="yja-1853-08-02.001">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -128,7 +128,7 @@
     <revisionDesc>
         <change>
             <date when="2009-04-08">April 4, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -156,13 +156,12 @@
     to go up to God in prayer for you Dear Beloved One since I saw you, that he may be your comfort and exceeding great reward in all your
     affliction and sorrow.  I never did in all my life feel so entirely cut loose from the world as I do now.  God Bless you now my <hi rend="underline">Only One,</hi>
     and may he establish you at all times and everywhere and make you a whole-hearted-devoted, useful active working Christian is the sincere 
-    daily prayer from your Faithful and devoted <salute><lb/>forever unchanging <hi rend="underline"><signed><persname>Y.A.</persname></signed></hi></salute></p>
-        
+    daily prayer from your Faithful and devoted</p> <closer><salute><lb/>forever unchanging</salute> <signed><persName rend="underline">Y.A.</persName></signed></closer>        
         <postscript>
-    I will come at whatever time you may see fit to appoint be sure and tell me Mollie if it be in your power you know that although I want to be
+    <p>I will come at whatever time you may see fit to appoint be sure and tell me Mollie if it be in your power you know that although I want to be
     with you so anxiously yet I would not in my over anxiousness act improperly or unwisely nor unadvisedly, so Mollie now you must advise me. 
     I have written this in great haste for I have to leave now to get back to our prayer meeting to night.  God Bless and keep you forever.  Farewell
-    for a few days
+    for a few days</p>
         </postscript>
 
               </div>
@@ -175,14 +174,14 @@
                     <lb/>
                     <date when="1856-08-02">Aug 2 '56</date>
                 </dateline>    
-                    <address>
+                    <p><address>
                         <persName>Miss Mary Houston</persName>
                         <lb/>
                         <addrLine>Grantville</addrLine>
                         <lb/>
                         <addrLine>Georgia</addrLine>                    
                     </address>
-                
+                    </p>
             </div>
         </back>
     </text>

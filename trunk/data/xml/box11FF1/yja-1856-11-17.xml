@@ -1,4 +1,4 @@
-<TEI>
+<TEI xml:id="yja-1856-11-17.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -34,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from Young John Allen to Mollie Houston <date when="11-17-1856">Nov. 17 1856</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to Mollie Houston <date when="1856-11-17">Nov. 17 1856</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -124,7 +124,7 @@
     <revisionDesc>
         <change>
             <date when="2009-05-07">May 7, 2009</date>
-                <name xml:id="">Sue Trowbridge</name>
+                <name xml:id="sat">Sue Trowbridge</name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -133,7 +133,7 @@
         <body>
             <div type="letter">
                 <pb facs="Allen-11-ff1-057.jpg"/>
-                <opener><dateline><name type="place">Emory College, Oxford Geo.</name><date when="1856-17-01"> Nov.17th 1856</date></dateline><lb/>
+                <opener><dateline><name type="place">Emory College, Oxford Geo.</name><date when="1856-11-17"> Nov.17th 1856</date></dateline><lb/>
                     <salute>My dearest Mollie.<lb/></salute></opener>
                 <p>Yours of the 14th inst. mail was received on yester eve with a welcome of kindness and pleasure which belongs to the greeting of thy letters alone. It arrived Saturday morning but I was absent on a visit <hi rend="underline">down to Starrsville</hi>.  I had an excellent time, Mollie, with my old friends there; spent some pleasant hours in the company of some charming ladies, <hi rend="underline">last</hi> summer graduates of the <unclear>SM??</unclear>  <hi rend="underline">one</hi> of whom seemed disposed to avail herself of <hi rend="underline">Leap Year</hi> privileges, but met with <hi rend="underline">no</hi> encouragement, or rather <hi rend="underline">success</hi> in so <hi rend="underline">attempting</hi>.</p> 
                 <p>But, my Dearest One, I have something more happy, more glorious, more soul-rejoicing to tell you, than that I had a pleasant visit to Starrsville and a pleasurable time among my friends there- and you too are intimately connected with and interested in it.</p>
@@ -151,9 +151,9 @@
                 <p>You must write me another very long letter before I leave here, Dearest,- <hi rend="underline">I will not lose confidence in you, no, no.</hi> but now you must write me sure before I leave and just as soon as you get this too.  Ah! UNDERwork and UNDERstudy UNDERall the day and in the UNDERevening 'stead of play UNDERWith work and study writing combine And thus you'll rapidly improve your mind- and UNDERcheer thine own UNDERloved one:  Pardon the above artless rhyme, but heed, please, its request.</p>
                 <p>My Dear, like you I'm ashamed of such a letter but it is the best that I can do now, accept it then from him who is thine and only thine</p><lb/>
                 <closer>Forever Young Allen</closer>
-                <postscript>Please answer by Saturday morning if you can or at least by Monday morning. Young</postscript>
+                <postscript><p>Please answer by Saturday morning if you can or at least by Monday morning. Young</p></postscript>
                 <pb facs="Allen-11-ff1-062.jpg"/>
-                Nov.  17, 1856
+                
                 
                 </div></body></text>
 </TEI>

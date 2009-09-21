@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-19-feb-1857.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -69,6 +68,8 @@
                             <forename>Houston</forename>
                             <surname>Allen</surname>
                         </persName>
+		    </person>
+		    <person>
                         <persName>
                             <forename>Ch'i-ho</forename>
                             <surname>Yun</surname>
@@ -180,7 +181,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-06-08">June 8, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -232,8 +233,12 @@
                     will give you a more lengthy detail of matters both at home (here) and abroad,
                     (at Gran). You must please write me very soon.--</p>
                 <closer>
-                    <salute>Happily, I remain Ever Your own Devoted <signed/>Young J. Allen
-                    </salute>Miss Mollie Houston<lb/>Macon<lb/>Ga </closer>
+                    <salute>Happily, I remain Ever Your own Devoted</salute> <signed>Young J. Allen</signed>
+                    <address>
+		      <persName>Miss Mollie Houston</persName><lb/>
+		      <placeName>Macon<lb/>Ga</placeName>
+		    </address>
+		</closer>
             </div>
         </body>
     </text>
