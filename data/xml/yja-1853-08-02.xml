@@ -116,8 +116,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Emory College, Oxford, Ga.</item>
                     <item></item>
                     <item></item>
                     <item></item>
@@ -128,7 +128,7 @@
     <revisionDesc>
         <change>
             <date when="2009-04-08">April 4, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="SAT">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -137,7 +137,7 @@
     <text>
         <body>
             <div type="letter">
-        <pb facs="Allen-11-ff1-003.jpg"/> 
+        <pb facs="Allen_11_FF1_003.jpg"/> 
         <head>[Letter from Young John Allen to Mollie Houston]</head>
         <opener><dateline><name type="place">Grantville </name><date when="1856-08-02">Saturday Evening, August 2nd 1856</date></dateline>
             <salute>My Dearest One,</salute></opener>
@@ -150,7 +150,7 @@
     exceedingly happy Dear One, and was  enabled to renew my strengths and my efforts struggling with penitents and <unclear>???</unclear> at the altar. Oh! it was a 
     glorious time to my soul last night.
         
-        <pb facs="Allen-11-ff1-004.jpg"/>
+        <pb facs="Allen_11_FF1_004.jpg"/>
         
     O I am exceedingly anxious to see you that I may talk with and tell you of my hopes  and my prospects.  My heart has often been enabled
     to go up to God in prayer for you Dear Beloved One since I saw you, that he may be your comfort and exceeding great reward in all your
@@ -169,7 +169,7 @@
         </body>
         <back>
             <div type="envelope">
-                <pb facs="001.jpg"/>
+                <pb facs="Allen_11_FF1_001.jpg"/>
                 <dateline>
                     <placeName>Grantville GA</placeName>
                     <lb/>
