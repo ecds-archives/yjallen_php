@@ -69,5 +69,5 @@ $db->xslBind("xslt/kwic.xsl", $xsl_params);
 $db->transform();
 $db->printResult();
 
-
+include("web/xml/footer.xml");
 ?>
