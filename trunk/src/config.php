@@ -1,7 +1,7 @@
 <?php
 
 /* Configuration settings for entire site */
-$in_production = false;
+$in_production = true;
 // pick up login/authorization information
 //session_start();
 
@@ -16,7 +16,7 @@ error_reporting(E_ERROR | E_PARSE);    // for development
 // root directory and url where the website resides
 // production version
 if($in_production) {
-$basedir = "/home/httpd/html/beck/yjallen";
+$basedir = "/home/httpd/html/beck/youngjohnallen";
 $base_path = "/youngjohnallen";
 $base_url = "http://beck.library.emory.edu$base_path/";
  } else {
