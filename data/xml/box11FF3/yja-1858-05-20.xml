@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1858-05-20.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -130,7 +131,7 @@
     <revisionDesc>
         <change>
             <date when="2009-06-22">June 22, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -153,7 +154,7 @@
         <pb facs="010.jpg"/>
        you have placed in our hands, and reommended its <sic>dilligent</sic><corr>diligent</corr> use, the mighty key- The Holy Bibled- which can unlock and interpret them all-  Here, thou hast taught us to look upon the universe which we inhabit, not as the abode only of human fares or human <del rend="strikethrough">sorrows </del>joys, but as the temple of the living God, in which praise is due, and where service is to be performed- 
     </p>
-    <p>But alas! painful thought, a few brief hours more, and all these things live only in memory- <del rend="strikethrough">but</del> <add space="supralinear">Aye </add> it is so, , and it avails naught, to "lengthen these sweet, sad moments out," since the "word that hath been and must <hi rend="underline">now </hi>be, the sound that makes us linger" must be spoken,
+    <p>But alas! painful thought, a few brief hours more, and all these things live only in memory- <del rend="strikethrough">but</del> <add place="supralinear">Aye </add> it is so, , and it avails naught, to "lengthen these sweet, sad moments out," since the "word that hath been and must <hi rend="underline">now </hi>be, the sound that makes us linger" must be spoken,
     </p>
     <p>Then Farewell Beloved President- Now turns my soul to you, my dearly beloved Class-mates, as it hath ne'er done before; and as it may be the last time forever, my thoughts stagger, <del rend="strikethrough">and </del>words fail to express and my lips to utter what "<hi rend="underline">the heart feels</hi> most."-  "This is our last fond meeting, our last farewell;- the world is wide and we must dwell apart."  But before m,y spirit gives thee now its last fond greeting, let us once more retrospect to-gether a few of the scenes,  where memory loves to dwell, and over which she will in years to come "fondly brood with wiser care"-  Many of us have taken sweet counsel and held holy communion together, in private walks and secret meditations- sweet associations cluster about recitation room and study hall- but oh! how
         <pb facs="011.jpg"/>
@@ -206,7 +207,7 @@
                 <placeName>Macon Georgia</placeName>
                 <lb/>
                 <date when="1857-05-22">May 22 '57</date></dateline>
-            <address>
+            <p><address>
                 <persName>Miss Mollie Houston</persName>
                 <lb/>
                 <addrLine>W. <unclear>?</unclear></addrLine>
@@ -217,7 +218,7 @@
                 <addrLine>Care of</addrLine>
                 <lb/>
                 <addrLine>Prest. Smith</addrLine>
-            </address>
+            </address></p>
         </div>
     </back>
 </text>
