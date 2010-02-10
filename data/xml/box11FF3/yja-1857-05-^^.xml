@@ -1,8 +1,9 @@
-<TEI>
+<TEI xml:id="yja-1857-05.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to Mollie Houston <date when="1857-05-??">May 1857</date>, an electronic edition</title>
+            <title>Letter from Young John Allen to Mollie Houston <date when="1857-05">May 1857</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -35,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><date when=""> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -118,11 +119,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Houston, Mollie.</item>
+		    <item>Allen, Young John, 1836-1907.</item>
                 </list>
             </keywords>
         </textClass>
@@ -130,7 +128,7 @@
     <revisionDesc>
         <change>
             <date when="2009-07-16">July 16, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -199,12 +197,12 @@
      </p>
     <p>I would- I could- write a great deal more, My <hi rend="underline">own Dear Mollie,</hi> but I know you will be wearied to death reading this-  You must respond soon and write me all you can, I don't wish to confuse you to write half nor even a third hardly a much as I have but I want you to be quite liberal Mollie, I am resigned to be patient and await your time for I can appreciate your situation
         <pb facs="Allen-11-ff3-060.jpg"/>
-        Tell me how your heart your soul and mind are on the subjects mentioned in this letter- give me a full account of your state Mollie, for I am your <hi rend="underline">bosom friend</hi>, am I not, and I want you to feel it so and be not any way backward to express yourself fully in all these to him who now with a happy heart and devoted love subscribes himself Thine and thine alone
+        Tell me how your heart your soul and mind are on the subjects mentioned in this letter- give me a full account of your state Mollie, for I am your <hi rend="underline">bosom friend</hi>, am I not, and I want you to feel it so and be not any way backward to express yourself fully in all these to him who now with a happy heart and devoted love subscribes himself Thine and thine alone</p>
         <closer><salute>Forever</salute> <lb/>
-            <persname>Young J Allen</persname></closer>
-        <postscript>Pardon mistakes I can't look over</postscript>
+            <persName>Young J Allen</persName></closer>
+        <postscript><p>Pardon mistakes I can't look over</p></postscript>
         
-    </p>
+   
 
 </div>
 </body>

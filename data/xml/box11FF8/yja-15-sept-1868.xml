@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-15-sept-1868.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -120,7 +120,7 @@
                     <place>
                         <placeName>
                             <settlement type="city">Madison</settlement>/> <region type="state"
-                                >Georgia</region>/><country>United States</country>
+                                >Georgia</region><country>United States</country>
                         </placeName>
                     </place>
                 </listPlace>
@@ -168,11 +168,7 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,7 +176,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-08-03">August 3, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -213,7 +209,7 @@
                     or four women, had just commenced their labors at that city. They had opened a
                     school, and he (Mr. T.), being a physician, was charitably dispensing his
                     medicines, etc. It was not long, however, before the mob attacked their
-                    premises, destroyed their house, compelling the women to leap from the second<p/>
+                    premises, destroyed their house, compelling the women to leap from the second
                     <pb facs="Allen_11_ff8_025.jpg"/> story of the house, and all to make their
                     escape from the city as best they could. Several of them were wounded, and one
                     young man had an eye knocked out. The reasons assigned for this strange

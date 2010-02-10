@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-23-sept-1857.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -180,7 +180,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-06-29">June 29, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -200,7 +200,7 @@
                     arrangements made you may not be disappointed if you should hold yourself in
                     waiting about friday morning-- for the down train. You need not trouble yourself
                     however about going down to the cars, for the way to the house is well known
-                    &amp;c.</p>
+                    &#x0026;c.</p>
                 <p>"<hi rend="underline">Look out for the engine</hi>"<pb/>
                     <pb facs="Allen_11_ff4_022.jpg"/> I have no news further, only I am patiently
                     awaiting your pleasure to write me.</p>
@@ -213,11 +213,11 @@
                     <salute>My love to all,--My Dearest<lb/>Thine Own</salute>
                     <signed>Young, Ever</signed>
                 </closer>
-                <postcript>
+                <postscript>
                     <p>Now Mollie, w'ont you<lb/>write to me soon?</p>
                     <p>But wait till your friend comes and then you can give me a full account of
                         all things.</p>
-                </postcript>
+                </postscript>
             </div>
         </body>
     </text>

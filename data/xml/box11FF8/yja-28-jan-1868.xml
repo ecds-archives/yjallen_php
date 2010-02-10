@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-28-jan-1868.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -168,11 +168,8 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
+			<item>Missionaries -- China.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,19 +177,20 @@
         <revisionDesc>
             <change>
                 <date when="2009-08-03">August 3, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="letter">
                 <pb facs="Allen_11_ff8_015.jpg"/>
-                <opener>
+                <head>Letter No. 2.</head>
+		<opener>
                     <dateline>
                         <placeName>Shanghai, China,</placeName>
                         <date when="1868-01-28">Jan. 28, 1868</date>
                     </dateline>
-                    <head>Letter No. 2.</head>
+                    
                 </opener>
                 <p>In a previous letter I informed you, if I mistake not, that the late Tai-ping
                     rebellion was of a two-fold, politico-religious character, and that while they
@@ -277,7 +275,7 @@
                     <salute>Yours truly,</salute>
                     <signed>Young J. Allen.</signed>
                 </closer>
-                <p/>
+           
             </div>
         </body>
     </text>

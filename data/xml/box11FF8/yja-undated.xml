@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-undated.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -120,7 +120,7 @@
                     <place>
                         <placeName>
                             <settlement type="city">Madison</settlement>/> <region type="state"
-                                >Georgia</region>/><country>United States</country>
+                                >Georgia</region><country>United States</country>
                         </placeName>
                     </place>
                 </listPlace>
@@ -168,11 +168,7 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,7 +176,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-08-21">August 21, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -230,7 +226,7 @@
                         rend="strikethrough">anxiety</del> in<unclear>?</unclear> solicitude to keep
                     the <del rend="strikethrough">mission</del><add place="supralinear">it</add>
                     untrammelled till the close of the war and the ren<add place="supralinear"
-                        >ew</add>al of commerce &amp; remittances from home could come to our
+                        >ew</add>al of commerce &#x0026; remittances from home could come to our
                     relief, absorbed all our thoughts and shaped all our efforts. <del
                         rend="strikethrough">Should you and the Board</del> We hope therefore that
                     the result<pb/> accomplished and the present situation of the Mission <add
@@ -261,7 +257,7 @@
                         place in <unclear>Kading</unclear></add> are now in good repair and comfortable. Their value
                     however at this is merely nominal- indeed I doubt if they could be sold at any
                     price- not because they are not desirable or valuable, but the demand for them
-                    has abated- speculations in land &amp; houses has ceased and the war in
+                    has abated- speculations in land &#x0026; houses has ceased and the war in
                     America which concentrated many foreigners here and brought large trade and the
                     Rebellion here having been put down allow the return of the great influx of
                     Chinese population has depressed the market and driven all such things out-

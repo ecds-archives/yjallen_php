@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1866-07-20.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -22,7 +23,7 @@
                 <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
                     Emory University makes a claim of copyright only to original
                     contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
-                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA 30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
             </availability>
         </publicationStmt>
         <seriesStmt>
@@ -35,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><date when=""> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -50,7 +51,7 @@
                             <country>United States</country>
                         </placeName>
                     </birth>
-                    <death when="1907-053-30">May 30, 1907
+                    <death when="1907-05-30">May 30, 1907
                         <placeName>
                             <settlement type="city">Shanghai</settlement>
                             <country>China</country>
@@ -118,11 +119,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+		    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -130,7 +128,7 @@
     <revisionDesc>
         <change>
             <date when="2009-08-25">August 25, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -164,17 +162,17 @@
     <p>
         2d A <del rend="strikethrough">similar</del> statement of similar import from <unclear>-.-. Lamb???</unclear>
     </p>
-    <p>3d Also one from myself showing the amt. of personal funds used to relieve the burden of the Miss in <unclear>?</unclear><del rend="strikethrough">The amt of Taels &amp;c</del> Herewith I also enclose a statement of what the Mission is due me personally, for monies of my own appropriated in behalf of the Mission to relieve its embarrassment, and save it from<del rend="strikethrough"><unclear>?</unclear></del> encumbering itself <add place="supralinear">further </add>by seeking a loan in <del rend="strikethrough">the community.</del>
+    <p>3d Also one from myself showing the amt. of personal funds used to relieve the burden of the Miss in <unclear>?</unclear><del rend="strikethrough">The amt of Taels &#x0026;c</del> Herewith I also enclose a statement of what the Mission is due me personally, for monies of my own appropriated in behalf of the Mission to relieve its embarrassment, and save it from<del rend="strikethrough"><unclear>?</unclear></del> encumbering itself <add place="supralinear">further </add>by seeking a loan in <del rend="strikethrough">the community.</del>
     </p>
     <p>This amt. of taels 827.49 I consider the Mission justly indebted to me- <add place="supralinear">It</add> <del rend="strikethrough">but expended then But</del> expended in behalf of the Mission to save it from calamity then, <add place="supralinear">But </add>I freely forgive all claim against <add place="supralinear">the Board</add> now, and though I have shared, yea doubly shared the anxieties and embarrassments of the last four years of your Mission's perilous history, and suffered the loss of a large part of my personal estate <del rend="strikethrough">?</del> <add place="supralinear">in</add> America by the war, yet I cheerfully do what I do
     
     <pb facs="Allen-11-ff7-020.jpg"/>
     and with the prospect of the China Mission being sustained in the future, <add place="supralinear">I</add> <unclear>?</unclear> consecrate myself and my all <add place="supralinear"><unclear>?</unclear></add> to God and his work, praying His most gracious blessing upon you, and the interests which you represent, and that the China Mission may have large favor in the eyes the heart and treasures of our beloved church and people at home
     </p>
-    <closing><salute>Yours Affectionately</salute><lb/>
-    <signed><persname>Young J. Allen</persname></signed></closing>
-    <postscript>20th July 1866<lb/>
-        and a more glorious and successful career <add place="supralinear"> of usefulness</add> in China, I now enclose in behalf of the Mission &amp; its <unclear>?</unclear> the <unclear>acc--? ??</unclear> &amp; statements, all of which is most respectfully submitted by your aff but <unclear>?, Bro in Christ</unclear></postscript>
+    <closer><salute>Yours Affectionately</salute><lb/>
+    <signed><persName>Young J. Allen</persName></signed></closer>
+    <postscript><p>20th July 1866</p>
+<p>and a more glorious and successful career <add place="supralinear"> of usefulness</add> in China, I now enclose in behalf of the Mission &#x0026; its <unclear>?</unclear> the <unclear>acc--? ??</unclear> &#x0026; statements, all of which is most respectfully submitted by your aff but <unclear>?, Bro in Christ</unclear></p></postscript>
 
 </div>
 </body>

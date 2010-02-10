@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-9-dec-1868.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -120,7 +120,7 @@
                     <place>
                         <placeName>
                             <settlement type="city">Madison</settlement>/> <region type="state"
-                                >Georgia</region>/><country>United States</country>
+                                >Georgia</region><country>United States</country>
                         </placeName>
                     </place>
                 </listPlace>
@@ -168,11 +168,8 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
+			<item>Missionaries -- China.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,7 +177,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-08-21">August 21, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -247,7 +244,7 @@
                 <closer>
                     <signed>Y. J. Allen</signed>
                 </closer>
-                <p/>
+            
             </div>
         </body>
     </text>

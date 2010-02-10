@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-15-june-1857.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
+
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -168,11 +169,8 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
+			<item>Houston, Mollie.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,7 +178,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-06-08">June 15, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -196,7 +194,7 @@
                 </opener>
                 <p>I should have answered your letter gladly long before now, but I wished when I
                     wrote to accompany the letter with a Catalogue, designating the Speakers
-                    &amp;c for Commencement, and so have been delayed till this morning, which
+                    &#x0026;c for Commencement, and so have been delayed till this morning, which
                     happens to be a very unfortunate hour for writing to <hi rend="underline"
                         >you</hi>. I shall then Dearest, be very brief, for time is short for
                     writing. I have a great deal to do. I think we shall have mutually to excuse
@@ -245,7 +243,7 @@
                     about your Commencement, your subject for Composition, and please<pb/><add
                         place="supralinear"><hi rend="underline">Have I "indulged" too
                         much</hi>?</add> send me a Catalogue.</p>
-                <closer>
+                
                     <p>My Dear Mary, I must close now, and I want to request you to pray much, and
                             <hi rend="underline">very earnestly</hi> for me that I may have strength
                         and power to do the will of God in all things boldly and courageously-- and
@@ -256,6 +254,7 @@
                         much I wanted to write you but I must wait now till I see My Mollie face to
                         face then will have a happy time. Oh! how <unclear>?</unclear> only one
                         looks forward to that day.</p>
+		<closer>
                     <salute>Yes thine alone I am</salute>
                     <signed>Young J Allen</signed>
                 </closer>

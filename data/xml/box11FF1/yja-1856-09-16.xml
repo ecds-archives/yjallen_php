@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title><letter>from Young John Allen to Mollie Houston</letter>, <date when="1856-09-16">Sept. 16, 1856</date>, an electronic edition</title>
+            <title>from Young John Allen to Mollie Houston, <date when="1856-09-16">Sept. 16, 1856</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -112,8 +112,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
+                    <item>Houston, Mollie.</item>
+		    <item>Allen, Young John, 1836-1907.</item>
                     <item></item>
                     <item></item>
                     <item></item>

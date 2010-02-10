@@ -1,8 +1,9 @@
-<TEI>
+<TEI xml:id="yja-1866-11-19.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter to Rev Messrs. Hall &amp; Innocent <date when="1866-11-19">Nov. 19 1866</date>, an electronic edition</title>
+            <title>Letter to Rev Messrs. Hall &#x0026; Innocent <date when="1866-11-19">Nov. 19 1866</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -35,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><date when=""> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -118,11 +119,7 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
                 </list>
             </keywords>
         </textClass>
@@ -130,7 +127,7 @@
     <revisionDesc>
         <change>
             <date when="2009-08-18">August 18, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -140,7 +137,7 @@
 <div type="letter">
     <pb facs="Allen-11-ff7-007.jpg"/>
     <opener><dateline><name type="place">Shanghai</name><date when="1866-11-19">Nov 19th 1866</date></dateline>
-        <salute>Rev Mssrs Hall &amp; Innocent,</salute>
+        <salute>Rev Mssrs Hall &#x0026; Innocent,</salute>
     </opener>
     <p>At our recent Quarterly Mission meeting, a resolution to invite the return of our native brother <hi rend="underline">Hu</hi> (Wu) <hi rend="underline">Ung Ti,</hi> who has been for some time an assistant in your mission, to be stationed at <hi rend="underline">Nankin,</hi> was unanimously adopted.      
     </p>
@@ -159,9 +156,9 @@
         As it is too late to make such a change this winter we hope he will hold himself ready to come by the first opportunity in the ensuing spring.  Enclosed I send you a letter addressed to him on the subject, which I hope you will kindly deliver.
     </p>
     <p>
-        Your successes cheer and encourage us. <del rend="strikethrough">and</del> Praying God's blessing on you personally and the work which you have so promisingly developed I am your Brother in Christ
-        <signed><persname>Young J. Allen</persname></signed>
-    </p>
+        Your successes cheer and encourage us. <del rend="strikethrough">and</del> Praying God's blessing on you personally and the work which you have so promisingly developed I am your Brother in Christ</p>
+        <signed><persName>Young J. Allen</persName></signed>
+ 
 </div>
 </body>
 </text>

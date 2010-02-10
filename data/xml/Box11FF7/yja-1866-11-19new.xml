@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1866-11-19new.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -35,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><date when=""> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -118,11 +119,7 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
                 </list>
             </keywords>
         </textClass>
@@ -130,7 +127,7 @@
     <revisionDesc>
         <change>
             <date when="2009-08-25">August 25, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -139,10 +136,11 @@
 <body>
 <div type="letter">
     <pb facs="Allen-11-ff7-021.jpg"/>
-    <hi rend="underline">Copy</hi><lb/>
-    <opener><dateline><name type="place">Shanghai China</name><date when="1866-11-09">Nov 19th 1866</date></dateline><lb/>
+<opener>
+    <hi rend="underline">Copy</hi>
+    <dateline><name type="place">Shanghai China</name><date when="1866-11-09">Nov 19th 1866</date></dateline><lb/>
     <salute>My dear Dr. Thomas,</salute></opener>
-        <p>In a letter to Dr. E H Myers dated August 28th 1866, I notified my intention to forward at an early date some relics and specimens of Chinese art &amp; Literature as a contribution to the Cabinet and Library of your College, to arrive before the Commencement in July 1867.  Having, therefore in compliance with intention finished or rather cut short my collection for want of means to salvage it at present, I now hasten to forward you an <hi rend="underline">inventory</hi> of the <hi rend="underline">box</hi> I am about to despatch for the clipper ship <hi rend="underline">"Antelope"</hi> from here to N. York.
+        <p>In a letter to Dr. E H Myers dated August 28th 1866, I notified my intention to forward at an early date some relics and specimens of Chinese art &#x0026; Literature as a contribution to the Cabinet and Library of your College, to arrive before the Commencement in July 1867.  Having, therefore in compliance with intention finished or rather cut short my collection for want of means to salvage it at present, I now hasten to forward you an <hi rend="underline">inventory</hi> of the <hi rend="underline">box</hi> I am about to despatch for the clipper ship <hi rend="underline">"Antelope"</hi> from here to N. York.
         </p>
         <p><hi rend="underline">For the Libary</hi>            
         </p>
@@ -166,15 +164,15 @@
             3d The guide to Heaven<lb/>
             4th Introduction to the doctrines of Christianity<lb/>
             5th The two Friends<lb/>
-            6th Arithmetic, Algebra, Geography &amp;c<lb/>
-            7th Numerous other books including various hymn gooks, catechisms, prayer books, ritual &amp;c also a number of Romanized- i.e. the reading sound of Chinese characters represented by roman letters &amp; syllables-<lb/>
+            6th Arithmetic, Algebra, Geography &#x0026;c<lb/>
+            7th Numerous other books including various hymn gooks, catechisms, prayer books, ritual &amp;c also a number of Romanized- i.e. the reading sound of Chinese characters represented by roman letters &#x0026; syllables-<lb/>
          <hi rend="underline">Also</hi><lb/>
         A Japanese Dictionary<lb/>
         One copy in a <unclear>B--?</unclear>dialect- One an Indian dialect<lb/>
         One a hymn book in a modified form of the <choice><sic>Corean</sic><corr>Korean</corr></choice> character<lb/>
         A number of pamphlets pertaining to the discussion of "terms" to be used for God in translating the Bible.
         </p>
-    <p>&amp; &amp; &amp;</p>
+    <p>&#x0026; &#x0026; &#x0026;</p>
     <p>For the Cabinet<lb/>
     1st relics from the Porcelain Tower obtained during my recent visit to Nan Kin in September, including-<lb/>
     One, out of the 1800 images of Buddha in bas relief that faced the entire inner surface of the Tower.<lb/>
@@ -196,7 +194,7 @@
         A buddhist priest reciting prayers and striking a hollow piece of wood, representing a fish's head- universal practice-<lb/>
         <hi rend="underline">Buttons</hi>- blue, red, grass and white facsimile of those worn in China-<lb/>
         <pb facs="Allen-11-ff7-023.jpg"/>
-        One official hat and button (<unclear>?</unclear>) crystal for first prize <hi rend="underline">Sophomore Declamation 1867</hi> if the Faculty approve the novel innovation on old custom-</lb>
+        One official hat and button (<unclear>?</unclear>) crystal for first prize <hi rend="underline">Sophomore Declamation 1867</hi> if the Faculty approve the novel innovation on old custom-<lb/>
         Two pairs Shoes- presented by <hi rend="underline">Lieu nyang nyang</hi>, the wife of our <unclear>late?</unclear> native preacher <hi rend="underline">Lieu Tsih Sung</hi><lb/>
         One umbrella- bamboo and oil paper-<lb/>
         One Opium pipe- lamp and feeder-<lb/>
@@ -211,16 +209,16 @@
     <p> <hi rend="underline">Also</hi><lb/>
         Six dozen rice or pith paper pictures-<lb/>
         Four others of a large size<lb/>
-        Specimens of letters- paper- envelopes- bills- receipts &amp;c<lb/>
+        Specimens of letters- paper- envelopes- bills- receipts &#x0026;c<lb/>
         Three Specimens of Ladies' head dresses- Scissors, thimble lock and key- comb- candles- wicks- Lamp wicks dominoes and cards-<lb/>
         The Great Plan- or Diagram of the Record <unclear>???</unclear><lb/>
         One carved bamboo cane for the Rev Dr E H Myers<lb/>
         A Specimen of finest tea in China- <hi rend="underline">Pih <unclear>l?? chu??</unclear></hi> for the <hi rend="underline">Faculty</hi>- Presented by the Provincial chancellor at Suchow-   
     </p>
-    <p>I exceedingly regret that my collection and contribution is so meager and unsatisfa tory- and hope at no distant day to be able to make another of more interest and value-  What it is and as it is however I forward you, hoping that in due time, say in April next, it will reach you in good order and condition-
+    <p>I exceedingly regret that my collection and contribution is so meager and unsatisfa tory- and hope at no distant day to be able to make another of more interest and value-  What it is and as it is however I forward you, hoping that in due time, say in April next, it will reach you in good order and condition-</p>
         <closer><salute>Affect. yours-</salute><signed>Young J Allen</signed></closer>
         
-    </p>
+  
     
         
 </div>

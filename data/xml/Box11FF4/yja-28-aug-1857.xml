@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-28-aug-1857.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -180,7 +180,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-06-29">June 29, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -245,7 +245,7 @@
                     become anxious about me, for I know you do once and a while think of <hi
                         rend="underline">him who is yours only.</hi></p>
                 <p>I wish you Dearest to write to Miss Sallie Hudson and learn from her whether or
-                    not she has received a copy of the "Guide to Holiness" for July &amp;
+                    not she has received a copy of the "Guide to Holiness" for July &#x0026;
                     August, and please inform me. Don't forget it now Mollie.</p>
                 <p>My Mollie Dearest, I have now no more time, and must now close, with a request
                     for an immediate response, tell me all the news, and the occurrences<pb/>of the
@@ -257,15 +257,15 @@
                     reached here till Monday. So it is all for the best on my part.</p>
                 <p>My love to Mellie and all of them.--</p>
                 <closer>
-                    <salute>More committedly &amp; devotedly thine than ever</salute>
+                    <salute>More committedly &#x0026; devotedly thine than ever</salute>
                     <signed>Young J. Allen</signed>
                 </closer>
-                <postcript>
+                <postscript>
                     <label>P.S.</label>
                     <p>Please do'nt let any one see <hi rend="underline">this letter</hi> for my
                         sake.</p>
-                    <signed>Young J Allen</signed>
-                </postcript>
+                    <p><name>Young J Allen</name></p>
+                </postscript>
 
             </div>
         </body>

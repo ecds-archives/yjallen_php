@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1866-07-25.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -9,7 +10,7 @@
             <sic>Young J. Allen</sic>
             <reg>Allen, Young John, 1836-1907</reg>
             
-            <choice>
+            </choice>
             </name>
             </author>
         </titleStmt>
@@ -35,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><!-- replace this with your letter information --><date when=" "> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl><!-- replace this with your letter information --><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -118,19 +119,15 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
                 </list>
             </keywords>
         </textClass>
     </profileDesc>
     <revisionDesc>
         <change>
-            <date when="2008-mm-dd"><!-- today's date --></date>
-                <name xml:id=""><!-- your name here --> </name>
+            <date when="2010-02-09">February 9, 2009</date>
+                <name xml:id="rsv">Stewart Varner</name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -142,9 +139,11 @@
     <opener><salute>My dear Bro. Yates,</salute></opener>
     <p>Your Proposition at once so simple and comprehensive and <del rend="strikethrough">(so analogous in)</del> the terms suggested so analogous to those used in our own vernacular, meeting alike the wants of the Press nd the Pulpit, and harmonizing, or compromising, without sacrifices the peculiar views of those to whm it is advanced, meet my hearty concurrence-        
     </p>
-    <salute>Yours Truly<lb/>
-    <signed><persname>Young J. Allen</persname></signed></salute>
+    <closer>
+    <salute>Yours Truly<lb/></salute>
+    <signed><persName>Young J. Allen</persName></signed>
     <dateline><date when="1866-07-25">25 July 1866</date></dateline>
+    </closer>
 </div>
 </body>
 </text>

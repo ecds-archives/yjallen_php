@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-7-oct-1867.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -168,11 +168,7 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,7 +176,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-07-20">July 20, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -282,15 +278,15 @@
                         been gone one month</note>Well now I suppose you would like to know what I
                     am doing. I came here as a Missionary to preach to the heathen, who are
                     idolaters; they worship all kinds of <hi rend="underline">gods</hi> made out of
-                    wood and stone, mud &amp;c and know nothing about God that created heaven
+                    wood and stone, mud &#x0026;c and know nothing about God that created heaven
                     and earth. They are very wretched and miserable and our work is a work of
                     charity and love. Jesus said "Go into all the world and preach my gospel to
                     every creature, all nations, and we have obeyed his call and command. We feel
                     that God hath called us to this work and we have no fears but that he will care
                     for us and bless us. When I was leaving home I sold out all my negroes
-                    &amp;c and put the money in the Atlanta &amp; Westpoint and Central
+                    &#x0026;c and put the money in the Atlanta &#x0026; Westpoint and Central
                     R.Roads which has proved to be a safe investment so far, myself and my dearest
-                    wife &amp; child I committed to the guidance of my heavenly Father and thus
+                    wife &#x0026; child I committed to the guidance of my heavenly Father and thus
                     far he hath kept <hi rend="underline">us</hi>. When the war began the Missionary
                     Society of our Church could not send us any money and for nearly five years we
                     did not get a cent from home. Yet we never suffered want. The oil in <add
@@ -311,7 +307,7 @@
                 <p>In the afternoons and on the Sabbath I preach to the people in our chapels here
                     in the city and also in <del rend="strikethrough">the</del> some large towns out
                     in the country. How large do you suppose Shanghai is? Well suppose you put
-                    Savannah, Augusta, Atlanta, Macon, Columbus, Rome &amp; Charleston <del
+                    Savannah, Augusta, Atlanta, Macon, Columbus, Rome &#x0026; Charleston <del
                         rend="strikethrough">and</del> together and then add on New Orleans besides,
                     then you would not have a city as large as Shanghai. Savannah in China would be
                     a little town. One third of all the people in the world live here in China. You
@@ -362,9 +358,9 @@
                     henceforth your treasures in heaven. Shall I meet you there? "'Twould be an
                     assurance most dear to know" that you are expecting to see your absent <hi
                         rend="underline">Young</hi> again in heaven where partings are unknown
-                        forever.<closer>Love, much Love to you Mother and Pa and all of you.
+                        forever.</p><closer>Love, much Love to you Mother and Pa and all of you.
                             <salute>Affectionately Your Son-</salute><signed>Young J
-                        Allen</signed></closer></p>
+                        Allen</signed></closer>
 
             </div>
         </body>
