@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-undated2.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +28,7 @@
                         work claimed by Emory University for non-profit educational purposes,
                         provided that this header is included in its entirety. For further inquiries
                         about this text's availability, please contact:
-                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email: beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
                 </availability>
             </publicationStmt>
             <seriesStmt>
@@ -120,7 +120,7 @@
                     <place>
                         <placeName>
                             <settlement type="city">Madison</settlement>/> <region type="state"
-                                >Georgia</region>/><country>United States</country>
+                                >Georgia</region><country>United States</country>
                         </placeName>
                     </place>
                 </listPlace>
@@ -168,11 +168,7 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+		      <item>Allen, Young John, 1836-1907.</item>
                     </list>
                 </keywords>
             </textClass>
@@ -180,7 +176,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-09-01">September 01, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -191,7 +187,7 @@
                 <opener>
                     <salute>My dear Dr. Lehon,</salute>
                 </opener>
-                <p>Having in previous letters nos 1 &amp; 2 urged the necessity of qualifying
+                <p>Having in previous letters nos 1 &#x0026; 2 urged the necessity of qualifying
                     and thrusting out a greater number of vigorous native agents to meet the wants
                     of our work and extend the area of our operations, I will now venture to call
                     your attention to the <hi rend="underline">field</hi> which seems most open and
@@ -261,17 +257,17 @@
                     of it. It is estimated that 3/4 of the Provinces of the Empire can read it
                     understandingly and that it is the spoken dialect of nearly one half the whole
                     Empire. Through this vast section from Nankin its most southern city you may
-                    travel north to Pekin and be readily understood &amp; vice versa or from the
+                    travel north to Pekin and be readily understood &#x0026; vice versa or from the
                     Shantung province on the eastern coast to the <unclear>far?</unclear> interior
                     provinces of Sz Chen and Shensi and be also intelligible.</p>
                 <p>While in the Southern regions a native preacher would be almost useless away from
                     his own immediate city and dialect, in the north he may travel and preach
-                    &amp; <add place="supralinear">be</add> understood throughout the whole
+                    &#x0026; <add place="supralinear">be</add> understood throughout the whole
                     region.</p>
                 <p>These are facts which I think it worth while to notice, in view of our future
                     operations here, for although it is our desire to give all this
                     people, whatever be their dialect, the opportunity of having the gospel
-                    &amp;c- yet I think it far more compatible with common sense, and the system
+                    &#x0026;c- yet I think it far more compatible with common sense, and the system
                     of </p>
             </div>
         </body>

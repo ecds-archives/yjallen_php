@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-24-march-1857.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -124,7 +123,7 @@
 
             </creation>
             <textClass>
-                <keywords scheme="lcsh"> ***<list>
+                <keywords scheme="lcsh"><list>
                         <item>Allen, Young John, 1836-1907.</item>
                         <item>Emory College, Oxford, Ga.</item>
                         <item>Allen, Mary Houston</item>

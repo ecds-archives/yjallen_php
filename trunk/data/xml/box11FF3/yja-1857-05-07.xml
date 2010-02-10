@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1857-05-07.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -129,7 +130,7 @@
     <revisionDesc>
         <change>
             <date when="2009-07-15">July 7, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -159,11 +160,11 @@
         <pb facs="Allen-11-ff3-037.jpg"/>
         from earth set free, "we shall go marching home together," yes home to that happy place where Jesus reigns and saints and angels dwell-        
     </p>
-    <p>I will close now for this time to resume the next leisure opportunity, by committing you to the Lord with the sincere prayer, my beloved, for his spirit and presence to always attend, and give you great peace and joy, great strength <add place="supralinear">of</add> faith in approaching his presence, and for the realization and appropriation of all those precious promises which Christ holds out to us-  Oh! that you may always exercise that meek, simple, childlike faith and confidence in coming to God that we see the little child exercise towards the earthly parents-  May God bless, and keep <hi rend="underline">my Dear Beloved One</hi> this night for Christ's sake-  Thine <hi rend="underline">own</hi> and thine alone
+    <p>I will close now for this time to resume the next leisure opportunity, by committing you to the Lord with the sincere prayer, my beloved, for his spirit and presence to always attend, and give you great peace and joy, great strength <add place="supralinear">of</add> faith in approaching his presence, and for the realization and appropriation of all those precious promises which Christ holds out to us-  Oh! that you may always exercise that meek, simple, childlike faith and confidence in coming to God that we see the little child exercise towards the earthly parents-  May God bless, and keep <hi rend="underline">my Dear Beloved One</hi> this night for Christ's sake-  Thine <hi rend="underline">own</hi> and thine alone</p>
         <lb/>
-        <signed><persname>Young</persname></signed>
+        <closer><signed><persName>Young</persName></signed></closer>
         
-    </p>
+   
 </div>
 </body>
 </text>

@@ -167,8 +167,8 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
+                        <item>Houston, Mollie.</item>
+			<item>Allen, Young John, 1836-1907.</item>
                         <item/>
                         <item/>
                         <item/>
@@ -179,7 +179,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-06-08">June 15, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name>Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -244,7 +244,7 @@
                     about your Commencement, your subject for Composition, and please<pb/><add
                         place="supralinear"><hi rend="underline">Have I "indulged" too
                         much</hi>?</add> send me a Catalogue.</p>
-                <closer>
+                
                     <p>My Dear Mary, I must close now, and I want to request you to pray much, and
                             <hi rend="underline">very earnestly</hi> for me that I may have strength
                         and power to do the will of God in all things boldly and courageously-- and
@@ -255,9 +255,10 @@
                         much I wanted to write you but I must wait now till I see My Mollie face to
                         face then will have a happy time. Oh! how <unclear>?</unclear> only one
                         looks forward to that day.</p>
+<closer>
                     <salute>Yes thine alone I am</salute>
                     <signed>Young J Allen</signed>
-                </closer>
+</closer>                
             </div>
         </body>
         <back>

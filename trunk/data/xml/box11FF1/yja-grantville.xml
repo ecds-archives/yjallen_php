@@ -1,7 +1,7 @@
-<TEI>
+<TEI xml:id="yja-grantville.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
               <fileDesc>
-                     ***<titleStmt>
+                  <titleStmt>
                             <title>Letter to Mollie Houston, <date when="1836-08-02">August 8, 1836</date>, an electronic edition</title>
                             <author>
                                    <name type="person">
@@ -11,7 +11,7 @@
                                              </choice>
                                    </name>
                             </author>
-                     </titleStmt>***
+                     </titleStmt>
                      <extent></extent>
                      <publicationStmt>
                             <publisher>Emory University, Lewis H. Beck Center</publisher>
@@ -34,7 +34,7 @@
                             </respStmt>
                      </seriesStmt>
                      <sourceDesc>
-                           ****<bibl>Letter from T. H. Yun to Young John Allen, <date when="1891-09-12">September 12, 1891</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>***
+                           <bibl>Letter from T. H. Yun to Young John Allen, <date when="1891-09-12">September 12, 1891</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
                             <listPerson>
                                    <person xml:id="yja">
                                           <persName>
@@ -126,24 +126,26 @@
                             <date>1800-1899</date>  
                      </creation>
                      <textClass>
-                           *** <keywords scheme="lcsh">
+                           <keywords scheme="lcsh">
                                    <list>
                                           <item>Allen, Young John, 1836-1907.</item>
                                           <item>Emory College, Oxford, Ga.</item>
+					  <item>Houston, Mollie.</item>
                                    </list>
-                            </keywords>***
+                            </keywords>
                      </textClass>
               </profileDesc>
-              ***<revisionDesc>
+              <revisionDesc>
                      <change>
                             <date when="2009-03-19"></date>
                                     <name xml:id="st">Sue Trowbridge, </name>
                              transcribed and encoded the text.
                      </change>
 
-              </revisionDesc>***
+              </revisionDesc>
 </teiHeader>
        <text>
+<body>
 <div type="letter">
        <opener>
               <dateline>Grantville, <date when="1836-08-02">Saturday evening, August 2nd 1856</date></dateline>
@@ -168,10 +170,11 @@ affliction and sorrow.  I never did in all my life feel so entirely cut loose fr
 and may he establish you at all times and everywhere and make you a whole-hearted-devoted, useful active working Christian is the sincere 
 daily prayer from your Faithful and devoted forever unchanging Y.A.</p>
 
-<postscript>I will come at whatever time you may see fit to appoint be sure and tell me Mollie if it be in your power you know that although I want to be
-with you so anxiously yet I would not in my over anxiousness act improperly or unwisely nor unadvisedly, so Mollie now you must advise me. 
-I have written this in great haste for I have to leave now to get back to our prayer meeting to night.  God Bless and keep you forever.  Farewell
-for a few days</postscript>
+<postscript><p>I will come at whatever time you may see fit to appoint be sure and tell me Mollie if it be in your power you know that although I want to be
+with you so anxiously yet I would not in my over anxiousness act improperly or unwisely nor unadvisedly, so Mollie now you must advise me. </p>
+<p>I have written this in great haste for I have to leave now to get back to our prayer meeting to night.  God Bless and keep you forever.  Farewell
+for a few days</p></postscript>
 </div>
+</body>
 </text>
 </TEI>

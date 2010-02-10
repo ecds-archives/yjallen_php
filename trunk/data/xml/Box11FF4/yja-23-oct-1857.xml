@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xml:id="yja-23-oct-1857.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -180,7 +180,7 @@
         <revisionDesc>
             <change>
                 <date when="2009-06-29">July 6, 2009</date>
-                <name xml:id="">Yvette Wright</name> transcribed and encoded the text. </change>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -221,11 +221,11 @@
                     has to live forever either in hell amid devils and damned spirits and among men
                     with whom he could not bear to stay or associate with even for a little while
                     here, or live forever in heaven with Christ and dear Sainted Ones he<pb/><pb
-                        facs="Allen_11_ff4_026.jpg"/><sic>he</sic>once loved &amp; cherished
+                        facs="Allen_11_ff4_026.jpg"/><sic>he</sic>once loved &#x0026; cherished
                     here; why, oh! why will such a sensible man as that, acknowledging and believing
                     all these things, refuse to make preparation to meet his God, why will he still
                     sit at ease, and seem not to care whether or not he escape hell and the wrath of
-                    God, or gain the bliss and rest of heaven forever &amp; ever. Oh! how it
+                    God, or gain the bliss and rest of heaven forever &#x0026; ever. Oh! how it
                     makes my very soul quake and tremble within me to see a man just ready as it
                     were to die and yet not prepared to die; and yet there are thousands of them in
                     that situation that are now hastening on to death and destruction forever. Oh!
@@ -307,7 +307,7 @@
                     start out for heaven. Oh! how happy it would make my very soul to know that,
                     when I shall be called to leave your and go forth to labor perhaps far from
                     home, that you are <hi rend="underline">almost home</hi>, yes that all of you
-                    Mother &amp; Father &amp; the rest were all hastening on to heaven. Oh!
+                    Mother &#x0026; Father &#x0026; the rest were all hastening on to heaven. Oh!
                     that such a happy, joyful news as that<pb/><pb facs="Allen_11_ff4_034.jpg"/> may
                     reach me before I shall have completed my College course and am ready to take my
                     leave of you all perhaps forever till we meet at the judgement seat of Christ.
@@ -333,7 +333,7 @@
                 <p>I have nothing more to write now. You will please write me soon and write me all
                     the news.</p>
                 <closer>
-                    <salute>Your devoted &amp; affectionate</salute>
+                    <salute>Your devoted &#x0026; affectionate</salute>
                     <signed>Young J Allen</signed>
                 </closer>
             </div>

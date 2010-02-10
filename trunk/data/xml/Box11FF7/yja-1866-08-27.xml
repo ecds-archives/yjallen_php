@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1866-08-27.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -9,7 +10,7 @@
             <sic><!-- First name Last name--></sic>
                 <reg>Allen, Young John, 1836-1907></reg>
             
-            <choice>
+            </choice>
             </name>
             </author>
         </titleStmt>
@@ -130,7 +131,7 @@
     <revisionDesc>
         <change>
             <date when="2009-08-14">August 14, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
@@ -145,7 +146,7 @@
     </p>
     <p>In view therefore of the pressing wants of this work and an earnest desire to arouse and encourage the church to meet them as far as possible, by yet greater zeal and liberality, I propose to give you some statistics as to what the <hi rend="underline">native converts</hi> themselves, are doing to helpforward the great work which has been begun in their midst.  By a reference to the statistics, forwarded you sometime since
         <pb facs="Allen-11-ff7-005.jpg"/>
-        you will see that the whole number of converts to christianity belonging to the various missions here accounted in the aggregate to two thousand six hundred &amp; seven (2607) and their contributions to the amount of two thousand nine hundred and eighty eight (2988) dollars, for the year 1864, or more than one dollar per each member.- Divided <unclear>???</unclear> several missions did not report the amount raised by their converts, otherwise the sum might have been larger still.
+        you will see that the whole number of converts to christianity belonging to the various missions here accounted in the aggregate to two thousand six hundred &#x0026; seven (2607) and their contributions to the amount of two thousand nine hundred and eighty eight (2988) dollars, for the year 1864, or more than one dollar per each member.- Divided <unclear>???</unclear> several missions did not report the amount raised by their converts, otherwise the sum might have been larger still.
     </p>
     <p>Now when it is remembered that the class of people most generally represented in our churches are many of them poor indeed, and the most, if not all of them dependent on their daily earnings for the necessaries of life, their liberality is as surprising as larger, and viewed in reference to future operations and success here, is encouraging in the the extreme- Already several churches supply their own native pastor and support him by their own contributions.        
     </p>

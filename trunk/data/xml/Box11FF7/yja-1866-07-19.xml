@@ -1,4 +1,5 @@
-<TEI>
+<TEI xml:id="yja-1866-07-19.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -35,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl><date when=""> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -118,11 +119,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Mary Houston.</item>
+		    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -130,7 +128,7 @@
     <revisionDesc>
         <change>
             <date when="2009-08-20">August 20, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name xml:id="sat">Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
