@@ -168,11 +168,11 @@
             <textClass>
                 <keywords scheme="lcsh">
                     <list>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
-                        <item/>
+                        <item>Allen, Young John, 1836-1907.</item>
+                        <item>Houston, Mollie.</item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
                     </list>
                 </keywords>
             </textClass>
@@ -186,7 +186,7 @@
     <text>
         <body>
             <div type="letter">
-                <pb facs="Allen_11_ff4_021.jpg"/>
+                <pb facs="Allen_11_FF4_021.jpg"/>
                 <opener>
                     <dateline>
                         <placeName>Oxford Geo.</placeName>
@@ -201,8 +201,8 @@
                     waiting about friday morning-- for the down train. You need not trouble yourself
                     however about going down to the cars, for the way to the house is well known
                     &#x0026;c.</p>
-                <p>"<hi rend="underline">Look out for the engine</hi>"<pb/>
-                    <pb facs="Allen_11_ff4_022.jpg"/> I have no news further, only I am patiently
+                <p>"<hi rend="underline">Look out for the engine</hi>"
+                    <pb facs="Allen_11_FF4_022.jpg"/> I have no news further, only I am patiently
                     awaiting your pleasure to write me.</p>
                 <p>My Dearest One, I often think of you, and can hardly bear the idea of not seeing
                     you again till next summer. And shall I, must I, can I?</p>

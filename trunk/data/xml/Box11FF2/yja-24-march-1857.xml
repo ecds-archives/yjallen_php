@@ -138,7 +138,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter"><pb facs="Allen_11_ff2_029jpg"/>  
+            <div type="letter">
+
+<pb facs="Allen_11_FF2_029.jpg"/>  
+
                 <opener>
                     <dateline>
                         <placeName>Oxford Geo.</placeName>
@@ -152,7 +155,10 @@
                     of any anxiety or impatience but to assure you that I have not times to reply to
                     your last, but will anxiously await the answer to my last, when if I have <hi
                         rend="underline">not</hi>time I will <hi rend="underline">take</hi>time to
-                    reply.--</p><pb facs="Allen_11_ff2_030.jpg"/>
+                    reply.--</p>
+
+<pb facs="Allen_11_FF2_030.jpg"/>
+
                 <p>I have some fun items of suggestion and observation, had I time to sum up and
                     write them which might be of some interest, now, but I forebear in this brief
                     communication and hold in reserve for the next--.</p>
@@ -162,8 +168,11 @@
                     perhaps this evening. You must write and encourage her often My Dearest, her
                     heart and soul seemed fired up, too, for still higher attainments in a
                         <unclear>dim</unclear>life. Oh! may the Lord comfort his children and speed
-                    on the happy day of the fulness of his love and the joy of his perfection<pb/>in
-                    the hearts, (thy heart and soul and hers, my Dearest). Mellie stated that she
+                    on the happy day of the fulness of his love and the joy of his perfection
+
+<pb facs="Allen_11_FF2_030.jpg"/>
+
+                    in their hearts, (thy heart and soul and hers, my Dearest). Mellie stated that she
                     had not heard from you in two weeks and that she was very uneasy &#x0026;c.</p>
                 <p>I must now close this letter by asking you<lb/>Do you know Miss Kendall?<lb/>" "
                     " F. Williamson?<lb/>" " " Mollie <unclear>Gonder</unclear>?<lb/>Has Miss
@@ -182,7 +191,9 @@
             </div>
         </body><back>
             <div type="envelope">
-                <pb facs="Allen_11_ff2_027.jpg"/>
+                
+<pb facs="Allen_11_FF2_027.jpg"/>
+
                 <dateline>
                     <date when="1857-03-24">Mar. 24 1857</date>
                 </dateline>
@@ -191,7 +202,9 @@
                     <address><persName>Miss Mollie Houston</persName><lb/><addrLine>W. F. College</addrLine><lb/><addrLine>Macon</addrLine><lb/><addrLine>Georgia</addrLine></address>
                 </p>
                 <p>Care of<lb/>Prest. Smith</p>
-                <pb facs="Allen_11_ff2_028.jpg"/>
+
+<pb facs="Allen_11_FF2_028.jpg"/>
+
             </div>
         </back>
     </text>
