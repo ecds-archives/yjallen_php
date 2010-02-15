@@ -1,3 +1,5 @@
+<!-- I can't find the images for this -->
+
 <TEI xml:id="yja-grantville.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
               <fileDesc>
@@ -147,6 +149,8 @@
        <text>
 <body>
 <div type="letter">
+
+
        <opener>
               <dateline>Grantville, <date when="1836-08-02">Saturday evening, August 2nd 1856</date></dateline>
 
