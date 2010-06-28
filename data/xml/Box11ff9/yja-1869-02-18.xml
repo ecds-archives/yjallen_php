@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Beck%20Projects/young%20john%20allen/yjallen-svn/yja-tei4.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen, <date when="1869-02-18">February 18, 1869</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J.Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                    
+                </author>
+            </titleStmt>
+            <extent></extent>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                        Emory University makes a claim of copyright only to original
+                        contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen, <date when="1869-02-18">February 18, 1869</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836
+                            <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907
+                            <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="thyun">
+                        <persName>
+                            <forename>T.</forename>
+                            <forename>H.</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945
+                        </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+                    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+                
+                <listPlace> <!-- add any list places you want to -->
+                    <place>
+                        <placeName xml:id="sc">
+                            <settlement>Shangai,</settlement>
+                            <region>China</region>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part
+                    of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded.
+                    Paratextual elements may be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF
+                    images of each page using either a flatbed scanner.  Text pages were
+                    captured in color at 400dpi.  These digital images were converted to
+                    an electronic text file by transcription.  The text files produced
+                    have been proofread against the original document or a JPEG image of
+                    the original.  This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                    For the details of Level 3 encoding, please see the webpage for TEI
+                    Guidelines for Best Encoding practices at
+                    http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                    dashes with two dashes.  Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear
+                    in the original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>  <!-- or 1900-1999 -->
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2010-06-18">June 18, 2010</date>
+                <name xml:id="lh">LeEllen Hannan</name>
+                transcribed and encoded the text.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff9_001.jpg"/>
+                <opener>
+                    <dateline>
+                        <placeName ref="#sc">Shangai,China</placeName><lb/>
+                        <date when="1869-02-18"></date>
+                    </dateline>
+                </opener>
+                <p>In the absence of somethinig better to send you frm this almost <hi rend="underline">terra incognita</hi>, I venture to enclose two short articles relative to the Tallow Tree and the Spermaceti or Wax Insect.  My connection with the two Chinese newspapers necessarily brings to my knowledge much that I would not otherwise encounter, besides facilitating many inquiries, which through them I make on a variety of subjects.  Had I a litle more time to spare, I might be able to furnish you many interesting articles translated out of the above papers.  as it is however I fear I must quite if not altogether be deprived of that pleasure.</p>
+                <p>My plans are laid for another year and my work is now beginning.  I continue in the Government school, and I also conduct the two papers as formerly.  I am sorry the Board is in sucha  poor plight; but, under the circumstances, I cannot complain.  I am satisfied with my present position and as long as I can keep it, shall be content.  I shal do all I can to promote Christianity among this people, and encourage the cause of Missions at home.  I am fully convinced that our people are not half alive to the interest sof this great work. Would that all of them could have been here a few days sice, during Chinese New Year, to see the supersitition, madness and degradation of this vast city, almost wholly given to idolatry!  But few, who may have seen it once, would ever forget it, and none would dare deny to these people that knowledge without which they are most asuredly perishing in their sins every day.  But Shanghai is only one out of no less than <hi rend="underline">two thousand</hi> such <pb facs="Allen_11_ff9_003.jpg"/>
+cities, equally populous, sinful and ----- lost.  Our mission work makes haste slowly.  However we are not without encouragement.  Four persons hav recetly been received into the church by baptism, and there are still others on probation.</p>
+                    <p>Indications of success are tempting enough to draw us into the interior, if the church at home would ever see fit to unbind us from this shore.  We had hopes of entering certainly this year, but a recent letter from Dr. Cunnyngham, Act. Sec. Bd. F. M., discourages any attempt of the kinds, and necessitates further delay here.  In the mean time, our labors are to a great extene secularized and we are but little better than local preachers.   I would not have you understand that Bro. C. wishes us to stay here in preference to taking work where our labors would be more successful.  He only advises us that there is no apparent hope of our being sustained, and that fact is equivalent to a <hi rend="underline">necessary location</hi>.  I have not time to give you the general news, but I will forward you the Shanghai News LEtter, in which you will find all the latest items.  Considerable stir has been occasioned here in China by the recent collisions of th4 English and Chinese at Suatow, Fuchow, etc.  See News Letter.  In haste. </p>
+                <closer>           
+                    <salute>Yours truly,<lb/>
+                        </salute><lb/>
+                    <signed><persName>Young J. Allen</persName></signed></closer>
+            </div></body></text>
+</TEI>
