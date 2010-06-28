@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Beck%20Projects/yjallen-svn/xml/yja-tei4.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen, <date when="1869-12-22">JDecember 22, 1869</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J.Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                    
+                </author>
+            </titleStmt>
+            <extent></extent>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                        Emory University makes a claim of copyright only to original
+                        contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen, <date when="1869-12-22">December 22, 1869</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836
+                            <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907
+                            <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="thyun">
+                        <persName>
+                            <forename>T.</forename>
+                            <forename>H.</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945
+                        </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+                    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+                
+                <listPlace> <!-- add any list places you want to -->
+                    <place>
+                        <placeName xml:id="sc">
+                            <settlement>Shangai,</settlement>
+                            <region>China</region>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part
+                    of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded.
+                    Paratextual elements may be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF
+                    images of each page using either a flatbed scanner.  Text pages were
+                    captured in color at 400dpi.  These digital images were converted to
+                    an electronic text file by transcription.  The text files produced
+                    have been proofread against the original document or a JPEG image of
+                    the original.  This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                    For the details of Level 3 encoding, please see the webpage for TEI
+                    Guidelines for Best Encoding practices at
+                    http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                    dashes with two dashes.  Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear
+                    in the original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>  <!-- or 1900-1999 -->
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2010-06-28">June 28, 2010</date>
+                <name xml:id="lh">LeEllen Hannan</name>
+                transcribed and encoded the text.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                
+                <pb facs="Allen_11_ff9_029.jpg"/>
+                <opener>
+                    <dateline><placeName> Shanghai, China</placeName><lb/>
+                        <date when="1896-06">December 22 1869.</date></dateline><lb/>
+                    
+                    <salute><persName ref="#yja">My dear Pa and Mother</persName></salute></opener>
+                
+                <lb/>
+                <p>You see from the date of this letter that it is only three more days to Christmas, but you will not receive this til sometime in February-  It has been a long time since I spent a Christmas with you - nearly <hi rend= "underline">11</hi> years.  I hope you are all well and preparing to enjoy the annual holy day - I do so much <gap reason= "page torn" extent = "4" unit= "word"/> be with you <gap reason= "page torn" extent = "6" unit= "line"/>. <pb facs="Allen_11_ff9_030.jpg"/>I am very busy still with my two Chinese newspapers and the large <unclear reason="illegible">Good</unclear> school in the city, but I enjoy plenty to do and as long as my health <unclear reason="illegible">keeps</unclear> good shall be delighted to have my hands full- .  I believe I told you that I am earning now <hi rend= "underline">per month</hi> not les than 270 dollars in your currency, and am not suffering for anything.<gap reason= "page torn" extent = "6" unit= "line"/> fever - Charles Arthur, was his name, our oldest- 6 years and 9 months old - he was sick only a week and was entirely unconscious all the while. </p>
+                <p> We have now two litle boys one nearly 4 years old.  The other a small babe just one month and <add place= "supralinear">a</add> few days old.</p>
+                    <p> Mellie has been very well and is now <unclear reason="illegible">quite</unclear> well grown <unclear reason="illegible">when</unclear> age.</p> 
+                <p>She is progressing very well in her studies <gap reason= "page torn" extent = "6" unit= "line"/>.</p> <pb facs="Allen_11_ff9_29.jpg"/>
+                    <p>I have written you several letters this year, but have received none as yet.  I hope you will let me hear from you occasionally. </p>
+                    <p> Where is Allen? And why does he not write?  I have written him a long letter.  I have not heard from Uncle Carter either for a long time.  Hope you are all well and happy.  </p>
+                    <p> So I will close by wishing <gap reason= "page torn" extent = "6" unit= "line"/> </p>
+                   
+                               
+            </div></body></text>
+</TEI>
