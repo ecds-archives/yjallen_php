@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Beck%20Projects/young%20john%20allen/yjallen-svn/yja-tei4.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="xsl/article-display.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen, <date when="1869-12-31">December 31, 1869</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J.Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                    
+                </author>
+            </titleStmt>
+            <extent></extent>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                        Emory University makes a claim of copyright only to original
+                        contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen, <date when="1869-12-21">1868</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836
+                            <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907
+                            <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="thyun">
+                        <persName>
+                            <forename>T.</forename>
+                            <forename>H.</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945
+                        </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+                    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+                
+                <listPlace> <!-- add any list places you want to -->
+                    <place>
+                        <placeName xml:id="sc">
+                            <settlement>Shangai,</settlement>
+                            <region>China</region>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part
+                    of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded.
+                    Paratextual elements may be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF
+                    images of each page using either a flatbed scanner.  Text pages were
+                    captured in color at 400dpi.  These digital images were converted to
+                    an electronic text file by transcription.  The text files produced
+                    have been proofread against the original document or a JPEG image of
+                    the original.  This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                    For the details of Level 3 encoding, please see the webpage for TEI
+                    Guidelines for Best Encoding practices at
+                    http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                    dashes with two dashes.  Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear
+                    in the original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>  <!-- or 1900-1999 -->
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2010-06-21">June 21, 2010</date>
+                <name xml:id="lh">LeEllen Hannan</name>
+                transcribed and encoded the text.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff9_031.jpg"/>
+                <opener>
+                    <dateline><placeName> Shanghai</placeName><lb/>
+                        <date when="1896-12-21">Dec. 31, 1869.</date></dateline><lb/></opener>
+                <lb/>
+                <p>Mr. Editor:  Your paper always makes us glad with great joy.  It never fails to bring us good news -- "news from the churches;" and I sometimes almost envy those brethren who are able to see the work of the Lord prosper so abundantly in their hands.  Oh! how I should have enjoyed the revival at dear old Oxford -- Uncle Billy Parks' account of it almost transferred it to China.  I spent four years in that lovely place.  On my first arrival there in Sept. 1854 a revival was in progress, and one closed, resulting in nearly a hundred conversions, the very day (3d of May, 1856) that I took my departure from the sacred precincts of that hallowed retreat. </p>
+<p>It always seemed to me that Oxford was very near to God and heaven, or God and heaven very near to it, so richly, abundantly and constantly were the blessings of salvation showered upon it.  I saw hundreds converted while there, chiefly young men connected with the college, and saw, too, many a young man, as he drew near the close of his collegiate course fall into grievous temptation because his felt convictions of duty at that hour left him no alternative but to preach or perish.</p> 
+                <p>I have no doubt that every year still witnesses such struggles, and to such as are experiencing that gall and bitterness <hi rend="underline">a sermon explaining the nature of a call to the ministry would</hi>be a God-send.  Students under such circumstances rarely care to make public their feelings and no matter in what esteem they may hold their professors or pastor, they generally strive to keep from <pb facs ="Allen_11_ff9_033.jpg"/>them a knowledge of the deep conviction which threathens to reverse their most cherished destiny.  To their bosom friends among their companions, however, necessity as it were forces them to seek relief by unburdening their souls.  I speak from an experience that deeply impresses my mind on this subject, and if the pastor and Professors, all of whom I know and love, will pardon me, I would suggest that this matter receive more attention than when it was my privilege to enjoy their instructions.</p>  
+<p>But, Mr. Editor, I find that I have made quite a digression.  This is the last day of 1869, and I sat down to say a few words about the results of our labors during its eventful passage.</p> 
+                <p>You will please head this communication with <hi rend="underline">Good News from the Church in China</hi>, for notwithstanding all our trials, persecutions and conflicts with the powers of darkness, this year has been to us one of unequivocal progress and power.  From nearly every staion we hear of successes, even in <hi rend="underline">this one</hi>year, that far exceed a whole dozen of the past -- and the signs of the tmes are ominous of the future glory that awaits the kingdom of Christ by the accession of a new realm to his dominion.</p>
+                <p>Even our own little church has experienced the pulse of a new life and is budding into a fruitful future.  It is true, we have baptized but seven persons during the year and have but thirteen now on probation; but some of them are a host in themselves, and the zeal with which they have set to work shows that the Christ in whom they have believed has power even in China to forgive sins and that his grace can also constrain Chinamen to testify the fact.-<pb facs ="Allen_11_ff9_035.jpg"/>Though small, our mission was the first to test the power of a <hi rend="underline">Christian Advocate</hi>among the churches and the heathen, and the result has been more than commensurate with our fondest expectations.  It is read numerously by the literati and Mandarins -- the very class of persons to whom the Missionary has no access personally, either in private or public.  About <hi rend="underline">fifty thousand copies</hi>have been disposed of during the year, and I have received frequent letters from correspondents saying that it was universally appreciated and often borrowed and even copied and retained.  One enterprising rich man in this place who has recenly set up a printing establishment of his own, proposes making selections from it and issuing them in a permanent book form.  It is always crowded with correspondence and articles of vast interest to the churches; but as none are admitted but those of the highest literary merit even the non-Christian Chiinese delight to read them and have been forced to exclaim that "after all, Christianity is not so bad," and "not all are fools who have believed the word of the Lord."</p> 
+                <p>As a branch of our missionary work it has been a most remarkable success.  It has been called the <hi rend="underline">Great Pastor</hi>, and were I at liberty to mention by whom, it would give it greater emphasis than italics.  It may sounds little like scandal, for praise of one's self or one's work is said to be next of kin to it, for me to speak so of an enterprise conducted by myself, but in doing so I am by no means actuated by a principle of self-esteem.  I feel it<pb facs ="Allen_11_ff9_037.jpg"/>to be an enterprise of the Church having the cause of God and the salvation of the heathen in view, and, in so far as it is successful, I feel it my duty as well as pleasure to acknowledge and proclaim it.</p>  
+                <p>We have now three small churches -- I was going to write -- <hi rend="underline">established</hi>, but perhaps I had better say <hi rend="underline">prospectively</hi>established, to wit: one in Shanghai, one in Nantsiang sixteen miles, and one in Su-chow 72 miles distant.  This latter is under the special guardianship of the Mandarins, that is, they have engaged to protect it from molestation and publicly notified our occupation of the place and forbidden any attempt to disturb either the services or the native Christians.  There are now nine members and seven probationers connected with the church in Su-chow.</p>
+<p>In all we have had fifty-one baptisms up to the present time and as mentioned before have now thirteen probationers whom we hope to receive early next year.</p>
+<p>Have we not reason to be encouraged ? Our day of small things will soon pass away.  Only let the church do her duty and we will do ours.</p>
+<p>Ten thousand thanks to the Georgia brethren and sisters and the Sabbath schools for their liberal devisings in our behalf.  May the abundance of the grace of God never fail them.</p>      
+                <p>Bear me up during the coming year; and may God bless you all with <hi rend="underline">A Happy New Year</hi>.</p>                <closer>           
+                    <salute>Yours truly,</salute><signed><persName>Young J. Allen</persName></signed></closer>
+            </div></body></text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

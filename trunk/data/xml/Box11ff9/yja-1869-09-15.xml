@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Beck%20Projects/young%20john%20allen/yjallen-svn/yja-tei4.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen, <date when="1869-09-15">September 15, 1869</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J.Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                    
+                </author>
+            </titleStmt>
+            <extent></extent>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                        Emory University makes a claim of copyright only to original
+                        contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen, <date when="1869-09-15">1868</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836
+                            <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-03-30">May 30, 1907
+                            <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="thyun">
+                        <persName>
+                            <forename>T.</forename>
+                            <forename>H.</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945
+                        </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+                    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+                
+                <listPlace> <!-- add any list places you want to -->
+                    <place>
+                        <placeName xml:id="sc">
+                            <settlement>Shangai,</settlement>
+                            <region>China</region>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part
+                    of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded.
+                    Paratextual elements may be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF
+                    images of each page using either a flatbed scanner.  Text pages were
+                    captured in color at 400dpi.  These digital images were converted to
+                    an electronic text file by transcription.  The text files produced
+                    have been proofread against the original document or a JPEG image of
+                    the original.  This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                    For the details of Level 3 encoding, please see the webpage for TEI
+                    Guidelines for Best Encoding practices at
+                    http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                    dashes with two dashes.  Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear
+                    in the original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>  <!-- or 1900-1999 -->
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                        <item></item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2010-06-21">June 21, 2010</date>
+                <name xml:id="lh">LeEllen Hannan</name>
+                transcribed and encoded the text.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_ff9_017.jpg"/>
+                <opener>
+                    <dateline><placeName> Shanghai, China</placeName><lb/>
+                        <date when="1896-06">September 15th, 1869.</date></dateline><lb/></opener>
+                <lb/>
+                <p>I have just baptized today<hi rend="underline">Chu lien Sung</hi>, the literary graduate, of whom mention was made in a former communication.  The day was beautiful and nearly all the members were present, together with several probationers, and the baptism and the communion which followed appeared to be accompanied with the presence and influence of the Holy Spirit.  The brother receiving baptism desired to be named <hi rend="underline">Chun Sing</hi>, i.e. True Faith, but I told him it would be better to retain his true name, the one by which he would have to call himself before the mandarins.  The Chinese have many names by which they are known in different relations and under different cirucumstances; but I generally require those I baptize to use the name given them by their parents, and by which they are recognized before the officials.</p> 
+                <p>Our little church is growing gradually in numbers and in influence.  We have at present five new probationers at Shanghai, three at Naw-tseang, an out station, and three at Suchow, besides several who attend upon our services regularly, and are almost persuaded to cast in their lot with us.  At no period of our history have our prospects been more encouraging.  We are assured that we shall reap, if we faint not.  Let the Church hear us up in their prayers constantly.</p><p>News of the most unpleasant character has reached us from Tientsin and Tun Chow, in North China.  Rev. Messrs. Hodge and Williamson, the former of the Methodist and the latter of London Mission, while en route from Tientsin to their interior stations <pb facs="Allen_11_ff9_019.jpg"/>near Loh ling, the district in which the great awakening occurred two years since, were brutally attacked by parties about midnight of 26th August, resulting in the death of Mr. Williamson and considerable injury also to Mr. Hodge.  Their boat was anchored for the night and they were quietly sleeping, and hence altogether unconscious of the impending danger which not only threatened their little property, but even their own persons and even their lives.</p> <p>The body of Mr. Williamson was recovered some three days after from the grand canal into which it had fallen and was taken back to Tientsin for interment.</p><p>Measures were immediately instituted both by the foreign and native officials to arrest and bring to judgment the perpetrators of the deed, and by later date we hear that one of the parties has been captured, who confessed to have followed the missionaries from Tientsin for the purpose they so signally effected.</p>  <p>The news from Tung Chow is to the effect that one of the native helpers of the American Presbyterian Mission, who had been sometime since sent into an interior city to preach and establish a station, had been most <add place="superlinear">most</add>summarily arrested and harshly dealt with 
+by the mandarins, without any apparent cause or provocation, excepting only such as were afterwards gotten up by the mandarins to justify their unseemly proceedings.  At last accounts he was still incarcerated, and suffering greatly from the repeated torture and flagellations he had been subjected to, with the intent to make him confess the crimes which had been falsely charged against him.  His boldness and steadfastness challenge the admiration of the whole native <pb facs ="Allen_11_ff9_021.jpg"/>Church.  Before the mandarns, when brought to trial, he openly avowed his faith in Christ, and like Paul and Stephen gave them such an epitome of the gospel and Christianity as quite shut the mouths of his accusers and judges and even, it is said, disposed one of the mandarins to loose him from his bonds, as they found no evil in him.  It is also said of him that he bears all his trials patiently, and even cheerfully, as he is often heard praying and singing aloud in the prison.</p>
+                    <p>I have not time now to enter fully into this matter, but can assure you that in many places there is much local and determined opposition even to the introduction of the gospel to the interior by native agents, and you may expect to hear of many more similar cases, notwithstanding treaty stipulations are very emphatic as to the toleration of Christianity.  This mode of opposition is two-fold and threatens to become very trroublesome.  The native preachers are arrested, imprisoned and persecuted in a variety of ways; and any persons leasing or renting a house to be used by such as a preaching place is also subject to arrest and most unmerciful treatment by the officials -- in certain locations, not all.</p>
+                    <p>In a certain city (Tuchau), Kwan Si province, the mandarins ordered an investigation as to the character and doctrine of the Christians at that station with a view to suppress it, but finding no cause of complaint they were simply charged not to give occasion for any, and dismissed.  Kwan Si is the province whence originated the great Taiping Rebellion, and the people seemed almost ready for the gospel.  At the above mentioned city many public places have <pb facs ="Allen_11_ff9_023.jpg"/>been opened by the gentry for public preaching, not of the gospel, however, but of Chinese morality.  The occasion, apparently, of this new feature was the presence in the city of Christian teachers who taught openly and from day to day what men must do to be saved.</p> 
+                <p>The Emperor will have attained his majority in 1870, which in China is fixed at sixteen years.  A number of his wives has already been chosen.  He will take unto himself the great wife, the Empress, next year.  At that time he will also pass from the hands of his guardians and assume the reins of government.  The present regency is, therefor, now very reticent and non-committal.  The American Treaty is still unratified, and I suppose all important diplomatic offices will be partially suspended until the marriage and enthronement of <hi rend="underline">Tung Chi</hi>, <hi rend="underline">Mutual Order</hi>.</p><lb/>
+                <closer>           
+                    <salute>Yours,</salute><signed><persName>Young J. Allen</persName></signed></closer>
+              </div></body></text>
+</TEI>
