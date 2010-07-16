@@ -129,8 +129,11 @@
         </change>
     </revisionDesc>
 </teiHeader>
-<text><body><div type="letter">
+<text><body>
+
 <pb facs="Allen_11_FF1_018.jpg"/>
+<div type="letter">
+
 <opener><dateline><name type="place">Emory College, Oxford Ga</name><date when="1856-09-16">Sept 16, 1856</date></dateline>
     <salute>My Dearest One,</salute></opener>
 <p>Doubtless the torturing pangs of anxiety and suspense have already begun to lay hold on your heart, from my already <hi rend="underline">too long delay</hi>; be assured, however, my procrastination proceeds from no vindictive feeling, or retributive motive, but alone from <del rend="strikethrough">cir</del>circumstances over which I could exercise no control, circumstances too, which I have faithfully endeavored to <hi rend="underline">out do</hi>, but alas, both time, strength and effort have recoiled exhausted and in vain and I am now forced to this <hi rend="underline">dernier resort</hi> as a last alternative lest you should in <hi rend="underline">over anxiety</hi> be constrained to interpret my delay as in retaliation, which by no means it could <hi rend="underline">ever be</hi>I have been tortured, <hi rend="underline">Dearest one</hi>, for the last night or two, the 
