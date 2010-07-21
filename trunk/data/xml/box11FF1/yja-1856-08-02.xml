@@ -132,8 +132,9 @@
 </teiHeader>
 <text>
     <body>
-    <div type="letter">
 <pb facs="Allen-11-FF1-003.jpg"/>
+    <div type="letter">
+<head>[Letter from Young John Allen to Molly Houston, August 02, 1856]</head>
         <opener>
             <dateline>Grantville, <date when="1856-08-02">Saturday evening, August 2nd 1856</date></dateline>
             
