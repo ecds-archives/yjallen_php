@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to Mollie Houston <date when="1856-10-10">October 10, 1956</date>, an electronic edition</title>
+            <title>Letter from Young John Allen to Mollie Houston <date when="1856-10-10">November 17, 1856</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -131,9 +131,10 @@
 </teiHeader>
     <text>
         <body>
+ <pb facs="Allen_11_FF1_057.jpg"/>
             <div type="letter">
 
-                <pb facs="Allen_11_FF1_057.jpg"/>
+         <head>[Letter from Young John Allen to Mollie Houston, November 17, 1856]</head>      
 
                 <opener><dateline><name type="place">Emory College, Oxford Geo.</name><date when="1856-11-17"> Nov.17th 1856</date></dateline><lb/>
                     <salute>My dearest Mollie.<lb/></salute></opener>
