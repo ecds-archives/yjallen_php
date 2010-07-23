@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Beck%20Projects/yjallen-svn/xml/yja-tei4.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Mollie's cousin Matt. to Mollie, wife of Young John Allen <date when="1858-06-11">June 12, 1858</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>Young J. Allen</sic>
+                            <reg>Allen, Young John, 1836-1907.</reg>
+                        </choice>
+                    </name>
+                    
+                </author>
+            </titleStmt>
+            <extent></extent>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                        Emory University makes a claim of copyright only to original
+                        contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA 30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836
+                            <placeName>
+                                <settlement type="county">Burke County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1907-05-30">May 30, 1907
+                            <placeName>
+                                <settlement type="city">Shanghai</settlement>
+                                <country>China</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person>
+                        <persName>
+                            
+                        </persName>
+                        
+                    </person>
+                    
+                    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+                
+                <listPlace> <!-- add any list places you want to -->
+                    <place>
+                        <placeName>
+                            <settlement></settlement>
+                            <region></region>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part
+                    of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded.
+                    Paratextual elements may be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF
+                    images of each page using either a flatbed scanner.  Text pages were
+                    captured in color at 400dpi.  These digital images were converted to
+                    an electronic text file by transcription.  The text files produced
+                    have been proofread against the original document or a JPEG image of
+                    the original.  This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                    For the details of Level 3 encoding, please see the webpage for TEI
+                    Guidelines for Best Encoding practices at
+                    http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                    dashes with two dashes.  Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear
+                    in the original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date> 
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item>Allen, Young John, 1836-1907.</item>
+                        <item>Missionaries -- China.</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2010-07-07">July 7, 2010</date>
+                <name xml:id="sat">LeEllen Hannan </name>
+                transcribed and encoded the text.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb facs="Allen_11_FF5_010.jpg"/>
+                <opener><dateline><name type="place">"Sweet Home"</name><date when="1858-06-11">June 11th 1858</date></dateline>
+                    <salute>My dear, dear Mollie,</salute>
+                </opener>
+                <p>Often have I thought of writing to my sweet cousin Mollie, but I have been so confused for the last two months that I couldn't write to anyone.  I thought I would write you before I left Barnesville, but I couldn't be composed long enough.  You will infer from my remarks that I have had some trouble - well, dearest Mollie, I have.   I can't undertake a full detail of the facts now, but when you come home, I'll unfold to you the <unclear>utmost</unclear>secrets of my poor heart.  Mollie, I am an unfortunate being truly.  I always thought that I wouldn't be <add place="supralinear">as</add>happy as others. but the  <pb facs="Allen_11_FF5_011.jpg"/> shadows fall longer &#x0026; darker than I ever expected.  The bright, genial sunshine doesn't often cross my path- all now is dark, but I trust, I pray that my heavenly father will guide me safely through all these earth-trials to the haven of eternal bliss.  Hitherto I have been easily influenced by others, but henceforth firmness &#x0026; decisions shall be two of my most prominent characteristics.  I shall give myself entirely to God, pray to him for guidance, and act according to the honest connections of my heart - then all will be well.  May God strengthen me <sic>me</sic> in my resolution.  Mollie, dear Mollie, pray earnestly for your true, your sincere friend.
+                </p>
+                <p>I have spent several hours with Young.  Very pleasantly indeed did they pass away.  And, dear Mollie, you'll soon be entirely his.  You are happy Mollie.  Would I were too.  There's rest for me in heaven.  Thank God.  But self must not be the chief topic.  It is human nature to take care of number one.  Mollie, it is Young's intention to have your engagement sonsummated befre you cme home, and he thought that I could perhaps have some influence with you, if you felt disposed to object to such a course, so he asked me to write you on the subject.  Pa says he thinks it would be the best plan to have the ceremony performed in Oxford and come home as <hi rend="underline">"one" </hi>.  If I were you, I wouldn't object - Mollie, and when you weight all the circumstances, I think your good sense will sanction Young's proposition.  I can't write any more.</p>
+                <closer><salute>Yours most affly</salute><lb/>
+                    <signed><persName>Matt.</persName></signed></closer>
+                
+                               </div>
+        </body>
+    </text>
+</TEI>

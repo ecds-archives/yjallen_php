@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:/Beck%20Projects/yjallen-svn/xml/yja-tei4.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Letter from Young John Allen to Mollie, his future wife <date when="1858-06-10">June 10, 1858</date>, an electronic edition</title>
+                    <author>
+                        <name type="person">
+                            <choice>
+                                <sic>Young J. Allen</sic>
+                                <reg>Allen, Young John, 1836-1907.</reg>
+                            </choice>
+                        </name>
+                        
+                    </author>
+                </titleStmt>
+                <extent></extent>
+                <publicationStmt>
+                    <publisher>Emory University, Lewis H. Beck Center</publisher>
+                    <pubPlace>Atlanta, Georgia</pubPlace>
+                    <date>2008</date>
+                    <availability>
+                        <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                            Emory University makes a claim of copyright only to original
+                            contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                            <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA 30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                    </availability>
+                </publicationStmt>
+                <seriesStmt>
+                    <title>The Young John Allen Papers</title>
+                    <respStmt>
+                        <name>Naomi Nelson</name>
+                        <name>Alice Hickcox</name>
+                        <name>Stewart Varner</name>
+                        <resp>Principal Investigators</resp>
+                    </respStmt>
+                </seriesStmt>
+                <sourceDesc>
+                    <bibl><date> </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+                    <listPerson>
+                        <person xml:id="yja">
+                            <persName>
+                                <forename>Young</forename>
+                                <forename>John</forename>
+                                <surname>Allen</surname>
+                            </persName>
+                            <birth when="1836-01-03">January 3, 1836
+                                <placeName>
+                                    <settlement type="county">Burke County</settlement>
+                                    <region type="state">Georgia</region>
+                                    <country>United States</country>
+                                </placeName>
+                            </birth>
+                            <death when="1907-05-30">May 30, 1907
+                                <placeName>
+                                    <settlement type="city">Shanghai</settlement>
+                                    <country>China</country>
+                                </placeName>
+                            </death>
+                        </person>
+                        <person>
+                            <persName>
+                                
+                            </persName>
+                            
+                        </person>
+                        
+                        <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+                    
+                    <listPlace> <!-- add any list places you want to -->
+                        <place>
+                            <placeName>
+                                <settlement></settlement>
+                                <region></region>
+                            </placeName>
+                        </place>
+                    </listPlace>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <projectDesc>
+                    <p>This text was created by the Lewis H. Beck Center as a part
+                        of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+                </projectDesc>
+                <samplingDecl>
+                    <p>The archival material has been transcribed and encoded.
+                        Paratextual elements may be provided as digital images only, with some exceptions.</p>
+                </samplingDecl>
+                <editorialDecl>
+                    <p>Processing this electronic text file began by creating TIFF
+                        images of each page using either a flatbed scanner.  Text pages were
+                        captured in color at 400dpi.  These digital images were converted to
+                        an electronic text file by transcription.  The text files produced
+                        have been proofread against the original document or a JPEG image of
+                        the original.  This proofread text file has then been encoded using
+                        the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                        For the details of Level 3 encoding, please see the webpage for TEI
+                        Guidelines for Best Encoding practices at
+                        http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                        dashes with two dashes.  Page numbers and other text such as titles
+                        displayed in brackets have been added by the encoder and do not appear
+                        in the original text.</p>
+                </editorialDecl>
+                <classDecl>
+                    <taxonomy xml:id="lcsh">
+                        <bibl>
+                            <title>Library of Congress Subject Headings</title>
+                        </bibl>
+                    </taxonomy>
+                </classDecl>
+            </encodingDesc>
+            <profileDesc>
+                <creation>
+                    <rs type="collection">Young John Allen Papers</rs>
+                    <rs type="language">English</rs>
+                    <rs type="geography">United States</rs>
+                    <date>1800-1899</date> 
+                </creation>
+                <textClass>
+                    <keywords scheme="lcsh">
+                        <list>
+                            <item>Allen, Young John, 1836-1907.</item>
+                            <item>Missionaries -- China.</item>
+                        </list>
+                    </keywords>
+                </textClass>
+            </profileDesc>
+            <revisionDesc>
+                <change>
+                    <date when="2010-07-07">July 15, 2010</date>
+                    <name xml:id="sat">LeEllen Hannan </name>
+                    transcribed and encoded the text.
+                </change>
+            </revisionDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <div type="letter">
+                    <pb facs="Allen_11_FF5_019.jpg"/>
+                    <opener><dateline><name type="place">Bachelor Hall, Geo.</name><date when="1858-06-10">June 10th 1858</date></dateline>
+                        <salute>My Own Beloved Mollie,</salute>
+                    </opener>
+                    <p>You have no idea how pleasant and gratifying it is for me just to read a few words from you, even the mention of my name from your pen; Oh! Mollie, there is a manna like sweetness that <unclear>leaves</unclear> such little morsels, that my <hi rend="underline">"very soul loves"</hi>; ah! it is the knowledge, the consciousness that it came from  <hi rend="underline">"My Dearest Spirit Mate"</hi>, that leavens and sweetess it all - My <hi rend="underline">"own Mollie"</hi>, do you love for <hi rend="underline">"me too"</hi> to be always giving you these little evidences and <hi rend="underline">"demonstrations"</hi> of the love which I cherish and devote to thee alone?  Well I can't help<del rend="strikethrough">it speaking so</del> - out of the abundance of <add place="supralinear">my</add> heart the (my) mouth speaketh. </p>
+                    <p>My Dear, I put a long letter in the trunk I sent you and if I mistake not <pb facs="Allen_11_FF5_020.jpg"/>mentioned a few of the reasons why <add place="supralinear">Mellie &#x0026; I </add> <del rend="strikethrough">we</del>thought our engagement should be consummated and My Dearest, I know you will agree with us if you will just consider for a little while what we've mentioned.</p>
+                    <p>My Mollie, I know you have a judgement and a good one too; one in which I put much confidence and to which I expect to offer many a point for Counsel and decision yet, and I do hope my dearest One, You will not think us depreciating or disregarding it when we say that t is according to our <hi rend="underline">"judgements proper, best and <unclear>right</unclear>that we should marry before our return home"</hi>.  I am candid and so is Mellie and serious.  And now since Kause is married and I've heard and seen what I have - even since yesterday- I feel darkly convinced and <unclear>highly</unclear>determined that it must or at least ought to be consummated soon and <hi rend="underline">"not here"</hi>.  Oh! I would not have it <hi rend="underline">"to be here"</hi>for <hi rend="underline">"anything, I have a great mind to say, in the world"</hi>Soon Dearest - you see to what extent I am solicitious about it, and I am in <hi rend="underline">"dead earnest, or active, living, energetic earnest"</hi>would better express it.</p>
+                    <p>You know me, My Love, and you know that I <hi rend="underline">"love you more than I do myself and next"</hi><add place="supralinear">almost</add> <hi rend="underline">"to my God"</hi>; and must know from this and from all my past history and intercourse with you that I <add place="supralinear">Mellie &#x0026; I </add>ask anything of <hi rend="underline"> "thee"</hi>, that would not be in accordance with right views, just propriety and prudence, and this time I have several opinions to <unclear>corroborate</unclear> mine, <unclear>Miss</unclear>Mellie, Uncle John,<unclear>Si</unclear>Matt. told me <del rend="strikethrough">Tuesday</del>Monday, was speaking to her something about me and of his own accord introduced the subject of our marriage and said to Matt,  that "<hi rend="underline">"his advice would be to do it before coming home, never wait til we get home""</hi>that is what he said Mollie according to Matt, and he thinks that remarks and observations will be made<pb facs="Allen_11_FF5_020.jpg"/> concerning us which we can entirely obviate by so doing <unclear>this</unclear>. </p>
+                    <p>Now My Dear Mollie - I am <hi rend="underline">"perfectly happy and blest"</hi> in believing - as in <hi rend="underline">"knowing"</hi>that <hi rend="underline">"you do love me"</hi>, but Oh! how much more so will we both be when we can love each <hi>rend="underline">"other freely"</hi>.  Dearest Let's consummate our engagement before we come <hi rend="underline">"home and be happy"</hi>and <hi rend="underline">"prepare together for life's future"</hi>for we'll need to be together when we get out of college in order to get ready for the life we anticipate, and I want us to be together indeed and all the time and <hi rend="underline">"freely too"</hi>.  You understand me, Mollie, I mean in contradisinction to the <unclear>stunted</unclear>and partial communion we have heretofore enjoyed.  I shall say no more for I do fully believe you will agree to fulfill all.  <hi rend="underline">"God blesses"></hi> <add place="supralinear">you</add> the feverent ejaculation <hi>rend = "underline">"my soul all the time"</hi>.  Patillo - <hi>rend = "underline">""Little Brother Patillo""</hi> visited Matt Monday even - last and spent the day Tuesday- it is a gone case My Dear.  Matt is <hi rend="underline">"engaged"</hi>to him <hi rend="underline">"sure"</hi> - Oh!  I feel so queer about it.  Please my dear don't say <hi rend="underline">"a word about it"</hi> <hi rend= "underline">"any body here or there"</hi>.</p>
+                    
+                    <closer><salute><hi rend="underline">"Your own"</hi></salute><lb/>
+                        <signed><persName>Young Allen</persName></signed></closer>
+                    
+                </div>
+            </body>
+        </text>
+    </TEI>
