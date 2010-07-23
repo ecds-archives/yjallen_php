@@ -185,8 +185,10 @@
     </teiHeader>
     <text>
         <body>
+<pb facs="Allen_11_FF2_046.jpg"/>
+
             <div type="letter">
-                <pb facs="Allen_11_FF2_046.jpg"/>
+                <head>[Letter from Young John Allen to Mollie Houston, March 5, 1857]</head>
                 <opener>
                     <dateline>
                         <placeName>E. C. Oxford Geo.</placeName>
@@ -208,7 +210,7 @@
                     such an unpleasant suspense so long and I
                     regret it on my account because I am debarred the privilege of communing with My
                         <hi rend="underline">Dearest One</hi> the very <hi rend="underline"
-                        >Idol</hi>of my being and the "life of all my (sweetest) delights." But I
+                        >Idol</hi> of my being and the "life of all my (sweetest) delights." But I
                     must yield in cheerful obedience to the "powers that be"; and to warn you
                     against the <hi rend="underline">anxieties</hi> which my delay might cause in
                     your mind, <del rend="strikethrough">whe</del> if ignorant of the true cause, I
@@ -243,7 +245,7 @@
                    time when I can fully express myself-- on all these points.--</p>
                 <closer>You will please My Dearest, Remember me often, and know that at morn and at
                     noon and night I never fail to remember Thee at the Mercy Seat and every hour in
-                    the day besides. <salute>Thine in faithful devotion and love forever,</salute>
+                    the day besides. <salute>Thine in faithful devotion and love forever,</salute><lb/>
                     <signed>Young J Allen</signed></closer>
             </div>
         </body>
