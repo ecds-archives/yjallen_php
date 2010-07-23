@@ -7,7 +7,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young J. Allen</sic>
+                            <sic>Y. J. W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -181,9 +181,13 @@
     </teiHeader>
     <text>
         <body>
+
+<pb facs="Allen_11_FF2_076.jpg"/>
+
             <div type="letter">
                 
-<pb facs="Allen_11_FF2_076.jpg"/>
+<head>[ Letter from Young John Allen to Mollie Houston, January 28, 1857]</head>
+
 
                 <opener>
                     <dateline>
