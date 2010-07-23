@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="file:/Beck%20Projects/yjallen-svn/xml/yja-tei4.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yja-1858-00-00.001">
     <teiHeader>
         
         <fileDesc>
@@ -147,7 +147,7 @@
                 
                     <signed><persName>Y. J. Allen</persName></signed>
                        
-          </p>
+
                 
             </div>
         </body>
