@@ -7,7 +7,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young J. Allen</sic>
+                            <sic>A. Y. J. W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -128,8 +128,12 @@
     </teiHeader>
     <text>
         <body>
+
+<pb facs="Allen_11_FF2_049.jpg" n="1st"/>
+
             <div type="letter">
-                <pb facs="Allen_11_FF2_049.jpg" n="1st"/>
+                <head>[Letter from Young John Allen to Mollie Houston, February 14, 1857]</head>
+
                 <opener><epigraph><quote>"Don't view this with critic's eye<lb/>But pass its imperfections by."</quote></epigraph>
                     <dateline>Night<lb/>Emory College. Oxford Geo. <date when="1857-02-14">Feb. 14
                         1857</date></dateline>
