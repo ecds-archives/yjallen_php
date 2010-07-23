@@ -2,12 +2,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Young John Allen to Mollie Houston, <date when="1857-02-19">Feb.
-                        19 1857</date>, an electronic edition</title>
+                <title>Letter from Young John Allen to Mollie Houston, <date when="1857-02-19">February 19, 1857</date>, an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young</sic>
+                            <sic>A. Y. J. W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -183,10 +182,12 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
 
 <pb facs="Allen_11_FF2_073.jpg"/>
 
+            <div type="letter">
+
+<head>[Letter from Young John Allen to Mollie Houston, February 19, 1857]</head>
                 <opener>
                     <dateline>
                         <placeName>E. C. Oxford Ga.</placeName>
