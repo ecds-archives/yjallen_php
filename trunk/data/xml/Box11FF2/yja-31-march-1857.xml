@@ -8,7 +8,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young J. Allen </sic>
+                            <sic>A. Y. J. W. Allen </sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -182,9 +182,12 @@
     </teiHeader>
     <text>
         <body>
-           <div type="letter">
 
 <pb facs="Allen_11_FF2_010.jpg"/>
+
+           <div type="letter">
+
+<head>[Letter from Young John Allen to Mollie Houston, March 31, 1857]</head>
 
                 <note resp="#yja" place="inline">N. B.<p>I will have to send this contrary to your
                         request.-- So you must pardon it and write back on Saturday or just as soon
@@ -202,7 +205,7 @@
                         rend="underline">my Dearest Mollie</hi>, will not be altogether unacceptable
                     to thee.-- I have not time to enter into a full and comprehensive answer to your
                     letter so full of affection and confidence <hi rend="underline">in him
-                    who</hi>hopes at no <hi rend="underline">very distant</hi>day to share with <hi
+                    who </hi>hopes at no <hi rend="underline">very distant</hi> day to share with <hi
                         rend="underline">thee the</hi>/burdens and crosses of life of which you
                     spoke 
 
@@ -229,7 +232,7 @@
                     crisis, <del rend="strikethrough">where</del>in the history of your religious
                     experience where you can just begin to see the glory of being a <hi
                         rend="underline">thorough devoted, entirely converted Christian</hi>, you
-                    are now my <hi rend="underline">precious Mollie</hi>occupying a high stand point
+                    are now my <hi rend="underline">precious Mollie </hi>occupying a high stand point
                     from which God permits you to look <del rend="strikethrough">below</del><add
                         place="supralinear">down</add>upon the <hi rend="underline">world as it
                         is</hi>--upon <hi rend="underline">your heart as it is</hi>, now Dearest
