@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="file:/Beck%20Projects/young%20john%20allen/yjallen-svn/yja-tei4.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="yja-15-september-1869.001" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
