@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="file:/Beck%20Projects/young%20john%20allen/yjallen-svn/yja-tei4.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="xsl/article-display.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="yja-31-december-1869.001" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
