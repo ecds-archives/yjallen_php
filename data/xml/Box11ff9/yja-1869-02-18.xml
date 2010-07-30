@@ -184,8 +184,8 @@
         <body>
             <div type="letter">
                 <head> [Letter from Young John Allen to unknown]</head>
-                <pb facs="Allen_11_ff9_001.jpg"/> <pb></pb>
-                <opener>
+                <pb facs="Allen_11_ff9_001.jpg"/> 
+                <opener><lb/>
                     <dateline>
                         <placeName ref="#sc">Shangai,China</placeName><lb/>
                         <date when="1869-02-18"></date>
