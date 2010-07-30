@@ -5,7 +5,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen, <date when="1869-06">June, 869</date>, an electronic edition</title>
+            <title>Letter from Young John Allen, <date when="1869-06">June, 1869</date>, an electronic edition</title>
             <author>
                 <name type="person">
                     <choice>
@@ -183,9 +183,9 @@
 </teiHeader>
 <text>
     <body>
-        <div type="letter">
-                   
-            <pb facs="Allen_11_ff9_013.jpg"/>
+        <div type="letter"><head>[Letter from Young John Allen to te "Shining Stars"</head>
+           
+                               <pb facs="Allen_11_ff9_013.jpg"/>
             <opener>
                 <dateline><placeName> Shanghai, China</placeName><lb/>
                     <date when="1896-06">June, 1869.</date></dateline><lb/>
@@ -193,7 +193,7 @@
                 <salute><persName ref="#yja">To the "Shining Stars"</persName></salute></opener>
             
             <lb/>
-            <p>Having already told you something about the great extent and populousness of China and the utter ignorance and degradation of its multitudes, I shall now attempt to anticipate your exclamation : "Watchman you have told us of the night, tell us now what its signs of promise are!"</p> <milestone unit="section" rend="stars"/>
+            <p>Having already told you something about the great extent and populousness of China and the utter ignorance and degradation of its multitudes, I shall now attempt to anticipate your exclamation: "Watchman you have told us of the night, tell us now what its signs of promise are!"</p> <milestone unit="section" rend="stars"/>
         <p>First.  There are about thirty different Societies or Boards represented in China by, at this time, no less than two hunderd and fifty Missionaries, male and female.  They (the missionaries) are chiefly from England and the United States, though not a few are from Germany and the Netherlands.  About half of them hail from America, and formerly the larger part of them from the South, but now the North has the preponderance.  The Methodist Church, South, has sent out as many as eight Missionaries with their wives but it has only two here now -- I wonder if she knows there are even as many as that!</p>
          <p>Second.  All the coast and river ports are occupied and as there are no less than two hunderd and fifty native preachers a great number of smaller stations have been established in the towns and cities in the interior.  There are also six or seven well attended Mission Hospitals and four or five large printing establishments from which our books and tracts are issued by the million yearly, requiring many colporteurs to distribute them.  There are<pb facs="Allen_11_ff9_015.jpg"/>at present seven hundred thousand volumes of Christian books lying in the book rooms of the American Presbyterian Mission Press at this place, while we have not a cent of money wherewith to aid the work either by printing, purchase, or distribution.</p>
             <p>Third.  There are a great many schools, both day and boarding schools.  The day schools are by far the cheapest and most numerous but the boarding schools are in the end the more useful.  The expenses of the former are confined simply to a supply of books, stools and tables, room rent and teacher's wages, which amount in a year to about one hundred and twenty dollars.  Each school generally has from about ten to twenty pupils.</p>
