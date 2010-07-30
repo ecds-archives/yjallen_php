@@ -134,15 +134,16 @@
 </teiHeader>
 <text>
 <body>
-<div type="letter">
-    <pb facs="Allen_11_FF7_021.jpg"/>
+<div type="letter">  <head>Letter from Young John Allen to Dr. Thomas</head>
+ 
+    <pb facs="Allen_11_FF7_021.jpg"/><lb/>
 <opener>
     <hi rend="underline">Copy</hi>
     <dateline><name type="place">Shanghai China</name><date when="1866-11-09">Nov 19th 1866</date></dateline><lb/>
     <salute>My dear Dr. Thomas,</salute></opener>
-        <p>In a letter to Dr. E H Myers dated August 28th 1866, I notified my intention to forward at an early date some relics and specimens of Chinese art &#x0026; Literature as a contribution to the Cabinet and Library of your College, to arrive before the Commencement in July 1867.  Having, therefore in compliance with intention finished or rather cut short my collection for want of means to salvage it at present, I now hasten to forward you an <hi rend="underline">inventory</hi> of the <hi rend="underline">box</hi> I am about to despatch for the clipper ship <hi rend="underline">"Antelope"</hi> from here to N. York.
+        <p>In a letter to Dr. E H Myers dated August 28th 1866, I notified my intention to forward at an early date some relics and specimens of Chinese Art &#x0026; Literature as a contribution to the Cabinet and Library of your College, to arrive before the Commencement in July 1867.  Having, therefore in compliance with intention finished or rather cut short my collection for want of means to salvage it at present, I now hasten to forward you an <hi rend="underline">inventory</hi> of the <hi rend="underline">box</hi> I am about to dispatch for the clipper ship <hi rend="underline">"Antelope"</hi> from here to N. York.
         </p>
-        <p><hi rend="underline">For the Libary</hi>            
+        <p><hi rend="underline">For the Library</hi>            
         </p>
         <p>Chinese books, upwards of one hundred volumes, including; <lb/>       
          
@@ -159,7 +160,7 @@
             8th The Sacred Edict- foreign bound.<lb/>
             9th The <hi rend="underline">Li Ki</hi> or "Book of Rites.<lb/>
             10th Description of Shanghai and its Environs traslated from an ancient Chinese miscellany- Also various books translated into Chinese by the Missionaries<lb/>
-            1st The Bible- 2 copies- one the London Miss Edition the other the Committee's ed. both in Wen Li a literary classic Style- also parts of the same in Mandarin and Shanghai Colloquials.<lb/>
+            1st The Bible- 2 copies- one the London Mission Edition the other the Committee's ed. both in Wen Li a literary classic Style- also parts of the same in Mandarin and Shanghai Colloquials.<lb/>
             2d A comparison of Theology<lb/>
             3d The guide to Heaven<lb/>
             4th Introduction to the doctrines of Christianity<lb/>
@@ -218,7 +219,7 @@
         One carved bamboo cane for the Rev Dr E H Myers<lb/>
         A Specimen of finest tea in China- <hi rend="underline">Pih <unclear>lu chunmee</unclear></hi> for the <hi rend="underline">Faculty</hi>- Presented by the Provincial chancellor at Suchow-   
     </p>
-    <p>I exceedingly regret that my collection and contribution is so meager and unsatisfa tory- and hope at no distant day to be able to make another of more interest and value-  What it is and as it is however I forward you, hoping that in due time, say in April next, it will reach you in good order and condition-</p>
+    <p>I exceedingly regret that my collection and contribution is so meager and unsatisfactory- and hope at no distant day to be able to make another of more interest and value-  What it is and as it is however I forward you, hoping that in due time, say in April next, it will reach you in good order and condition-</p>
         <closer><salute>Affect. yours-</salute><signed>Young J Allen</signed></closer>
         
   
