@@ -182,9 +182,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
+            <div type="letter">  <head>[Letter from Young John Allen to his church Board]</head>
 
-<pb facs="Allen_11_FF8_027.jpg"/>
+<pb facs="Allen_11_FF8_027.jpg"/> <lb/>
 
                 <opener>
                     <dateline>
@@ -219,7 +219,7 @@
 <pb facs="Allen_11_FF8_029.jpg"/>
 
                     till twelve o'clock I am engaged in the Anglo-Chinese school, which consists of
-                    fory young men, who are looking forward to appointments as the future ministers
+                    forty young men, who are looking forward to appointments as the future ministers
                     and consuls to Western nations. They are of the higher and better class of
                     Chinese society, and I have so far succeeded in gaining their confidence that I
                     have no hesitation in pronouncing the school under my control and influence. I
