@@ -181,9 +181,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
+            <div type="letter">  <head>[Letter from Young John Allen to Dr Lehon]</head>
                 
-<pb facs="Allen_11_FF8_009.jpg"/>
+<pb facs="Allen_11_FF8_009.jpg"/>  <lb/>
 
                 <opener>
                     <salute>My dear Dr. Lehon,</salute>
