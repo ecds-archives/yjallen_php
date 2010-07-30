@@ -7,7 +7,7 @@
     <author>
      <name type="person">
       <choice>
-       <sic>Young</sic>
+       <sic>A. Y. J. W. Allen</sic>
        <reg>Allen, Young John, 1836-1907</reg>
       </choice>
      </name>
@@ -135,9 +135,11 @@
  </teiHeader>
  <text>
   <body>
-   <div type="letter">
+  <pb facs="Allen_11_FF2_003.jpg"/>
 
-<pb facs="Allen_11_FF2_003.jpg"/>
+ <div type="letter">
+
+<head>[Letter from Young John Allen to Mollie Houston, April 13, 1857]</head>
 
     <opener>
      <dateline>E.C. Oxford Geo. <date when="1857-04-13">Apr. 13 1857</date></dateline>
@@ -150,7 +152,7 @@
       rend="underline">you</hi>. Tis the work of the Lord, <del rend="strikethrough">and</del> that
      brought us together and <hi rend="underline">Glory be to God</hi>, I know tis his Spirit that
      is leading us on.-- My Dear Mollie, your letter overcame me I was <hi rend="underline">so
-      glad</hi>.-- I went away, <hi rend="underline">far away</hi>into a <hi rend="underline">thick
+      glad</hi>.-- I went away, <hi rend="underline">far away</hi> into a <hi rend="underline">thick
       wood</hi> and there praised and blessed God and thanked him that he had heard our prayers and
      blessed our souls with the <hi rend="underline">fulness</hi> of his love and with the joy
       and
