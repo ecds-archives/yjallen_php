@@ -134,9 +134,9 @@
 </teiHeader>
 <text>
 <body>
-<div type="letter">  <head>Letter from Young John Allen to Dr. Thomas</head>
+<div type="letter">  <head>[Letter from Young John Allen to Dr. Thomas]</head>
  
-    <pb facs="Allen_11_FF7_021.jpg"/><lb/>
+    <pb facs="Allen_11_FF7_021.jpg"/><lb/>   <lb/>
 <opener>
     <hi rend="underline">Copy</hi>
     <dateline><name type="place">Shanghai China</name><date when="1866-11-09">Nov 19th 1866</date></dateline><lb/>
