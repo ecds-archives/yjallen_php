@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Young John Allen, <date when="1869-12-22">JDecember 22, 1869</date>, an electronic edition</title>
+                <title>Letter from Young John Allen, <date when="1869-12-22">December 22, 1869</date>, an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
@@ -182,9 +182,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
+            <div type="letter">  <head>[Letter from Young John Allen to his (adoptive) parents]</head>
                 
-                <pb facs="Allen_11_ff9_029.jpg"/>
+                <pb facs="Allen_11_ff9_029.jpg"/> <lb/>
                 <opener>
                     <dateline><placeName> Shanghai, China</placeName><lb/>
                         <date when="1896-06">December 22 1869.</date></dateline><lb/>
@@ -192,7 +192,7 @@
                     <salute><persName ref="#yja">My dear Pa and Mother</persName></salute></opener>
                 
                 <lb/>
-                <p>You see from the date of this letter that it is only three more days to Christmas, but you will not receive this til sometime in February-  It has been a long time since I spent a Christmas with you - nearly <hi rend= "underline">11</hi> years.  I hope you are all well and preparing to enjoy the annual holy day - I do so much <gap reason= "page torn" extent = "4" unit= "word"/> be with you <gap reason= "page torn" extent = "6" unit= "line"/>. <pb facs="Allen_11_ff9_030.jpg"/>I am very busy still with my two Chinese newspapers and the large <unclear reason="illegible">Good</unclear> school in the city, but I enjoy plenty to do and as long as my health <unclear reason="illegible">keeps</unclear> good shall be delighted to have my hands full- .  I believe I told you that I am earning now <hi rend= "underline">per month</hi> not les than 270 dollars in your currency, and am not suffering for anything.<gap reason= "page torn" extent = "6" unit= "line"/> fever - Charles Arthur, was his name, our oldest- 6 years and 9 months old - he was sick only a week and was entirely unconscious all the while. </p>
+                <p>You see from the date of this letter that it is only three more days to Christmas, but you will not receive this til sometime in February-  It has been a long time since I spent a Christmas with you - nearly <hi rend= "underline">11</hi> years.  I hope you are all well and preparing to enjoy the annual holy day - I do so much <gap reason= "page torn" extent = "4" unit= "word"/> be with you <gap reason= "page torn" extent = "6" unit= "line"/>. <pb facs="Allen_11_ff9_030.jpg"/>I am very busy still with my two Chinese newspapers and the large <unclear reason="illegible">Good</unclear> school in the city, but I enjoy plenty to do and as long as my health <unclear reason="illegible">keeps</unclear> good shall be delighted to have my hands full- .  I believe I told you that I am earning now <hi rend= "underline">per month</hi> not less than 270 dollars in your currency, and am not suffering for anything.<gap reason= "page torn" extent = "6" unit= "line"/> fever - Charles Arthur, was his name, our oldest- 6 years and 9 months old - he was sick only a week and was entirely unconscious all the while. </p>
                 <p> We have now two litle boys one nearly 4 years old.  The other a small babe just one month and <add place= "supralinear">a</add> few days old.</p>
                     <p> Mellie has been very well and is now <unclear reason="illegible">quite</unclear> well grown <unclear reason="illegible">when</unclear> age.</p> 
                 <p>She is progressing very well in her studies <gap reason= "page torn" extent = "6" unit= "line"/>.</p> <pb facs="Allen_11_ff9_29.jpg"/>
