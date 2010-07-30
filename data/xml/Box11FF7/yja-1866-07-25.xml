@@ -134,8 +134,8 @@
 </teiHeader>
 <text>
 <body>
-<div type="letter">
-    <pb facs="Allen_11_FF7_001.jpg"/>
+    <div type="letter">  <head>[Letter to Bro. Yates]</head>
+    <pb facs="Allen_11_FF7_001.jpg"/>  <lb/>
     <opener><salute>My dear Bro. Yates,</salute></opener>
     <p>Your Proposition at once so simple and comprehensive and <del rend="strikethrough">(so analogous in)</del> the terms suggested so analogous to those used in our own vernacular, meeting alike the wants of the Press and the Pulpit, and harmonizing, or compromising, without sacrifices the peculiar views of those to whom it is advanced, meet my hearty <sic>concurrense</sic>-        
     </p>
