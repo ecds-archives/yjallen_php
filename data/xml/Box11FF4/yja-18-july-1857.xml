@@ -9,7 +9,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young</sic>
+                            <sic>A. Y. J. W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -183,8 +183,10 @@
     </teiHeader>
     <text>
         <body>
+
+<pb facs="Allen_11_FF4_009.jpg"/>
             <div type="letter">
-                <pb facs="Allen_11_FF4_009.jpg"/>
+                <head>[Letter from Young John Allen to Mollie Houston, July 18, 1857]</head>
                 <opener>
                     <dateline>
                         <placeName>E. C. Oxford Geo.</placeName>
@@ -209,7 +211,7 @@
                     the truth. I've had nothing to do since Monday night-- but I
                     haste on.</p>
                 <p>I've got something to do now, else I would write you a long and full letter <hi
-                        rend="underline">almost</hi>as <hi rend="underline">full</hi> as <hi
+                        rend="underline">almost</hi> as <hi rend="underline">full</hi> as <hi
                         rend="underline">my heart feels</hi>. Another Young Man and myself were
                     called on the other day to fill our Circuit rider's appointments, three in
                     number including both Saturday and Sunday. So you see 
@@ -238,7 +240,7 @@
                     letter under the circumstances.</p>
                 <p>You must make haste and get through all your visiting before I get home, for I
                     want to be with you then <hi rend="underline">all the time nearly</hi>, though I
-                    would not monopolize.</p>
+                    would not monopolise.</p>
                 <p>I want to be with you as much as I can this time Dearest, for after this
                         vacation
 
