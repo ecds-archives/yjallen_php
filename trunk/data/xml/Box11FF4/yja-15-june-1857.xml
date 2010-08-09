@@ -9,7 +9,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young</sic>
+                            <sic>A. Y. J. W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -183,8 +183,11 @@
     </teiHeader>
     <text>
         <body>
+
+ <pb facs="Allen_11_FF4_003.jpg"/>
+
             <div type="letter">
-                <pb facs="Allen_11_FF4_003.jpg"/>
+               <head>[Letter from Young John Allen to Mollie Houston, June 15, 1857]</head>
                 <opener>
                     <dateline>
                         <placeName>E. C. Oxford Geo.</placeName>
@@ -240,8 +243,8 @@
                 <p>Be assured you will be among friends here Mollie, if you come<pb
                         facs="Allen_11_FF4_007.jpg"/>and that you will be taken good care of for <hi
                         rend="underline">I will do it myself</hi>,-- great assurance isnt it. And
-                    you shall have the <hi rend="underline">best</hi>attention and the <hi
-                        rend="underline">best</hi>company that can be selected from the young men
+                    you shall have the <hi rend="underline">best</hi> attention and the <hi
+                        rend="underline">best</hi> company that can be selected from the young men
                     here to attend you anywhere you may wish to go when I can not with propriety
                     attend you myself. You understand what I mean by propriety.</p>
                 <p>I want you to come if you will, but if not, <hi rend="underline">it won't be
