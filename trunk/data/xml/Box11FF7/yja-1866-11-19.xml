@@ -134,7 +134,7 @@
 </teiHeader>
 <text>
 <body>
-<div type="letter">
+<div type="letter">   <head>Letter from Young John Allen to Dr. McFerrin</head>    <lb/>
     <pb facs="Allen_11_FF7_007.jpg"/>
     <opener><dateline><name type="place">Shanghai</name><date when="1866-11-19">Nov 19th 1866</date></dateline>
         <salute>Rev Mssrs Hall &#x0026; Innocent,</salute>
