@@ -3,7 +3,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter to Dr. E.W. Lehow from Young John Allen<date when="1866-12-07">Dec. 7 1866 </date>, an electronic edition</title>
+            <title>Letter to Dr. E.W. Lehow from Young John Allen <date when="1866-12-07">December 7, 1866 </date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -134,7 +134,7 @@
 </teiHeader>
 <text>
 <body>
-<div type="letter">
+<div type="letter">  <head>Young John Allen letter to Dr. Lehow</head>  <lb/>
     <pb facs="Allen_11_FF7_024.jpg"/>
     <opener><dateline><name type="place">Shanghai China</name><date when="1866-12-07">Dec. 7 1866</date></dateline><lb/>
     To<lb/>
