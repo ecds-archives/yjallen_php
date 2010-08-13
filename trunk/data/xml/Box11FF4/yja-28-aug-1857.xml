@@ -182,7 +182,8 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
+            <div type="letter">  <head>[Letter from Young John Allen to Mollie, his fiancee]</head> <lb></lb>
+                
                 <pb facs="Allen_11_FF4_015.jpg"/>
                 <opener>
                     <dateline>
@@ -209,11 +210,11 @@
                         <unclear>rather</unclear> to hesitate at first but then I consented to do
                     all I could by the help of him who hath said "My grace shall
                     be sufficient for you." But Oh! my Dear Mollie, how unworthy I do feel; how
-                        <gap reason="ink blot" extent="3" unit="letters"/>, how<pb/>insignificant and incapable of doing or saying
+                        <unclear> reason="ink stain">illegible</unclear>, how<pb/>insignificant and incapable of doing or saying
                     the least thing or word which shall <unclear>tender</unclear> to the glory of God in
                     the Salvation of a single Soul. Oh! how deceitful, how rebellious is the heart
                     of man; how guilty and wretched even his best estate, Oh! the terror and horror
-                    of <hi rend="underline">such <unclear>impr?</unclear> and indiscretion</hi> as
+                    of <hi rend="underline">such <unclear>impulsiveness</unclear> and indiscretion</hi> as
                     sometimes get hold of the heart of man. The Lord <hi rend="underline">knows our
                         hearts</hi>; Oh! may he <hi rend="underline">reach</hi> and <hi
                         rend="underline">cleanse</hi> them, and purify and sanctify them from all
