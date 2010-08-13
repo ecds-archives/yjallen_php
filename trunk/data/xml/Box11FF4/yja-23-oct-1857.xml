@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Young John Allen to Wiley Hutchins, <date when="1857-10-23"
+                <title>Letter from Young John Allen to Wiley Hutchins <date when="1857-10-23"
                         >October 23, 1857</date>, an electronic edition</title>
                 <author>
                     <name type="person">
@@ -185,8 +185,8 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
-                <pb facs="Allen_11_FF4_024.jpg"/>
+            <div type="letter"> <head>[Letter from Young John Allen to Wiley Hutchins]</head>  <lb/>
+                <pb facs="Allen_11_FF4_024.jpg"/>  <lb/>
                 <opener>
                     <dateline>
                         <placeName>Oxford Geo.</placeName>
