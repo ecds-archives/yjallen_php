@@ -181,15 +181,15 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
+            <div type="letter"> <head>[Letter from Young John Allen to his (adoptive) mother, Nancy Hutchins]</head> <lb/>
                 
-<pb facs="Allen_11_FF8_001.jpg"/>
+<pb facs="Allen_11_FF8_001.jpg"/>  <lb/>
 
                 <opener>
                     <note>This letter should reach you the 1st or 2d week in Jan. 1868 at
                         farthest--perhaps before Christmas.</note>
                     <note place="margin">I hope you will get some one to read this for you. I fear
-                        you can't read it.</note>
+                        you can't read it.</note> <lb/>
                     <dateline>
                         <placeName>Shanghai China</placeName>
                         <date when="1867-10-07">Oct. 7th 1867</date>
@@ -203,7 +203,7 @@
                     to write you a few lines by this mail. I often wonder how you are looking. We
                     have been separated a long time and I know time and trouble have not left you
                     without traces of their cares. Your face I know must reflect the shadows of the
-                        <unclear>past</unclear>, and your gray hairs tell the tale of age and
+                        <unclear>pain</unclear>, and your gray hairs tell the tale of age and
                     sorrow. I always think of you as last I saw you when we parted. Your <hi
                         rend="underline">ambrotype</hi> stills keeps good, and as I gaze on it my
                     heart is with you then again. Through Wright and Uncle Carter I have heard from
