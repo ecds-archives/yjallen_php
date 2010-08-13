@@ -185,10 +185,12 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">
+            <div type="letter">  <head>[Letter from Young John Allen to Mollie Houston, his fiancee]</head> <lb/>
+           
+              
                 <pb facs="Allen_11_FF4_021.jpg"/>
                 <opener>
-                    <dateline>
+                    <dateline><lb/>
                         <placeName>Oxford Geo.</placeName>
                         <date when="1857-08-28">Sept. 23d 1857</date>
                     </dateline>
