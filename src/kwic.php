@@ -2,7 +2,7 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -33,8 +33,8 @@ return
 {\$doc//tei:titleStmt//tei:author/tei:name}
 {\$doc//tei:sourceDesc//tei:date}
 <context>
-{for \$c in \$doc//*[. |= \"$keyword\"]
-   return if (name(\$c) = 'tei:hi') then \$c/..[. |= \"$keyword\"] else  \$c }</context>
+{for \$c in \$doc[ft:query(., \"$keyword\")]
+return if (name(\$c) = 'tei:hi') then \$c/..[ft:query(., \"$keyword\")] else  \$c }</context>
 </item>";
 
 
