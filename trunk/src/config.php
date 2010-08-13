@@ -1,7 +1,7 @@
 <?php
 
 /* Configuration settings for entire site */
-$in_production = true;
+$in_production = false;
 // pick up login/authorization information
 //session_start();
 
@@ -24,7 +24,8 @@ $base_url = "http://beck.library.emory.edu$base_path/";
 //development
 $basedir = "/home/ahickco/public_html/yjallen";
 $base_path = "/~ahickco/yjallen/";
-$base_url = "http://$server$base_path/";
+$devserver = "dev11.library.emory.edu";
+$base_url = "http://$devserver$base_path";
  }
 
 
@@ -43,7 +44,7 @@ if ($in_production) {
   $server = "bohr.library.emory.edu";           //production
   $port = "7080";
 } else {
-  $server = "wilson.library.emory.edu";         // test
+  $server = "kamina.library.emory.edu";         // test
   $port = "8080";
 }
 

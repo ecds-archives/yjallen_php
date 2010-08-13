@@ -3,7 +3,7 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 
 $db = new xmlDbConnection($exist_args);
 
@@ -29,7 +29,7 @@ html_head("Search", true);
 
 $options = array();
 if ($kw) 
-  array_push($options, " &= \"$kw\""); //only simple search for now
+  array_push($options, "[ft:query(., '$kw')]"); //only simple search for now
 /*if ($doctitle)
   array_push($options, ".//tei:div/tei:head &= '$doctitle'");
 if ($auth)
@@ -42,8 +42,8 @@ if ($subj)
 // there must be at least one search parameter for this to work
 if (count($options)) {
 
-  $searchfilter = "[.//tei:div" . implode(" and ", $options) . "]"; 
-  // print("DEBUG: Searchfilter is $searchfilter");
+  $searchfilter = implode(" and ", $options); 
+   print("DEBUG: Searchfilter is $searchfilter");
   
   $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
 declare option exist:serialize 'highlight-matches=all';
