@@ -182,9 +182,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">  <head>[Letter from Young John Allen to Mollie, his fiancee]</head> <lb></lb>
-                
-                <pb facs="Allen_11_FF4_015.jpg"/>
+
+<pb facs="Allen_11_FF4_015.jpg"/>
+            <div type="letter">
+               <head>[Letter from Young John Allen to Mollie Houston, August 28, 1857]</head>
                 <opener>
                     <dateline>
                         <placeName>Oxford Geo.</placeName>
@@ -200,7 +201,7 @@
                     situated; have a fine and agreeable <hi rend="underline">Chum</hi>, the same in
                     spirit, in faith and in calling. Have begun College duties, have a very
                     flattering prospect for a happy and pleasant term and as full a number of
-                    students as formerly.</p><p>I tell you my Dear Mollie, I
+                    students as formerly.</p><p>I tell you my Dear Mollie, I <pb
                         facs="Allen_11_FF4_016.jpg"/><sic></sic>very unfit for a Senior in College,
                     and the responsibilities with which I am now invested. I almost shrink even from
                     the performance of known antics sometimes, but yet I cannot with a peaceful
