@@ -8,7 +8,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young</sic>
+                            <sic>A. Y. J. W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -184,11 +184,11 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <body>
+        <body><pb facs="Allen_11_FF4_021.jpg"/>
             <div type="letter">  <head>[Letter from Young John Allen to Mollie Houston, his fiancee]</head> <lb/>
            
               
-                <pb facs="Allen_11_FF4_021.jpg"/>
+                <head>[Letter from Young John Allen to Miss Mollie Houston, September 23, 1857]</head>
                 <opener>
                     <dateline><lb/>
                         <placeName>Oxford Geo.</placeName>
