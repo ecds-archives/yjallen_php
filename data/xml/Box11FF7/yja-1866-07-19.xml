@@ -135,9 +135,11 @@
 </teiHeader>
 <text>
 <body>
-    <div type="letter">  <head>[Letter from Young John Allen to Dr. McFerrin]</head>
 
-<pb facs="Allen_11_FF7_010.jpg"/> <lb/>
+<pb facs="Allen_11_FF7_010.jpg"/>
+<div type="letter">
+
+<head>[Letter from Young John Allen to Dr. McFerrin, July 19, 1866]</head>
 
     <opener>
         <dateline><name type="place">Shanghai China</name><date when="1866-07-19"> July 19 1866</date></dateline><lb/>
