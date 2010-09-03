@@ -181,9 +181,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">  <head>[Letter from Young John Allen to Dr. Lehon]</head>
+
+<pb facs="Allen_11_FF8_009.jpg"/>
+            <div type="letter">
                 
-<pb facs="Allen_11_FF8_009.jpg"/>  <lb/>
+<head>Letter from Young John Allen to Dr. Lehon, 1868, (date unknown)]</head>
 
                 <opener>
                     <salute>My dear Dr. Lehon,</salute>
@@ -246,7 +248,7 @@
                     <unclear>seriation</unclear>.</p>
                 <p>1st The Mission property consists of three premises, known respectively as the
                     Cunningham house, at present occupied by Bro. Lambuth. The old
-                    Lambuth house, at present occupied by the French <unclear>Milice</unclear> as a
+                    Lambuth house, at present occupied by the French <unclear><foreign xml:lang="la">Milice</foreign></unclear> as a
                     police station and the new Mission premises occupied by
                     myself and Bro Wood, which was built with part of the proceeds of the sale of
                     the place known as the Dr Jenkins' house. Besides the mission has a small place
@@ -273,7 +275,7 @@
                     Rebellion here having been put down allow the return of the great influx of
                     Chinese population has depressed the market and driven all such things out-
                     hence the best valuation I can now set upon them is the appraisement value made
-                    by the French <unclear>Milice</unclear> with a view to taxation. All our premises are
+                    by the French <unclear><foreign xml:lang="la">Milice</foreign></unclear> with a view to taxation. All our premises are
                     in the French Concession, which amount in the aggregate is about 15 thousand
                     taels or 20 thousand Mexican dollars more or less. The church property will
                     perhaps amount to two perhaps 3 thousand taels. They are all small and make
