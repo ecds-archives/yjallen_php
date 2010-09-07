@@ -41,7 +41,7 @@
                 </respStmt>
             </seriesStmt>
             <sourceDesc>
-                <bibl>Letter from Young John Allen to ?, <date when="1868-09-15">September 15,
+                <bibl>Letter from Young John Allen to Unknown, <date when="1868-09-15">September 15,
                         1868</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book
                     Library, Emory University.</bibl>
                 <listPerson>
@@ -181,9 +181,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">  <head>[Letter from Young John Allen to unknown]</head>
-               
-                <pb facs="Allen_11_FF8_023.jpg"/>  <lb/>
+
+<pb facs="Allen_11_FF8_023.jpg"/>
+            <div type="letter">
+                
+<head>[Letter from Young John Allen to Unknown, September 15, 1868]</head>
 
                 <opener>
                     <dateline>
