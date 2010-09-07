@@ -8,7 +8,7 @@
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young J. Allen</sic>
+                            <sic>Y. J. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -182,9 +182,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">  <head>[Letter from Young John Allen to his church Board]</head>
 
-<pb facs="Allen_11_FF8_027.jpg"/> <lb/>
+<pb facs="Allen_11_FF8_027.jpg"/>
+            <div type="letter">
+
+<head>[Letter from Young John Allen to the Church Board, December 9, 1868]</head>
 
                 <opener>
                     <dateline>
