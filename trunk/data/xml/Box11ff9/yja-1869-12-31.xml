@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Young John Allen, <date when="1869-12-31">December 31, 1869</date>, an electronic edition</title>
+                <title>Letter from Young John Allen to an editor, <date when="1869-12-31">December 31, 1869</date>, an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
@@ -183,8 +183,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter"> <head>[Letter from Young John Allen to an editor]</head>
-                <pb facs="Allen_11_ff9_031.jpg"/> <lb/>
+
+<pb facs="Allen_11_ff9_031.jpg"/>
+            <div type="letter"> <head>[Letter from Young John Allen to an editor, December 31, 1869]</head>
+                 <lb/>
                 <opener>
                     <dateline><placeName> Shanghai</placeName><lb/>
                         <date when="1896-12-21">Dec. 31, 1869.</date></dateline><lb/></opener>
