@@ -182,8 +182,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter"> <head>[Letter from Young John Allen to unknown]</head>
-                <pb facs="Allen_11_ff9_017.jpg"/> <lb/>
+
+<pb facs="Allen_11_ff9_017.jpg"/> <lb/>
+            <div type="letter"> <head>[Letter from Young John Allen (recipient unkown), September 15, 1869]</head>
+                
                 <opener>
                     <dateline><placeName> Shanghai, China</placeName><lb/>
                         <date when="1896-06">September 15th, 1869.</date></dateline><lb/></opener>
