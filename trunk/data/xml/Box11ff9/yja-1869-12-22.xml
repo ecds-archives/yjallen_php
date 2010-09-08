@@ -4,11 +4,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Young John Allen, <date when="1869-12-22">December 22, 1869</date>, an electronic edition</title>
+                <title>Letter from Young John Allen to his (adoptive) parents, <date when="1869-12-22">December 22, 1869</date>, an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
-                            <sic>Young J.Allen</sic>
+                            <sic>A.Y.J.W. Allen</sic>
                             <reg>Allen, Young John, 1836-1907</reg>
                         </choice>
                     </name>
@@ -182,9 +182,12 @@
     </teiHeader>
     <text>
         <body>
-            <div type="letter">  <head>[Letter from Young John Allen to his (adoptive) parents]</head>
+
+<pb facs="Allen_11_ff9_029.jpg"/>
+
+            <div type="letter">  <head>[Letter from Young John Allen to his (adoptive) parents, December 22, 1869]</head>
                 
-                <pb facs="Allen_11_ff9_029.jpg"/> <lb/>
+                 <lb/>
                 <opener>
                     <dateline><placeName> Shanghai, China</placeName><lb/>
                         <date when="1896-06">December 22 1869.</date></dateline><lb/>
