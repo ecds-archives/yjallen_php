@@ -4,7 +4,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Tsoong Kia tsing, <date when="1891-12-10">December 10, 1891</date>, an electronic edition</title>
+            <title>Letter from Tsoong Kia Tsing to Y.J.Allen, <date when="1891-12-10">December 10, 1891</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -183,11 +183,11 @@ Congress Subject headings and cleaned up the text.
 
 
 <text><body>
-    <div type="letter" xml:id="yja1891-12-10">
-        
 
 <pb facs="4254.jpg"/>
-        <head>Letter from Tsoong Kia tsing</head>
+    <div type="letter" xml:id="yja1891-12-10">
+        
+        <head>Letter from Tsoong Kia Tsing to Young John Allen, December 10, 1891</head>
         <opener><address><addrLine>916 Washington Street</addrLine>
 <addrLine>San Francisco, Cal.</addrLine></address>
     <dateline><date when="1891-12-10">Dec. 10th, 1891</date></dateline><lb/>
@@ -214,7 +214,7 @@ and remove any things to Mr. Master's house.  I am now living in the Y.M.C.A. ro
 	    Believe me my dear teacher.</salute><lb/> 
 	    I am<lb/> 
 	    Your most obt pupil<lb/> 
-	    <persName ref="#tsoong"> Tsoong Kia tsing </persName> </closer>
+	    <persName ref="#tsoong"> Tsoong Kia Tsing </persName> </closer>
 
 
  
