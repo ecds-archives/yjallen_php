@@ -181,8 +181,12 @@ Congress Subject headings and cleaned up the text.
     </revisionDesc>
 </teiHeader>
 
-<text><body><div type="letter"><pb facs="4444.jpg"/><note>Watson</note>
+<text><body>
+<pb facs="4444.jpg"/>
 
+<div type="letter"><note>Watson</note>
+
+<head>[Letter from John Watson to Young John Allen, September 27, 1883]</head>
 <opener><dateline><placeName>Amoy</placeName><lb/>
 <date when="1883-09-27">27th Sept 1883</date></dateline><lb/>
 </opener>
