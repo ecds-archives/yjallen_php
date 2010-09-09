@@ -3,7 +3,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from George Bell, <date when="1892-03-25">March 25, 1892</date>, an electronic edition</title>
+            <title>Letter from George Bell to Young John Allen, <date when="1892-03-25">March 25, 1892</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -183,9 +183,11 @@ Congress Subject headings and cleaned up the text.
 
 <text>
     <body>
+
+ <pb n="Page 1" facs="4271.jpg"/>
         <div xml:id="yja_1892_03_25_v002_d01" type="letter">
-            <pb n="Page 1" facs="4271.jpg"/>
-            <head>[Letter from Geo. Bell to Y.J.Allen]</head>
+           
+            <head>[Letter from Geo. Bell to Y.J.Allen, March 25, 1892]</head>
    
 
 <opener>
