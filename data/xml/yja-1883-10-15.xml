@@ -177,9 +177,11 @@
 
 <text>
     <body>
+
+<pb facs="4446.jpg"/>
         <div type="letter" xml:id="yja-1883-10-15.002">
-            <pb facs="4446.jpg"/>
-                <head>[Letter from Arthur Allen to Young John Allen]</head>
+            
+                <head>[Letter from Arthur Allen to Young John Allen, October 15, 1883]</head>
             <opener>    <dateline><date when="1883-10-15">Oct. 15 1883</date></dateline>
 
                 <salute>My Dear Papa,</salute></opener>
