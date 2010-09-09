@@ -181,9 +181,11 @@ Congress Subject headings and cleaned up the text.
 </teiHeader>
     <text>
         <body>
+
+<pb facs="4242.jpg"/>
             <div xml:id="yja-1890-04-01.002" type="letter">
-                <pb facs="4242.jpg"/>
-                <head>[Letter from T. H. Yun to Y. J. Allen]</head>
+                
+                <head>[Letter from T. H. Yun to Y. J. Allen, April 1, 1890]</head>
                 <opener>
                     <dateline><persName>T. H. </persName> <date when="1890-04-01">Apr. 1st "90."</date></dateline><lb/>
                     <salute>
