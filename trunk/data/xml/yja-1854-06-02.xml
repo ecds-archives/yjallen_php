@@ -199,9 +199,11 @@ Congress Subject headings and cleaned up the text.
   </teiHeader>
   <text xml:id="yja-1854-06-02_1023">
     <body xml:id="yja-1854-06-02_1022">
+
+ <pb facs="4276.jpg" xml:id="yja-1854-06-02_105"/>
       <div xml:id="yja-1854-06-02.002">
-        <pb facs="4276.jpg" xml:id="yja-1854-06-02_105"/>
-        <head>[Letter from Y. J. Allen to Mollie Houston]</head>
+       
+        <head>[Letter from Y. J. Allen to Mollie Houston, June 2, 1854]</head>
         <opener>
           <dateline><placeName>Emory &#x0026; Henry College</placeName> June 2d '54</dateline>
           <salute>Miss Mollie Houston. Dear Mollie:</salute>
