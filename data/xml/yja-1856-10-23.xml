@@ -181,9 +181,10 @@ Congress Subject headings and cleaned up the text.
 </teiHeader>
 <text>
     <body>
-        <div type="letter" xml:id="yja1856-10-23.003">
 <pb facs="4217.jpg"/>
-            <head>[Letter from Mary Houston to Young John Allen]</head>
+        <div type="letter" xml:id="yja1856-10-23.003">
+
+            <head>[Letter from Mary Houston to Young John Allen, October 23, 1856]</head>
 <opener><dateline><placeName>Grantville, Georgia </placeName>, <date when="1856-10-23">Oct. 23rd 1856.</date>
 </dateline><lb/>
     <salute>My Dear Young</salute></opener><lb/>
