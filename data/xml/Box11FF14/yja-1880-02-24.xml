@@ -1,0 +1,204 @@
+<TEI  xml:id="yja-1880-02-24.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Letter from Young John Allen to George, <date when="1880-02-24"><!-- February 24, 1880 --></date>, an electronic edition</title>
+            <author>
+            <name type="person">
+              <choice>
+                <sic>Young J. Allen</sic>
+                <reg>Allen, Young John, 1836-1907</reg>
+              </choice>
+            </name>
+	</author>
+        </titleStmt>
+        <extent></extent>
+        <publicationStmt>
+            <publisher>Emory University, Lewis H. Beck Center</publisher>
+            <pubPlace>Atlanta, Georgia</pubPlace>
+            <date>2008</date>
+            <availability>
+                <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University.
+                    Emory University makes a claim of copyright only to original
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title>The Young John Allen Papers</title>
+            <respStmt>
+                <name>Naomi Nelson</name>
+                <name>Alice Hickcox</name>
+                <name>Stewart Varner</name>
+                <resp>Principal Investigators</resp>
+            </respStmt>
+        </seriesStmt>
+        <sourceDesc>
+            <bibl>Letter from Young John Allen to George, <date when="1880-02-24">February 24, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <listPerson>
+                <person xml:id="yja">
+                    <persName>
+                        <forename>Young</forename>
+                        <forename>John</forename>
+                        <surname>Allen</surname>
+                    </persName>
+                    <birth when="1836-01-03">January 3, 1836
+                        <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                    </birth>
+                    <death when="1907-03-30">May 30, 1907
+                        <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                    </death>
+                </person>
+                <person xml:id="thyun">
+                    <persName>
+                        <forename>T.</forename>
+                        <forename>H.</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <persName>
+                        <forename>Ch'i-ho</forename>
+                        <surname>Yun</surname>
+                    </persName>
+                    <birth when="1865">
+                        <placeName>
+                           <country>Korea</country>
+                        </placeName>
+                    </birth>
+                    <death when="1945-12-06">December 6, 1945
+                    </death>
+                </person>
+           <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+ 
+             <listPlace> <!-- add any list places you want to -->
+                <place>
+                    <placeName>
+                        <settlement></settlement>
+                        <region></region>
+                    </placeName>
+                </place>
+            </listPlace>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This text was created by the Lewis H. Beck Center as a part
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+        </projectDesc>
+        <samplingDecl>
+            <p>The archival material has been transcribed and encoded.
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+        </samplingDecl>
+        <editorialDecl>
+            <p>Processing this electronic text file began by creating TIFF
+                images of each page using either a flatbed scanner.  Text pages were
+                captured in color at 400dpi.  These digital images were converted to
+                an electronic text file by transcription.  The text files produced
+                have been proofread against the original document or a JPEG image of
+                the original.  This proofread text file has then been encoded using
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+                For the details of Level 3 encoding, please see the webpage for TEI
+                Guidelines for Best Encoding practices at
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+                dashes with two dashes.  Page numbers and other text such as titles
+                displayed in brackets have been added by the encoder and do not appear
+                in the original text.</p>
+        </editorialDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc>
+    <profileDesc>
+        <creation>
+            <rs type="collection">Young John Allen Papers</rs>
+            <rs type="language">English</rs>
+            <rs type="geography">United States</rs>
+            <date>1800-1899</date>  <!-- or 1900-1999 -->
+        </creation>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    <revisionDesc>
+        <change>
+            <date when="2011-06-09">June 9, 2011</date>
+                <name xml:id="MJT">Jae Turner </name>
+            transcribed and encoded the text.
+        </change>
+    </revisionDesc>
+</teiHeader>
+<text>
+	<body>
+		<div type="letter" xml:id="yja-1880-02-24.002">
+		     <pb facs="Allen_11_FF14_004.jpg"/>
+<opener>
+<dateline>
+<name type="place">Shanghai, China</name>
+<date when="1880-02-24">Feb. 24 1880</date></dateline>
+<salute>My Dear George,</salute></opener>
+<p>Your letter of the 8th Jan. from Gainesville is at hand.  Thanks for writing so promptly.  I saw by the list of appointments that you had been sent to the Blue Ridge.  So much for your racy letters from that region last Fall.  You  were doubtless thought to be the man for that place.  Some men are placed on what they are pleased to call inferior stations that they may make them superior.  You remember some old Greek, it was, who said he could not fiddle but he could make a <del>g</del> small city become a great state.  You are a <hi rend="underline">fundamental brick</hi>.  How do you like that title.  You must not say I call you names, for in more senses than one the title suits you, and is compl<gap reason="corner folded" extent="1" unit="letter"/>
+<pb facs="Allen_11_FF14_005.jpg"/>
+mentary.  You are essentially a builder - a builder up - and wise Bishops have discernment.  I shall expect to hear a good report from that region at the close of the year or before.  You are in the Pauline succession and a rehearsal of you exploits at the next Conference will justify the man and the appointment.</p>
+<p>Would that I could have been present at the last Conference.  I would as much like to see all the <unclear reason="illegible">brethern</unclear>.</p>
+<p>Yes, I have read the articles by Ruskin.  They have a range beyond the persons and the occasion that called them forth.  You will doubtless get some <unclear reason="illegible">fat</unclear> thoughts or suggestions from them.  What a luxury is a thoughtful article - full of meat and juicy.  Vapid, verbose essays I cannot endure, but condensed terse, strong, well articulated sound sense is my delight.</p>
+<pb facs="Allen_11_FF14_007.jpg"/>
+<p>Tell me particulars about the Wesleyan.  How is it getting on?  How is Atticus succeeding?  He is a grand man, a fine robust Editor, broad minded and strong minded as he is broad in shoulder and sturdy in build.  But he is actually over worked.  He does not know it -- is a willing soul who sees so much to do that he does not spare himself -- rather forgets himself entirely.  But I am anxious to know particulars of the Wesleyan.  These I must ask of you for the paper will not divulge them of course.</p>
+<p>Give me a little critique occasionally on men and things.  All sugar is but of doubtful <unclear reason="illegible">relish</unclear>.  Let me know both sides.  It is easy to find fault.  Easy to say pleasant things.  Natural statements, or things as they are I prefer.</p>
+<pb facs="Allen_11_FF14_008.jpg"/>
+<p>We <add place="supralinear">are</add> now expecting the new missionaries.  They will be here this week - <add place="supralinear">in</add> 3 or 4 days now.  How delighted we shall be to meet them.  Our house is ready to take in the other Georgians, who will doubtless remain with us for the winter.</p>
+<p>Wishing you another year of unbounded blessing and hoping to have the pleasure of hearing from you <unclear reason="illegible">regularly</unclear> as of you, and with love to your dear wife &#x0026; family <gap reason="illegible" unit="word" extent="1"/> <unclear reason="illegible">me</unclear> my dear George ever and always.</p>
+<closer><salute>Your Affect'at Brother</salute><signed>Young J. Allen</signed></closer>
+		</div>
+	</body>
+</text>
+</TEI>
