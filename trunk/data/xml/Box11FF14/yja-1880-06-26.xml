@@ -1,8 +1,8 @@
-<TEI xml:id="jya1880-06-26.001" xmls="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+<TEI xml:id="yja-1880-06-26.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to George, <date when="1880-06-26"><!-- June 26, 1880 --></date>, an electronic edition</title>
+            <title>Letter from Young John Allen to George, <date when="1880-06-26">June 26, 1880</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -34,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>>Letter from Young John Allen to George, <date when="1880-06-26">June 26, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to George, <date when="1880-06-26">June 26, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -202,7 +202,7 @@
 <p>You must not however think from the above that there is no compassion and sympathy for the struggling soul among the Chinese.  Their difficulties are certainly very great, but when they make up their minds the grace of God is always sufficient.  I allow no trifling.</p>
 
 <pb facs="Allen_11_FF14_026.jpg"/>
-<p>The probationary system <unclear reason="torn page">with</unclear> us is a positive necessity and <del>that</del> <add position="supralinear">is</add> <del>un</del> extended, as to time, according to circumstances.  A man is required to get his full consent to the faith and cut loose from his old ways before he can be received.  He must cast himself upon the promises of God -- <unclear reason="illegible">rest</unclear> in them -- and <unclear reason="illegible">never</unclear> nod in his devotions.  You must know that this living character is necessary to overcome in the first place the natural <unclear reason="illegible">ineptness</unclear> of Chinese character and keep them from resting <gap reason="strikethrough" extent="1" unit="word"/> in the mere outward performances of religion.  Chinese or heathen worship is simply a physical performance, the exhibition of an outward form entirely <unclear reason="illegible">destitute</unclear> of Spirit or virtue.  We have to eradicate such views and entirely substitute deadness with life.</p>
+<p>The probationary system <unclear reason="torn page">with</unclear> us is a positive necessity and <del>that</del> <add place="supralinear">is</add> <del>un</del> extended, as to time, according to circumstances.  A man is required to get his full consent to the faith and cut loose from his old ways before he can be received.  He must cast himself upon the promises of God -- <unclear reason="illegible">rest</unclear> in them -- and <unclear reason="illegible">never</unclear> nod in his devotions.  You must know that this living character is necessary to overcome in the first place the natural <unclear reason="illegible">ineptness</unclear> of Chinese character and keep them from resting <gap reason="strikethrough" extent="1" unit="word"/> in the mere outward performances of religion.  Chinese or heathen worship is simply a physical performance, the exhibition of an outward form entirely <unclear reason="illegible">destitute</unclear> of Spirit or virtue. We have to eradicate such views and entirely substitute deadness with life.</p>
 <pb facs="Allen_11_FF14_028.jpg"/>
 
 <p>It is a question in my mind whether too great haste to make converts in the past has not greatly hindered the progress of the Gospel.  Numbers not character and quality have too often been accepted as the test of success.  The struggle to get into the Church is now very keen in my own work at Trinity - but though I have some 57 names on my list I keep them <unclear reason="illegible">out</unclear> till they can come in without asking any compromise.  I tell them I have no power to <unclear reason="illegible">abate</unclear> the law of Christ.  I am sent to preach and teach the Gospel, and to keep the law not to modify or mend it to suit them.  I tell them plainly that all the abominations and departures of Roman Catholicism which they see had their origin chiefly in <unclear reason="illegible">temporizing</unclear> and compromzing
@@ -213,7 +213,7 @@ the Gospel to suit the converts to that church.</p>
 <p>What would you do with this case? -- one now before me in my own church seeking baptism at our next Quarterly meeting -- to wit = A man with his wife, two children and his mother -- 5 in all demand baptism.  To the Gospel they give consent and seem to be earnest in their application.  Yet the man says he cannot keep but half the Sunday.  He is a clerk in a shop whose proprietor is a Roman Catholic.  His wife is a maker and seller of mock paper money used in the worship of idols.  This they are willing to surrender as incompatible with their <unclear reason="illegible">profession</unclear>.  The whole thing turns as you see upon ability to observe the Sabbath.  Now what would you do?  But I will not wait for your answer.  To
 <pb facs="Allen_11_FF14_030.jpg"/>
 
-<unclear reason="illegible">yield</unclear> the point would destroy my whole Church -- root and branch -- for there is hardly a single member or probationer in it that could not and perhaps would not plead a similar necessity.  The truth is the foundation of the Church must be laid here amid some temporary sacrifices -- and until the Sabbath becomes more extensively recognized it cannot but be that our converts must suffer more or less.  <del>But</del> <add position="supralinear">But in the meantime</add> the willingness to commit themselves to God and His providence must be insisted on as a proper test of their fidelity.  It may seem hard but there is absolutely no help for it.  Faith alone makes it possible and when there is not that faith we have good reason to suspect the foundation of our hope for
+<unclear reason="illegible">yield</unclear> the point would destroy my whole Church -- root and branch -- for there is hardly a single member or probationer in it that could not and perhaps would not plead a similar necessity.  The truth is the foundation of the Church must be laid here amid some temporary sacrifices -- and until the Sabbath becomes more extensively recognized it cannot but be that our converts must suffer more or less.  <del>But</del> <add place="supralinear">But in the meantime</add> the willingness to commit themselves to God and His providence must be insisted on as a proper test of their fidelity.  It may seem hard but there is absolutely no help for it.  Faith alone makes it possible and when there is not that faith we have good reason to suspect the foundation of our hope for
 <pb facs="Allen_11_FF14_030.jpg"/>
 
 the future of the Gospel in China.</p>
@@ -230,7 +230,7 @@ the fearless discharge of all my duty, and that having done all I may be able to
 
 <p>I was rejoiced to hear of your great work.  Such revivals -- even though they be on the <gap reason="illeible" extent="2" unit="word"/> the world -- refresh me too -- and the mention of them to our native Christians has a most happy effect.</p>
 
-<p>I am glad to have good news from the brethern McLain  &#x0026; Loeher.  They will be welcome here and find a large field open to their efforts.  My daughter has accepted work under the <gap reason="strikethrough" extent="1" unit="letter"/> <add position="supralinear">p</add>arent Board and is now setting about helping me in right good earnest.</p>
+<p>I am glad to have good news from the brethern McLain  &#x0026; Loeher.  They will be welcome here and find a large field open to their efforts.  My daughter has accepted work under the <gap reason="strikethrough" extent="1" unit="letter"/> <add place="supralinear">p</add>arent Board and is now setting about helping me in right good earnest.</p>
 
 <p>I haven't time for more.  Shall expect you to reply promptly.  Love to your dear wife &#x0026; family.</p>
 <closer><salute>Ever Yours Affectionatly,</salute><signed>Young J. Allen</signed></closer>
