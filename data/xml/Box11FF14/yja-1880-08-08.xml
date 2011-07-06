@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to Mellie Allen, <date when="1880-08-08"><!-- August 8, 1880 --></date>, an electronic edition</title>
+            <title>Letter from Young John Allen to Mellie Allen, <date when="1880-08-08">August 8, 1880</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -160,11 +160,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>

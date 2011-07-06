@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to Dr. Wilson, <date when="1880-04-03"><!-- April 3, 1880 --></date>, an electronic edition</title>
+            <title>Letter from Young John Allen to Dr. Wilson, <date when="1880-04-03">April 3, 1880</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -160,11 +160,8 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -190,7 +187,7 @@
 <p>In a <del rend="strikethrough">previous</del> <add place="supralinear">recent</add> letter you requested me to make a note of such incidents and particulars in connection with my work as might prove of interest in connection with our purposed Bulletins of Missionary News.  Accordingly I now send you the following items:</p>
 
 <p><hi rend="center"><hi rend="underline">100 good to the line.</hi></hi><lb/>
-A recent letter from <hi rend="underline">Tai-Yuen</hi> fu, capital of Shansi in North China, contains this note =  <quote>"A gentleman just from Peking told me that the Tsung-li Yamen <add place="supralinear">(Chinese Foreign Office)</add> are preparing a commentary (Choo Kiai) on your <hi rend="underline">"China and Her Neighbors."</hi></quote>  <del rend="strikethrough"> If true the</del>  The full title of the work is as follows:
+A recent letter from <hi rend="underline">Tai-Yuen</hi> fu, capital of Shansi in North China, contains this note =  "A gentleman just from Peking told me that the Tsung-li Yamen <add place="supralinear">(Chinese Foreign Office)</add> are preparing a commentary (Choo Kiai) on your <hi rend="underline">"China and Her Neighbors."</hi><del rend="strikethrough"> If true the</del>  The full title of the work is as follows:
 <hi rend="center">China and Her Neighbors</hi><lb/>
 <hi rend="center">A Tract for the Times</hi><lb/>
 <hi rend="center">Being</hi><lb/>

@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to George, <date when="1880-09-28">September 28, 1880</date>, an electronic edition</title>
+            <title>Letter from Young John Allen to George Gilman Smith, Jr., <date when="1880-09-28">September 28, 1880</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -34,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from Young John Allen to George, <date when="1880-09-28">September 28, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to George Gilman Smith, Jr., <date when="1880-09-28">September 28, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -160,11 +160,9 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Smith, George Gilman, 1836-1913.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -189,7 +187,7 @@
 
 <p>Your letter of Aug. 3d reached me the 16th inst.  By the same mail I rc'd also an envelope duly paid and post marked but nothing in it -- whatever it covered having been lost out on the way.  Perhaps it was your Infant's Life of Jesus as it did not come to hand.</p>
 
-<p>You need <add place="supralinear">not</add> be afraid of <soCalled>strict justice</soCalled> in the matter of correspondence.  I had rather receive a letter when due than expect it and be disappointed.  One <hi rend="underline">regular</hi> correspondent is worth a dozen coldly irregular ones.  'Tis the heart to heart that is so agreeable -- cheering  helpful.  Write on therefore, without hesitation, freely, at length when you can -- any how promptly.</p>
+<p>You need <add place="supralinear">not</add> be afraid of "strict justice" in the matter of correspondence.  I had rather receive a letter when due than expect it and be disappointed.  One <hi rend="underline">regular</hi> correspondent is worth a dozen coldly irregular ones.  'Tis the heart to heart that is so agreeable -- cheering  helpful.  Write on therefore, without hesitation, freely, at length when you can -- any how promptly.</p>
 
 <pb facs="Allen_11_FF14_045.jpg"/>
 <p>You have no grouds to complain of a want of growth in grace.  With such surroundings as you have -- so many revivals -- so many sympathising brethern and every facility to cultivate to the highest degree the gifts and grace you have I cannot see how you can keep from the fulness of the riches of grace and love.  Here we are as so many <unclear reason="illegible">red</unclear> hot balls suspended in an artic atmosphere and the constant tendency is to cool down, down, down to the freezing <del> atmosphere</del> <add place="supralinear"> point</add> and a stunted growth.  Missionaries ought to be companions with Christ -- for he alone, for the most part, is left to them -- and happy is that man who <unclear reason="paper fold">while</unclear> he makes it his meat and his drink to do the will of God can find himself always in communion and sympathy with the Saviour.  My ideal of what a Missionary
