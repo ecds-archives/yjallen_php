@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to George, <date when="1880-11-29">November 29, 1880</date>, an electronic edition</title>
+            <title>Letter from Young John Allen to George Gilman Smith, Jr., <date when="1880-11-29">November 29, 1880</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -34,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from Young John Allen to George <date when="1880-11-29">November 29, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to George Gilman Smith, Jr. <date when="1880-11-29">November 29, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -160,11 +160,9 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Smith, George Gilman, 1836-1913.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>

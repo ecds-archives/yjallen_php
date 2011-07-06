@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to George, <date when="1880-06-26">June 26, 1880</date>, an electronic edition</title>
+            <title>Letter from Young John Allen to George Gilman Smith, Jr., <date when="1880-06-26">June 26, 1880</date>, an electronic edition</title>
             <author>
             <name type="person">
               <choice>
@@ -34,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from Young John Allen to George, <date when="1880-06-26">June 26, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to George Gilman Smith, Jr.,<date when="1880-06-26">June 26, 1880</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -160,11 +160,9 @@
         <textClass>
             <keywords scheme="lcsh">
                 <list>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
-                    <item></item>
+                    <item>Allen, Young John, 1836-1907.</item>
+                    <item>Smith, George Gilman, 1836-1913.</item>
+                    <item>Missionaries -- China.</item>
                 </list>
             </keywords>
         </textClass>
@@ -223,7 +221,7 @@ the future of the Gospel in China.</p>
 <p>I <unclear reason="illegible">titt</unclear> you with grief and shame that there is rottenness <unclear reason="illegible">ever</unclear> to stench among converts that I could name at Shanghai and all because of laxity of administration.  I could sometimes almost wish that we had all our first works here to do over from the very beginning.  That every church were <unclear reason="illegible">scraped</unclear> clean and had to begin without a single adherent, provided there should be no more haste -- no more premature admission to the Church -- no more <gap reason="illegible" extent="1" unit="word"/>, compromizing, etc etc as in the past.</p>
 <pb facs="Allen_11_FF14_032.jpg"/>
 
-<p>But see what a long scrawl I am writing on this subject.  Perhaps it will bore you -- mayhap interest you as something new in this line of things.  <hi rend="underline">Many are called but few are chosen</hi>.  That is the language of Heaven.  We cannot reverse it.  <quote>Whatsoever ye bind on Earth shall be bound in heaven.</quote>  What is equal to this responsibility?  It is no small matter to be a Missionary.  With fear and trembling we open and shut the door of the Church.  More and more I feel the need of the Holy Ghost in me and upon the Church.  He alone can build us up -- an impregnable power in the midst of this multitudinous paganism and enable us to withstand the assaults of evil.  Pray for us dear George -- for me particularly that wisdom may be given to me for <unclear reason="illegible">it</unclear>,
+<p>But see what a long scrawl I am writing on this subject.  Perhaps it will bore you -- mayhap interest you as something new in this line of things.  <hi rend="underline">Many are called but few are chosen</hi>.  That is the language of Heaven.  We cannot reverse it.  "Whatsoever ye bind on Earth shall be bound in heaven."  What is equal to this responsibility?  It is no small matter to be a Missionary.  With fear and trembling we open and shut the door of the Church.  More and more I feel the need of the Holy Ghost in me and upon the Church.  He alone can build us up -- an impregnable power in the midst of this multitudinous paganism and enable us to withstand the assaults of evil.  Pray for us dear George -- for me particularly that wisdom may be given to me for <unclear reason="illegible">it</unclear>,
 <pb facs="Allen_11_FF14_032.jpg"/>
 
 the fearless discharge of all my duty, and that having done all I may be able to stand.</p>
