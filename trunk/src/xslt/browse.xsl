@@ -22,7 +22,7 @@
       <xsl:attribute name="href">document.php?id=<xsl:apply-templates select="@xml:id"/></xsl:attribute>
       <xsl:apply-templates select="tei:title"/>
     </xsl:element><!-- a -->
-    <xsl:text>, </xsl:text><xsl:value-of select="tei:sic"/>
+    <!-- <xsl:text>, </xsl:text><xsl:value-of select="tei:sic"/> -->
   </xsl:element> <!-- li -->
 </xsl:for-each>
   </xsl:element> <!-- ul -->
