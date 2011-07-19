@@ -3,7 +3,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter to Dr. Myers, <date when="1866-08-27">August 27, 1866</date>, an electronic edition</title>
+            <title>Letter from Young John Allen to Dr. Myers, <date when="1866-08-27">August 27, 1866</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -36,7 +36,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter to Dr. Myers<date when="1866-08-27">Aug. 27 1866 </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to Dr. Myers<date when="1866-08-27">Aug. 27 1866 </date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
