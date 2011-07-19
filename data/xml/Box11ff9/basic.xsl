@@ -21,80 +21,80 @@
 
 
 <!-- print out the content-->
-<xsl:template match="TEI/text/body/div">
+<xsl:template match="/tei:TEI/tei:text/tei:body/tei:div">
 <!-- get everything under this node -->
   <xsl:apply-templates/> 
 </xsl:template>
 
 <!-- display the title -->
-<xsl:template match="div/head">
+<xsl:template match="tei:div/tei:head">
   <xsl:element name="h1">
    <xsl:apply-templates />
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="byline">
+<xsl:template match="tei:byline">
   <xsl:element name="i">
     <xsl:value-of select="."/>
   </xsl:element>
 </xsl:template>
-<xsl:template match="docDate">
+<xsl:template match="tei:docDate">
 <xsl:element name="p">
   <xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
-<xsl:template match="bibl">
+<xsl:template match="tei:bibl">
 <xsl:element name="p">
   <xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
 
 
-<xsl:template match="div/div/head">
+<xsl:template match="tei:div/tei:div/tei:head">
     <xsl:element name="h2">
       <xsl:value-of select="."/>
   </xsl:element>
 </xsl:template>
 
 
-<xsl:template match="p/title">
+<xsl:template match="tei:p/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="bibl/title">
+<xsl:template match="tei:bibl/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="p">
+<xsl:template match="tei:p">
   <xsl:element name="p">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="q">
+<xsl:template match="tei:q">
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="list">
+<xsl:template match="tei:list">
   <xsl:element name="ul">
    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="item">
+<xsl:template match="tei:item">
   <xsl:element name="li">
    <xsl:apply-templates/>
   </xsl:element>
 </xsl:template>
 
 
-<xsl:template match="speaker">
+<xsl:template match="tei:speaker">
 <xsl:element name="br"/>
 <xsl:element name="span">
 <xsl:attribute name="class">speaker</xsl:attribute>
@@ -102,7 +102,7 @@
 </xsl:element>
 </xsl:template>
 
-<xsl:template match="sp/p">
+<xsl:template match="tei:sp/tei:p">
 <xsl:element name="span">
 <xsl:attribute name="class">speech</xsl:attribute>
 <xsl:apply-templates/>
@@ -138,11 +138,11 @@
   </xsl:choose>
 </xsl:template>
 
-<xsl:template match="lb">
+<xsl:template match="tei:lb">
   <xsl:element name="br" />
 </xsl:template>
 
-<xsl:template match="pb">
+<xsl:template match="tei:pb">
   <hr class="pb"/>
     <p class="pagebreak">
       Page <xsl:value-of select="@n"/>
@@ -150,7 +150,7 @@
 </xsl:template>
 
 <!-- sic : show 'sic' as an editorial comment -->
-<xsl:template match="sic">
+<xsl:template match="tei:sic">
   <xsl:apply-templates select="text()"/>
   <!-- show the text between the sic tags -->
   <xsl:element name="span">
@@ -161,7 +161,7 @@
 
 
 <!-- line group -->
-<xsl:template match="lg">
+<xsl:template match="tei:lg">
   <xsl:element name="p">
      <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
     <xsl:apply-templates />
@@ -171,7 +171,7 @@
 <!-- line  -->
 <!--   Indentation should be specified in format rend="indent#", where # is
        number of spaces to indent.  --> 
-<xsl:template match="l">
+<xsl:template match="tei:l">
   <!-- retrieve any specified indentation -->
   <xsl:if test="@rend">
   <xsl:variable name="rend">
@@ -205,7 +205,7 @@
    <xsl:param name="tableAlign">center</xsl:param>
    <xsl:param name="cellAlign">left</xsl:param>
 
-<xsl:template match="table">
+<xsl:template match="tei:table">
 <table>
 <xsl:for-each select="@*">
 <xsl:copy-of select="."/>
@@ -213,17 +213,17 @@
 <xsl:apply-templates/></table>
 </xsl:template>
 
-<xsl:template match="table/head">
+<xsl:template match="tei:table/tei:head">
 <h3><xsl:apply-templates/>
 </h3>
 </xsl:template>
 
-<xsl:template match="row">
+<xsl:template match="tei:row">
 <tr><xsl:apply-templates/>
 </tr>
 </xsl:template>
 
-<xsl:template match="cell">
+<xsl:template match="tei:cell">
 <td valign="top">
 <xsl:apply-templates/>
 </td>
