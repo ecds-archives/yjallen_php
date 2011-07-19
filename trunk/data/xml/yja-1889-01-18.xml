@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="yja-1889-01-18.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from T.H. Yun to Young John Allen, <date when="1889-01-18">January 18, 1889</date>, an electronic edition</title>
+        <author>
+          <name type="person">
+            <choice>
+              <sic>T.H. Yun</sic>
+              <reg> Yun, Ch'i-ho, 1865-1945.</reg>
+            </choice>
+          </name>
+        </author>
+      </titleStmt>
+      <extent/>
+      <publicationStmt>
+        <publisher>Emory University, Lewis H. Beck Center</publisher>
+        <pubPlace>Atlanta, Georgia</pubPlace>
+        <date>2008</date>
+        <availability>
+          <p>&#x0026;#x00A9; 2008, Lewis H. Beck Center, Emory University.
+
+                    Emory University makes a claim of copyright only to original
+
+                    contributions made by the Young John Allen Project participants.  Emory University makes no claim of copyright to the original text.  Permission is granted to download, transmit, or otherwise reproduce, distribute, or display the contributions to this work claimed by Emory University for non-profit educational purposes, provided that this header is included in its entirety.  For further inquiries about this text's availability, please contact:
+
+                    <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>The Young John Allen Papers</title>
+        <respStmt>
+          <name>Naomi Nelson</name>
+          <name>Alice Hickcox</name>
+          <name>Stewart Varner</name>
+          <resp>Principal Investigators</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>Letter from T.H Yun to Young John Allen, <date when="1889-01-18">January 18, 1889</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+        <listPerson>
+          <person xml:id="yja">
+            <persName>
+              <forename>Young</forename>
+              <forename>John</forename>
+              <surname>Allen</surname>
+            </persName>
+            <birth when="1836-01-03">January 3, 1836
+
+                        <placeName><settlement type="county">Burke County</settlement><region type="state">Georgia</region><country>United States</country></placeName></birth>
+            <death when="1907-03-30">May 30, 1907
+
+                        <placeName><settlement type="city">Shanghai</settlement><country>China</country></placeName></death>
+          </person>
+          <person xml:id="thyun">
+            <persName>
+              <forename>T.</forename>
+              <forename>H.</forename>
+              <surname>Yun</surname>
+            </persName>
+            <persName>
+              <forename>Ch'i-ho</forename>
+              <surname>Yun</surname>
+            </persName>
+            <birth when="1865">
+              <placeName>
+                <country>Korea</country>
+              </placeName>
+            </birth>
+            <death when="1945-12-06">December 6, 1945
+
+                    </death>
+          </person>
+          <person xml:id="wac">
+            <persName>
+              <forename>Warren</forename>
+              <forename>Akin</forename>
+              <surname>Candler</surname>
+            </persName>
+            <birth when="1857-08-23">
+              <placeName>
+                <settlement type="county">Carroll County</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </birth>
+            <death when="1941-09-25">
+              <placeName>
+                <settlement type="city">Atlanta</settlement>
+                <region type="state">Georgia</region>
+                <country>United States</country>
+              </placeName>
+            </death>
+          </person>
+          <person xml:id="tsoong">
+            <persName>
+              <forename>Kia</forename>
+              <forename>Tsing</forename>
+              <surname>Tsoong</surname>
+            </persName>
+            <persName>
+              <forename>George</forename>
+              <surname>Bell</surname>
+            </persName>
+          </person>
+        
+
+    <!-- you may add other people based on occurrences in your letter, see the Warren Candler letter for more examples -->                         </listPerson>
+        <listPlace>
+          <!-- add any list places you want to -->
+          <place>
+            <placeName>
+              <settlement/>
+              <region/>
+            </placeName>
+          </place>
+        </listPlace>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:id="yja-1854-06-02_102">This text was created by the Lewis H. Beck Center as a part
+
+                of the Young John Allen Letters Project.  Project participants intend for this encoded text, as well as all texts produced by this project, to be made available on the web for educational, scholarly and pedagogical purposes.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p xml:id="yja-1854-06-02_103">The archival material has been transcribed and encoded.
+
+                Paratextual elements may be provided as digital images only, with some exceptions.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <p xml:id="yja-1854-06-02_104">Processing this electronic text file began by creating TIFF
+
+                images of each page using either a flatbed scanner.  Text pages were
+
+                captured in color at 400dpi.  These digital images were converted to
+
+                an electronic text file by transcription.  The text files produced
+
+                have been proofread against the original document or a JPEG image of
+
+                the original.  This proofread text file has then been encoded using
+
+                the recommendations for Level 3 of the TEI in Libraries Guidelines.
+
+                For the details of Level 3 encoding, please see the webpage for TEI
+
+                Guidelines for Best Encoding practices at
+
+                http://www.indiana.edu/~letrs/tei/.  Encoders silently replaced em
+
+                dashes with two dashes.  Page numbers and other text such as titles
+
+                displayed in brackets have been added by the encoder and do not appear
+
+                in the original text.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="lcsh">
+          <bibl>
+            <title>Library of Congress Subject Headings</title>
+          </bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <rs type="collection">Young John Allen Papers</rs>
+        <rs type="language">English</rs>
+        <rs type="geography">United States</rs>
+        <date>1800-1899</date>
+        <!-- or 1900-1999 -->
+
+        </creation>
+      <textClass>
+        <keywords scheme="lcsh">
+          <list>
+            <item>Allen, Young John, 1836-1907.</item>
+            <item>Yun, Ch'i-ho, 1865-1945.</item>
+            <item>Missionaries--China.</item>
+            <item>China--Religion.</item>
+	    <item>Missions--Japan.</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change><date when="2008-09-25">March 13, 2008</date><name xml:id="sat">Sue Trowbridge</name>
+
+            transcribed and encoded the text.
+ Added Library of Congress Subject headings and cleaned up the text.
+
+      </change>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+      <body>
+	<div type="letter" id="yja-1889-01-18.002">
+<pb facs="4234.jpg"/>
+	  <head>[Letter from T.H. Yun to Young John Allen]</head>
+    <opener>
+      <dateline>
+        <placeName>Nashville</placeName>, <date when="1889-01-18">Jan. 18 1889</date>
+      </dateline>
+    </opener>
+
+    <salute>Revd Dr. Allen<lb/>
+
+    My dear sir,</salute>
+
+    <p>Your welcome letter came to hand this morning with your cheering smile on its pages.</p>
+
+    <p>On account of our intermediate examinations I have been a little busy for a week or so past and shall continue so, I expect, until it is over.</p>
+
+    <p>Your fatherly advice deserves my heartiest thanks specially as I know how well you are qualified to guide me and how much you are interested in my welfare. 
+<pb facs="4235.jpg"/>Shall consider it my bounden duty to go by your instructions as best as I can.</p>
+
+    <p>I shall be mighty glad to be acquainted with those whose names you so kindly mentioned, yet I can not persuade myself to call on them without any business.</p>
+
+    <p>My shyness has been intensified by my aversion to the manners of some who, besides absorbing the film or froth of foreign customs and manners, cast away their native modesty and politeness.  Of course others' going to one extreme is not, <pb facs="4236.jpg"/>or should not be an excuse why I should go to another extreme, but you know there is something in our nature which we can't shake off.</p>
+
+    <p>That many prefer Japan to China for their mission field is very apparent, and Japan needs them.  But it has been my good fortune to meet some consecrated young men in the Hall who take a great deal interest in China mission.</p>
+
+    <p>We had a few days ago some missionary lectures delivered here by a young man from India <pb facs="4237.jpg"/>and they awakened zeal in many a bosom, though the effect of the meetings remains to be seen.</p>
+
+    <p>Bishop McTyeire is improving very well, I am told.</p>
+
+    <p>When I get through my examinations I shall have the pleasure to write you again.  In the meantime wishing and praying for your happiness and that your family.</p>
+
+   <closer><salute> I remain Sir<lb/>
+
+    Yours affectionately</salute><lb/>
+
+    <signed><name>T.H. Yun.</name></signed>
+   </closer>
+	</div>
+      </body>
+</text>
+</TEI>
