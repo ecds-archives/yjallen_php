@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri resource="yja-1880-06-26.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-11-29.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-04-03.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-05-01.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-04-03.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-01-03.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-11-29.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-09-28.xml" uri="../yja-tei4.rnc"/>
+  <uri resource="yja-1880-06-03.xml" uri="../yja-tei4.rnc"/>
+</locatingRules>

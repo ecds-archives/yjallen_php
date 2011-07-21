@@ -1,0 +1,291 @@
+<TEI xml:id="yja-jan-6-1861.001" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Young John Allen to his parents, <date when="1861-01-06">January
+                    6, 1861</date>, an electronic edition</title>
+                <author>
+                    <name type="person">
+                        <choice>
+                            <sic>A. Y. J. W. Allen</sic>
+                            <reg>Allen, Young John, 1836-1907</reg>
+                        </choice>
+                    </name>
+                </author>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <publisher>Emory University, Lewis H. Beck Center</publisher>
+                <pubPlace>Atlanta, Georgia</pubPlace>
+                <date>2008</date>
+                <availability>
+                    <p>&#x00A9; 2008, Lewis H. Beck Center, Emory University. Emory University
+                        makes a claim of copyright only to original contributions made by the Young
+                        John Allen Project participants. Emory University makes no claim of
+                        copyright to the original text. Permission is granted to download, transmit,
+                        or otherwise reproduce, distribute, or display the contributions to this
+                        work claimed by Emory University for non-profit educational purposes,
+                        provided that this header is included in its entirety. For further inquiries
+                        about this text's availability, please contact:
+                        <address><addrLine>Lewis H. Beck Center</addrLine><addrLine>Emory University</addrLine><addrLine>Robert W. Woodruff Library</addrLine><addrLine>Atlanta, GA  30322-0053</addrLine><addrLine>United States of America</addrLine><addrLine>Email:  beckctr@emory.edu</addrLine><addrLine>Website: <ptr target="http://beck.library.emory.edu"/></addrLine></address></p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>The Young John Allen Papers</title>
+                <respStmt>
+                    <name>Naomi Nelson</name>
+                    <name>Alice Hickcox</name>
+                    <name>Stewart Varner</name>
+                    <resp>Principal Investigators</resp>
+                </respStmt>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>Letter from Young John Allen to his parents, <date when="1861-01-06">January
+                    6, 1861</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book
+                    Library, Emory University.</bibl>
+                <listPerson>
+                    <person xml:id="yja">
+                        <persName>
+                            <forename>Young</forename>
+                            <forename>John</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                        <birth when="1836-01-03">January 3, 1836 <placeName>
+                            <settlement type="county">Burke County</settlement>
+                            <region type="state">Georgia</region>
+                            <country>United States</country>
+                        </placeName>
+                        </birth>
+                        <death when="1907-05-30">May 30, 1907 <placeName>
+                            <settlement type="city">Shanghai</settlement>
+                            <country>China</country>
+                        </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="Pa">
+                        <persName>
+                            <forename>Wiley</forename>
+                            
+                            <surname>Hutchins</surname>
+                        </persName>
+                        <persName>
+                            <forename>Ch'i-ho</forename>
+                            <surname>Yun</surname>
+                        </persName>
+                        <birth when="1865">
+                            <placeName>
+                                <country>Korea</country>
+                            </placeName>
+                        </birth>
+                        <death when="1945-12-06">December 6, 1945 </death>
+                    </person>
+                    <person xml:id="wac">
+                        <persName>
+                            <forename>Warren</forename>
+                            <forename>Akin</forename>
+                            <surname>Candler</surname>
+                        </persName>
+                        <birth when="1857-08-23">
+                            <placeName>
+                                <settlement type="county">Carroll County</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </birth>
+                        <death when="1941-09-25">
+                            <placeName>
+                                <settlement type="city">Atlanta</settlement>
+                                <region type="state">Georgia</region>
+                                <country>United States</country>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="tsoong">
+                        <persName>
+                            <forename>Kia</forename>
+                            <forename>Tsing</forename>
+                            <surname>Tsoong</surname>
+                        </persName>
+                        <persName>
+                            <forename>George</forename>
+                            <surname>Bell</surname>
+                        </persName>
+                    </person>
+                    
+                </listPerson>
+                
+                <listPlace>
+                    
+                    <place>
+                        <placeName>
+                            <settlement type="city">Oxford</settlement>/> <region type="state"
+                                >Georgia</region>/><country>United States</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>This text was created by the Lewis H. Beck Center as a part of the Young John
+                    Allen Letters Project. Project participants intend for this encoded text, as
+                    well as all texts produced by this project, to be made available on the web for
+                    educational, scholarly and pedagogical purposes.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>The archival material has been transcribed and encoded. Paratextual elements may
+                    be provided as digital images only, with some exceptions.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>Processing this electronic text file began by creating TIFF images of each page
+                    using either a flatbed scanner. Text pages were captured in color at 400dpi.
+                    These digital images were converted to an electronic text file by transcription.
+                    The text files produced have been proofread against the original document or a
+                    JPEG image of the original. This proofread text file has then been encoded using
+                    the recommendations for Level 3 of the TEI in Libraries Guidelines. For the
+                    details of Level 3 encoding, please see the webpage for TEI Guidelines for Best
+                    Encoding practices at http://www.indiana.edu/~letrs/tei/. Encoders silently
+                    replaced em dashes with two dashes. Page numbers and other text such as titles
+                    displayed in brackets have been added by the encoder and do not appear in the
+                    original text.</p>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <rs type="collection">Young John Allen Papers</rs>
+                <rs type="language">English</rs>
+                <rs type="geography">United States</rs>
+                <date>1800-1899</date>
+            </creation>
+            <textClass>
+                <keywords scheme="lcsh">
+                    <list>
+                        <item>Allen, Young John, 1836-1907.</item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2009-07-13">July 6, 2009</date>
+                <name xml:id="ypw">Yvette Wright</name> transcribed and encoded the text. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+<pb facs="Allen_11_FF6_001.jpg"/>
+            <div type="letter">
+                <head>[Letter froom Young John Allen to his parents, January 6, 1861]</head>
+                <opener>
+                    <dateline>
+                        <placeName>Shanghai, China,</placeName>
+                        <date when="1861-01-06">Jan 6th 1861</date>
+                    </dateline>
+                    <salute>My dear Pa &amp; Ma,</salute>
+                </opener>
+                <p>I ought to have written you a birth-day letter. I know you will be glad to hear
+                    from me any-time, however, so I will write the sooner now as I did not then. <hi
+                        rend="underline">I wish you all a happy New Year</hi>.</p>
+                <p>We are still in Shanghai; with but little prospect of getting away soon. In
+                    company with Brother Lamberth a few weeks ago I visited the place where we were
+                    expected to live. It was one year ago one of the largest, most populous and
+                    beautiful cities in all China. It is quite as large in extent as N.York City and
+                    containd twice as many inhabitants; but it is now almost entirely destroyed,
+                    burned up, and very nearly all the people have left. There were forty thousand
+                    soldiers there when we were there. On our way back to Shanghai we met a very
+                    large rebel army marching directly to the city, with full intent to complete its
+                    overthrow and<pb/><pb facs="Allen_11_FF6_002.jpg"/> entire destruction. We met
+                    the army in the grand Canal, which is about one hundred feet wide. We were in a
+                    small boat and the army had boats. We did not have much apprehensions of danger
+                    as they profess and show great respect and kindness to foreigners. When they
+                    first perceived our boat, they began to make preparations to capture us. Bro. L
+                    and I were sitting on the bow of the boat watching the whole maneuver. When they
+                    came quite near us, they soon perceived their mistake- that we were not Chinese
+                    but foreigners,- whereupon they cried out to one another "<hi rend="underline"
+                        >foreign devils</hi>", "<hi rend="underline">foreign brethren</hi>" had a
+                    hearty laugh and passed us without interruption. We stopped along side the bank
+                    for two hours hoping they would soon pass, but at the expiration of that time
+                    there seemed to be no abatement in progress or <sic>dimminution</sic> in
+                    numbers; in other words we concluded there was no end to them and went on. We
+                    found them densely crow<add place="supralinear">d</add>ed and rapidly marching
+                    in a line for twenty miles. Had we remained stationary where we first met them
+                    they could not have<pb/> passed us all that day. The rear camps one night where
+                    the front ranks did the night before. In other words the army about measures its
+                    full length during one day's march. We had the pleasure, or rather I should say
+                    the necessity, of calling on board the General's boat. He informed us that he
+                    had upwards of ten thousand boats. We supposed not less than twelve thousand,
+                    the very least; upon them we counted from three to twenty seven more; that is,
+                    making a reasonable calculation, somewhere between sixty &#x0026; seventy
+                    thousand soldiers. Through all this immense, moving mass of boats and men we had
+                    to make headway for twenty miles. Would that I had the time and ability to
+                    portray to you something of <add place="supralinear">the</add> scene. It cannot
+                    well be exaggerated. Glad indeed and thankful too were we when they were all
+                    passed. We barely succeeded passing them that <del rend="strikethrough"
+                        >they</del> day <add place="supralinear">in time to camp</add>
+                    notwithstanding we were both in motion. You may think we travelled slowly; it is
+                    true we did. You must however remember that <hi rend="underline">large
+                        bodies</hi> move slowly and so do small ones against such fearful<pb
+                            facs="Allen_11_FF6_003.jpg"/> odds. All these were bound to the great city
+                    of HangChow which we had just two days before left. You can well imagine now,
+                    that it is doubtful <del rend="strikethrough">now</del> how long before we leave
+                    here if we depend on HangChow for an opening.</p>
+                <p>With the above facts before us and in view of a continuance of the same and
+                    perhaps worse circumstances in the future; it was concluded, at our last mission
+                    meeting, to be best not to bind our hearts and hopes to that one place; but now
+                    look out for an open door and a house somewhere else. Bro L and I therefore have
+                    under contemplation a visit to Su Chow and Nankin, both held by the rebels at
+                    this time, and will perhaps leave here week after next- 15 or 17th of Jan.</p>
+                <p>We are very pleasantly situated here; could not be more so at home, but we are
+                    anxious to secure a place to work and a home amidst the people.</p>
+                <p>There are hundreds of little things I would like to tell you had I time. Things
+                    new, strange and heathen. I have seen much that I used to read of and
+                    much<pb facs="Allen_11_FF6_004.jpg"/> that's not in books- but little
+                    to make one glad and much to make one sad.</p>
+                <p>There never was a more distressing time nor a more distressed country than China
+                    at present. My heart grew sick and tired of the scenes of desolation and ruin
+                    that I saw- but oh! how infinitely worse than what I saw is the reality.
+                    Hundreds and thousands, yea hundreds of thousands of people are destitute of
+                    house and home and many of them of the necessaries of life- besides, a grievous
+                    famine now threatens the whole country and this vicinity in particular. The
+                    rebels have devastated the country, leaving but comparatively few people where
+                    they have been to make crops and supply the markets, and a flood last fall
+                    overwhelmed the rice fields and destroyed <del rend="strikethrough">the</del>
+                    much of the main dependence of the poor Chinese.</p>
+                <p>I hear a drought has cut short the crops at home-- but oh! how happy and well
+                    supplied are our people <del rend="strikethrough">at home</del> when compared
+                    with these.</p>
+                <p>How could we complain if we but know how it was <add place="supralinear"
+                    >with</add> thousands and tens of thousands who suffer unpitied and die
+                    uncared for unnoticed.</p>
+              
+                <pb facs="Allen_11_FF6_005.jpg"/>
+                <p>My dear Pa and Ma, I must now hasten to conclude this letter. I hope you are all
+                    quite well. I would like so much to have a letter from you.</p>
+                <p>We are now very well indeed. Dollie has altogether recovered. My health never was
+                    better. Our Little Mellie is now quite well cheerful and happy. While I write
+                    she is sitting by the fire trying to sew. She has nearly all her teeth. Can talk
+                    some English and quite as much Chinese. This is our mid-winter now and it is
+                    sometimes very cold. The changes are rather sudden and disagreeable here.
+                    Remember us to all our friends especially to Sister Mellie &#x0026; family
+                    &#x0026; Uncle <unclear>Carlis's</unclear> family. Tell Allen, 'Gustus and
+                    William to write me, if only a short letter. How are Johnie &#x0026; Jimmie</p>
+                <p>May God bless you all and finally bring us together again in our Father's house
+                    above. My dear Pa and Ma, let us live for heaven. I never expect to see you
+                    again on earth below, but Oh! I do hope and pray to meet you again in <hi
+                        rend="underline">heaven above</hi>.</p>
+                <closer>
+                    <salute>Dollie and babie send much love with, Yours very Affectionately,</salute>
+                    <signed>Young J. Allen</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
