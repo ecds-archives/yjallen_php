@@ -5,7 +5,7 @@
         
         <fileDesc>
             <titleStmt>
-                <title>Letter from Young John Allen to Mellie Houston <date when="1858-04-12">April 12, 1858,</date> an electronic edition</title>
+                <title>Letter from Young John Allen to Mellie Houston, <date when="1858-04-12">April 12, 1858,</date> an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
@@ -139,7 +139,7 @@
         <body>
             <div type="letter">
                 <pb facs="Allen_11_FF5_001.jpg"/>
-		<head>[Letter from Young John Allen to Mellie Houston]</head>
+		<head>[Letter from Young John Allen to Mellie Houston, April 12, 1858]</head>
 		<lb/>
                 <opener><dateline><name type="place">Oxford Geo,</name><date when="1858-04-12">April 12th 1858</date></dateline>
                     <salute>Dear Mellie,</salute>

@@ -3,7 +3,7 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Letter from Young John Allen to Mollie, his future wife <date when="1858-06-10">June 10, 1858</date>, an electronic edition</title>
+                    <title>Letter from Young John Allen to Mollie Houston, <date when="1858-06-10">June 10, 1858</date>, an electronic edition</title>
                     <author>
                         <name type="person">
                             <choice>
@@ -136,7 +136,8 @@
         <text>
             <body>
                 <div type="letter">
-                    <pb facs="Allen_11_FF5_019.jpg"/>
+<head>[Letter from Young John Allen to Mollie Houston, June 10, 1858]</head>
+                    <pb facs="Allen_11_FF5_019.jpg"/><lb/>
                     <opener><dateline><name type="place">Bachelor Hall, Geo.</name><date when="1858-06-10">June 10th 1858</date></dateline>
                         <salute>My Own Beloved Mollie,</salute>
                     </opener>
