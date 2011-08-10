@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yja-1858-06-12.001">
+<TEI xml:id="yja-1858-06-12.001" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Mollie's sister Mellie and Young John Allen to Mollie, future wife of Young John Allen <date when="1858-06-12">June 12, 1858</date>, an electronic edition</title>
+                <title>Letter from Mellie Houston and Young John Allen to Mollie Houston, <date when="1858-06-12">June 12, 1858</date>, an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
@@ -136,12 +135,13 @@
     <text>
         <body>
             <div type="letter">
-                <pb facs="Allen_11_FF5_013.jpg"/>
+<head>[Letter from Mellie Houston and Young John Allen to Mollie Houston, June 12, 1858]</head>
+                <pb facs="Allen_11_FF5_013.jpg"/><lb/>
                 <opener><dateline><name type="place">Grantville Geo</name><date when="1858-06-12">June 12th 1858</date></dateline>
                     <salute>My Darling Sister; <lb/>
                     My Precious Dear Mollie;</salute>
                 </opener>
-                <p>As soon as Mellie received your Sweet letter this morning she cam (immediately) to see me and brought it.  She has just left with the request that I should write you immediately <hi rend="underline">"for her" </hi> as she did not have time owing to circumstances.</p>
+                <p>As soon as Mellie received your Sweet letter this morning she came (immediately) to see me and brought it.  She has just left with the request that I should write you immediately <hi rend="underline">"for her" </hi> as she did not have time owing to circumstances.</p>
                 <p>So My Dear One, I am writing now in a double capacity, foryou know I could <add place="supralinear">not</add>write <hi rend="underline">"to you" </hi>for another and not some for myself.</p>
                 <p>And in the first place then let us both, for Mellie desires it, return you our many gracious feelings of gratitude and pleasure and <hi rend="underline">"happiness for we are truly happy"</hi>- that you have so kindly <pb facs="Allen_11_FF5_014.jpg"/> (decided and) consented to have our <del rend="strikethrough">engagement</del> <add place="supralinear">marriage</add>consummated before coming home - for this may the <hi rend="underline">"Lord Bless You - My own Mollie Dearest"</hi>. I am not careful  <add place="supralinear">or solicitious</add>as <hi rend="underline">"to the place,"</hi> the most that I desired was that <hi rend="underline">"it"</hi> be done.  Yes My Dearest, <hi rend="underline">"we can agree - we will agree, we never shall disagree."</hi> Shall we <hi rend="underline">"My Mollie"</hi>?</p>
                 <p>My Dearest, <hi rend="underline">"we were not mad"</hi>.  how could we be.  You had not given any offers - Oh! <hi rend="underline">"no. no. no.  we were not, could not be offended"</hi> by our <hi rend="underline">"precious absent one"</hi> - don't let it trouble you then, Dearest, any more. You are <hi rend="underline">"dearer to me every day - every hour."</hi> Yes <hi rend="underline">"every time I think of you"</hi> and that is <hi rend="underline">"very, very often"</hi>, now that I am at home.  I <hi rend="underline">"know"</hi>I spend the <hi rend="underline">"most"</hi>of my <hi rend="underline">"time with you"</hi>by far.  I can't help it; You and subjects intimately connected with you and our future destiny are all that engage <hi rend="underline">"my mind, my Soul"</hi>,my affections and thoughts now, except it be only for a very short time.<del rend="strikethrough">at</del></p>

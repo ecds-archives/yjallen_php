@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="file:/Beck%20Projects/yjallen-svn/xml/yja-tei4.rnc" type="compact"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="yja-1880-06-11.001" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Letter from Mollie's cousin Matt. to Mollie, wife of Young John Allen <date when="1858-06-11">June 12, 1858</date>, an electronic edition</title>
+                <title>Letter from Mollie's cousin Matt. to Mollie Houston, <date when="1858-06-11">June 11, 1858</date>, an electronic edition</title>
                 <author>
                     <name type="person">
                         <choice>
@@ -137,7 +137,8 @@
     <text>
         <body>
             <div type="letter">
-                <pb facs="Allen_11_FF5_010.jpg"/>
+<head>[Letter from Mollie's cousin Matt. to Mollie Houston, June 11, 1858]</head>
+                <pb facs="Allen_11_FF5_010.jpg"/><lb/>
                 <opener><dateline><name type="place">"Sweet Home"</name><date when="1858-06-11">June 11th 1858</date></dateline>
                     <salute>My dear, dear Mollie,</salute>
                 </opener>

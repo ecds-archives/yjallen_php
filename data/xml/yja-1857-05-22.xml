@@ -2,7 +2,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Letter from Young John Allen to Mollie Houston <date when="1857-05-22"></date>, an electronic edition</title>
+            <title>Letter from Young John Allen to Mollie Houston, <date when="1857-05-22">May 22, 1857</date>, an electronic edition</title>
             <author>
             <name type="person">
             <choice>
@@ -138,7 +138,9 @@
 <text>
 <body>
     <pb facs="Allen-11-ff3-017.jpg"/>
+    <lb/>
 <div type="letter">
+<head>[Letter from Young John Allen to Mollie Houston, May 22, 1857]</head>
     <opener><dateline><name type="place">E.C. Oxford Geo.</name><date when="1857-05-22"> May 22d 1857</date></dateline>
         <salute>My <hi rend="underline">own Dear One.</hi></salute></opener>
     <p>It is now just one month since I received your last letter, and although I am exceedingly anxious to hear from you now, yet I am willing to wait your pleasure to write, for I know Dear One, you will not delay to write me as soon as you possibly can.  If I had time I feel like writing you another letter even now but I must hasten-  We have a good meeting in progress here now, and I think the prospect for a gracious revival is very cheering-  Our meetings in the grove are quite interesting.
