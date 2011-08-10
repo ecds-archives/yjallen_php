@@ -1,4 +1,4 @@
-<TEI>
+<TEI xml:id="yja-1857-05-22.001" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -130,7 +130,7 @@
     <revisionDesc>
         <change>
             <date when="2009-07-07">July 7, 2009</date>
-                <name xml:id="">Sue Trowbridge </name>
+                <name>Sue Trowbridge </name>
             transcribed and encoded the text.
         </change>
     </revisionDesc>
