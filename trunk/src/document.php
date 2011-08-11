@@ -36,7 +36,7 @@ $xmldb->transform();
 html_head("Documents", true);
 
 $xmldb->printResult();
-print '<script type="text/javascript">
+/*print '<script type="text/javascript">
 <!--
 function popup(mylink, windowname)
 {
@@ -50,7 +50,7 @@ window.open(href, windowname, "width=225,height=410,scrollbars=yes");
 return false;
 }
 //-->
-</script>';
+</script>';*/
 
 print '</head>';
 

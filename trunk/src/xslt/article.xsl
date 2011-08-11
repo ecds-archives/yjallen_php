@@ -318,6 +318,16 @@
     </xsl:element>
   </xsl:template>
 
+
+<!-- gap : show 'gap' as an editorial comment, pick up @extent, @unit, @reason -->
+<xsl:template match="gap">
+  <xsl:element name="span">
+    <xsl:attribute name="class">editorial</xsl:attribute>
+       [gap <xsl:value-of select="@extent"/> <xsl:value-of select="@unit"/> <xsl:value-of select="@reason"/>]
+  </xsl:element>
+</xsl:template>
+
+
   <xsl:template match="tei:del">
     <xsl:element name="span">
       <xsl:attribute name="class">del</xsl:attribute>
@@ -338,6 +348,7 @@
     </xsl:element>
   </xsl:template>
   
+
 <!-- line group -->
 <xsl:template match="tei:lg">
   <xsl:element name="p">
