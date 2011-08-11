@@ -1,9 +1,0 @@
-
-<project name="yjallen" default="xml" basedir=".">
-
-  <import file="common-targets.xml"/>
-
-<target name="xml" depends="input,clean-data,unicode-entities,whitespace,add-ids,validate" 
- description="* Convert entities to unicode, whitespace, add ids, validate"/>
-
-</project>
