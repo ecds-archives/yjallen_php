@@ -35,7 +35,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from Young John Allen to church leaders from the SE region, <date> when="1906-07-11">July 11, 1906</date> Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to church leaders from the SE region, <date when="1906-07-11">July 11, 1906</date> Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
