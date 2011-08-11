@@ -1,4 +1,5 @@
 <?php
+//yjallen
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
@@ -30,6 +31,7 @@ html_head("Search", true);
 $options = array();
 if ($kw) 
   array_push($options, "[ft:query(., '$kw')]"); //only simple search for now
+
 /*if ($doctitle)
   array_push($options, ".//tei:div/tei:head &= '$doctitle'");
 if ($auth)
@@ -54,8 +56,8 @@ let \$date := \$a//tei:sourceDesc//tei:date
 let \$matchcount := text:match-count(\$a)
 order by \$matchcount descending
 return <item>{\$a/@xml:id}";
-  if ($kw)	// only count matches for keyword searches
-    $query .= "<hits>{\$matchcount}</hits>";
+  // if ($kw)	// only count matches for keyword searches
+  //  $query .= "<hits>{\$matchcount}</hits>"; // cannot count hits in individual docs in eXist Lucene now (08-2011).
   $query .= "
   {\$t}
   <id>{\$a/@xml:id}</id>

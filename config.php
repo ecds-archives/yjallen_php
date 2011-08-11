@@ -1,13 +1,13 @@
 <?php
 
 /* Configuration settings for entire site */
-$in_production = false;
+$in_production = true;
 // pick up login/authorization information
 //session_start();
 
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
-if($in_production) {
+if($in_production == true) {
 error_reporting(E_ERROR); // for production
  } else {
 error_reporting(E_ERROR | E_PARSE);    // for development
@@ -15,16 +15,19 @@ error_reporting(E_ERROR | E_PARSE);    // for development
 
 // root directory and url where the website resides
 // production version
-if($in_production) {
+if($in_production == true) {
 $basedir = "/home/httpd/html/beck/youngjohnallen";
 $base_path = "/youngjohnallen";
 $base_url = "http://beck.library.emory.edu$base_path/";
  } else {
-//root directory and url for wilson website
+//root directory and url for dev11 website
 //development
-$basedir = "/home/ahickco/public_html/yjallen";
-$base_path = "/~ahickco/yjallen/";
-$devserver = "dev11.library.emory.edu";
+//$basedir = "/home/ahickco/public_html/yjallen";
+$basedir = "/Users/alice/Sites/yjallen";
+//$base_path = "/~ahickco/yjallen/";
+$base_path = "/~alice/yjallen/";
+//$devserver = "dev11.library.emory.edu";
+$devserver = "beckcady.library.emory.edu";
 $base_url = "http://$devserver$base_path";
  }
 
@@ -40,9 +43,9 @@ $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
 
 /* exist settings  */
-if ($in_production) {
-  $server = "bohr.library.emory.edu";           //production
-  $port = "7080";
+if ($in_production == true) {
+  $server = "rossiu.library.emory.edu";           //production
+  $port = "8080";
 } else {
   $server = "kamina.library.emory.edu";         // test
   $port = "8080";

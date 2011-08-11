@@ -8,7 +8,7 @@ $id = $_REQUEST["id"];
 
 $terms = $_REQUEST["keyword"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 $xsl_file = "xslt/article.xsl";
@@ -36,7 +36,7 @@ $xmldb->transform();
 html_head("Documents", true);
 
 $xmldb->printResult();
-print '<script type="text/javascript">
+/*print '<script type="text/javascript">
 <!--
 function popup(mylink, windowname)
 {
@@ -50,11 +50,12 @@ window.open(href, windowname, "width=225,height=410,scrollbars=yes");
 return false;
 }
 //-->
-</script>';
+</script>';*/
 
 print '</head>';
 
-print "<body  onLoad='popup(\"flashtat.php?id=$id\", \"Text Analysis\")'>";
+//print "<body  onLoad='popup(\"flashtat.php?id=$id\", \"Text Analysis\")'>";
+print "<body>";
 
 include("web/xml/browse-head.xml");
 
