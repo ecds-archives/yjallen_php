@@ -8,7 +8,7 @@ $id = $_REQUEST["id"];
 
 $terms = $_REQUEST["keyword"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 $xsl_file = "xslt/article.xsl";
@@ -54,7 +54,8 @@ return false;
 
 print '</head>';
 
-print "<body  onLoad='popup(\"flashtat.php?id=$id\", \"Text Analysis\")'>";
+//print "<body  onLoad='popup(\"flashtat.php?id=$id\", \"Text Analysis\")'>";
+print "<body>";
 
 include("web/xml/browse-head.xml");
 
