@@ -38,14 +38,15 @@
 
     <xsl:call-template name="total-jumplist"/>
     
-    <xsl:if test="//item/hits">
-      <p class="info">Click on the number of hits to see your search terms in context.</p>
-    </xsl:if>
+<!-- Cannot count hits in eXistLucene search right now -->   
+ <!-- <xsl:if test="//item/hits"> -->
+    <!--   <p class="info">Click on the number of hits to see your search terms in context.</p> -->
+    <!-- </xsl:if> --> 
 
       <table class="browse">
         <thead style="font-size:small;">
         <tr>
-          <xsl:if test="//item/hits"><th class="hits">hits</th></xsl:if>
+          <!-- <xsl:if test="//item/hits"><th class="hits">hits</th></xsl:if> -->
           <th class="num">#</th>
           <xsl:if test="//item/tei:title"><th>title</th></xsl:if>
           <xsl:if test="//item/tei:name"><th>author</th></xsl:if>
