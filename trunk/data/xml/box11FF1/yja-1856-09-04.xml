@@ -34,7 +34,7 @@
             </respStmt>
         </seriesStmt>
         <sourceDesc>
-            <bibl>Letter from Young John Allen to Mollie Houston, <date when="1856-09-04">November 8, 1890</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
+            <bibl>Letter from Young John Allen to Mollie Houston, <date when="1856-09-04">September 4, 1856</date>; Young John Allen Papers, Manuscript, Archives, and Rare Book Library, Emory University.</bibl>
             <listPerson>
                 <person xml:id="yja">
                     <persName>
@@ -153,7 +153,7 @@
            <opener>
                <dateline>
                    <name type="place">Emory College, Oxford Geo.</name>
-                   <date when="1856-09-04">Sept 4 1836</date>
+                   <date when="1856-09-04">Sept 4 1856</date>
                </dateline>
 
             <salute>My Dear One,</salute> 
