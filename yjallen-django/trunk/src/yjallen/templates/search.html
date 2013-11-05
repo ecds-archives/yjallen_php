@@ -1,6 +1,5 @@
 {% extends "base.html" %}
 
-
 {% block title %}Search{% endblock %}
 {% block content %}
 
@@ -16,17 +15,10 @@
 </form>
 
 <td>  
-    <ul class="searchtips"><h4>Keyword searches within a letter.</h4>
+    <ul class="searchtips"><h4>Keyword searches within the letters.</h4>
       <li>Multiple terms default to an "OR" search: <i>open sky</i> searches for <i>open</i> or <i>sky</i> within a letter</li>
       <li>For an exact search, use quotes: "open sky"</li>
       <li>To find all terms within a letter, use AND: open AND sky</li>
-    </ul>
-    <ul class="searchtips"><h4>Author and title searches within a letter.</h4>
-      <li>Author searches the letter senders. To view
-    all the letters in chronological order, use the <a href="{% url letters %}">contents view</a>.</li>
-      <li>Title searches find words in the letter titles. Searches work
-    in the same way as keyword searches, but only search the
-    titles.</li>
     </ul>
     <ul class="searchtips"><h4>Wildcards</h4>
       <li>You may search for multiple word forms by using ? (single
@@ -40,53 +32,14 @@
 
 {% if searchbox.is_valid %}
 
-  Displaying {{ all_letters_paginated.start_index }} - {{ all_letters_paginated.end_index }} of {{ all_letters_paginated.paginator.count }}
- 
-  <ul>
-      {% for letter in all_letters_paginated.object_list %}
-      <li><a href="{% url letter_display:letter letter.id %}{% if keyword %}?keyword={{ keyword }}{% endif %}">
-            {{ letter.title }}</a> 
- 
-         
-      </li>
-      {% empty %}
-      <li>No records returned</li>
-      {% endfor %}
-  </ul>
- 
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td colspan="3">&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="160">
-    &nbsp;
-    {% if all_letters_paginated.has_previous %}
-        <a href="?page={{ all_letters_paginated.previous_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}">[ &nbsp;&lt;&lt; Previous&nbsp; ]</a>
-    {% endif %}
-    </td>
-   
-     <td align="center">
-      [&nbsp;
-      {% for current_page in all_letters_paginated.paginator.page_range %}
-        {% if all_letters_paginated.number == current_page %}
-          &nbsp;{{ current_page }}&nbsp;
-        {% else %}
-          <a href="?page={{ current_page }}&keyword={{keyword}}&title={{title}}&author={{author}}">&nbsp;{{ current_page }}&nbsp;</a>
-        {% endif %}
-      {% endfor %}
-      &nbsp;]
-     </td>
- 
-      <td width="110" align="right">
-      {% if all_letters_paginated.has_next %}
-          <a href="?page={{ all_letters_paginated.next_page_number }}&keyword={{keyword}}&title={{title}}&author={{author}}">[ &nbsp;Next &gt;&gt;&nbsp; ]</a>
-      {% endif %}
-      &nbsp;
-      </td>
-  </tr>
-  </table>
+Displaying {{ letters_paginated.start_index }} - {{ letters_paginated.end_index }} of {{ letters_paginated.paginator.count }}
 
+<ul>
+  {% for letter in letters_paginated.object_list %}
+    <li><a href="{% url letter_display letter.letter_doc.id %}{% if keyword %}?keyword={{ keyword }}{% endif %}">{{letter}}</a></li>
+  {% endfor %}
+</ul>
+  
 {% endif %}
-<pre>{{all_letters.serializeDocument}}</pre>
+
 {% endblock %}

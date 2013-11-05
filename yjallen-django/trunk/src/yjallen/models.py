@@ -1,56 +1,19 @@
 from django.utils.safestring import mark_safe
-
+from django.db import models
 from eulexistdb.manager import Manager
 from eulexistdb.models import XmlModel
+from eulxml import xmlmap
 from eulxml.xmlmap.core import XmlObject
-from eulxml.xmlmap.dc import DublinCore
-from eulxml.xmlmap.fields import StringField, NodeField, StringListField, NodeListField
+#from eulxml.xmlmap.dc import DublinCore
+from eulxml.xmlmap.fields import StringField, NodeField, StringListField, NodeListField, IntegerField
 from eulxml.xmlmap.teimap import Tei, TeiDiv, TEI_NAMESPACE
-
-class Bibliography(XmlObject):
-    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
-    # TODO: handle repeating elements
-    title = StringField('tei:title')
-    author = StringField('tei:author')
-    editor = StringField('tei:editor')
-    publisher = StringField('tei:publisher')
-    pubplace = StringField('tei:pubPlace')
-    date = StringField('tei:date')
-
-    def formatted_citation(self):
-        """Generate an HTML formatted citation."""
-        cit = {
-            "author": '',
-            "editor": '',
-            "title": self.title,
-            "pubplace": self.pubplace,
-            "publisher":  self.publisher,
-            "date": self.date
-        }
-        if self.author:
-            cit['author'] = '%s. ' % self.author
-        if self.editor:
-            cit['editor'] = '%s, ed. ' % self.editor
-
-        return mark_safe('%(author)s%(editor)s<i>%(title)s</i>. %(pubplace)s: %(publisher)s, %(date)s.' \
-                % cit)
-
-
-class SourceDescription(XmlObject):
-    'XmlObject for TEI Source Description (sourceDesc element).'
-    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
-    bibl = NodeField('tei:bibl', Bibliography)
-    ':class:`Bibliography` - `@bibl`'
-
-    def citation(self):
-        'Shortcut for :meth:`Bibligraphy.formatted_citation` to render source bibl'
-        return self.bibl.formatted_citation()
 
 class LetterTitle(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
     text = StringField('tei:text')
     date =  StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date/@when')
+    title = StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title')
     author =  StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author/tei:name/tei:choice/tei:reg')
 
     site_url = 'http://beck.library.emory.edu/yjallen'
@@ -61,6 +24,7 @@ class LetterTitle(XmlModel, Tei):
     identifier_ark = StringField('tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno[@type="ark"]')
     source = StringField('tei:teiHeader/tei:fileDesc/tei:sourceDesc')
 
+'''
     @property
     def dublin_core(self):
         dc = DublinCore()
@@ -73,6 +37,7 @@ class LetterTitle(XmlModel, Tei):
         dc.source = self.header.source_description
         dc.subject_list.extend(self.lcsh_subjects)
         dc.description = self.project_desc
+
         dc.identifier = self.identifier_ark
 
 
@@ -87,25 +52,12 @@ class LetterTitle(XmlModel, Tei):
         # hard-coded when setting dc:relation in postcard ingest
 
         return dc
+'''
 
 class Letter(XmlModel, TeiDiv):
-    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
-    letter_author =  NodeField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author', "self")
-    letter = NodeField("tei:div[@type='letter']", "self")
+    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE} 
+    objects = Manager("//tei:text")
+    letter_doc = NodeField('ancestor::tei:TEI', LetterTitle)
+            
     
-    # reference to book for access to document-level information
-    letter = NodeField('ancestor::tei:TEI', LetterTitle)
-
-    objects = Manager("//tei:TEI")
-    # NOTE: this object could be restricted to poems only using [@type='poem']
-    # However, it is currently used to retrieve non-poem items, e.g. essays
-    # such as "Swan Song" in Eaton.  This should probably be re-thought; at the
-    # very least, we may want to rename the model so it is more accurate.
-
-class LetterSearch(Letter):
-   objects = Manager("//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author/tei:name/tei:choice/tei:reg")
-    
-
-
-
-
+  

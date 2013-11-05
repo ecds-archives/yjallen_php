@@ -1,14 +1,15 @@
 {% extends "base.html" %}
-
+{% load existdb %}
 
 {% block title %}Letter{% endblock %}
 {% block content %}
+
 {% if letter %}
   {% if format %}
     {{ format|safe }}
   {% else %}
     <p>No format</p>
-  {% endif %}
+  {% endif %}  
 {% else %}
     <p>Nothing found</p>
 {% endif %}

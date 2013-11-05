@@ -325,7 +325,7 @@ select="//next/docDate"/></xsl:element>
 
 <!-- mark exist matches for highlighting -->
   <xsl:template match="exist:match">
-    <span class="match"><xsl:apply-templates/></span>
+    <span class="exist-match"><xsl:apply-templates/></span>
   </xsl:template>
 
 <!-- simple table test by Alice Hickcox, March 8, 2006 -->
