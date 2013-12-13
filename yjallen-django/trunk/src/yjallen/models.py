@@ -11,8 +11,9 @@ from eulxml.xmlmap.teimap import Tei, TeiDiv, TEI_NAMESPACE
 class LetterTitle(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
+    id = StringField('@xml:id')
     text = StringField('tei:text')
-    date =  StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date/@when')
+    date =  StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/tei:date')
     title = StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title')
     author =  StringField('tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author/tei:name/tei:choice/tei:reg')
 

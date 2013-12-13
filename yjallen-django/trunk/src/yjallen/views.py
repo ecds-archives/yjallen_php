@@ -16,10 +16,12 @@ from eulcommon.djangoextras.http.decorators import content_negotiation
 from eulexistdb.query import escape_string
 from eulexistdb.exceptions import DoesNotExist # ReturnedMultiple needed also ?
  
-def letters(request):
+def index(request):
   letters = LetterTitle.objects.only('id', 'title', 'date').order_by('date')
-  return render_to_response('letters.html', {'letters' : letters})
-  context_instance=RequestContext(request)
+  return render_to_response('index.html', {'letters' : letters},context_instance=RequestContext(request))
+
+def overview(request):
+  return render_to_response('overview.html', {'overview' : overview}, context_instance=RequestContext(request))
 
 def letter_display(request, doc_id):
     "Display the contents of a single letter."
@@ -30,6 +32,7 @@ def letter_display(request, doc_id):
     else:
         url_params = ''
         filter = {}
+        search_terms = None
     try:
         letter = LetterTitle.objects.get(id__exact=doc_id)
         format = letter.xsl_transform(filename=os.path.join(settings.BASE_DIR, 'xslt', 'form.xsl'))
@@ -43,13 +46,13 @@ def searchbox(request):
     response_code = None
     context = {'searchbox': form}
     search_opts = {}
-    number_of_results = 10
+    number_of_results = 20
       
     if form.is_valid():
         if 'keyword' in form.cleaned_data and form.cleaned_data['keyword']:
             search_opts['fulltext_terms'] = '%s' % form.cleaned_data['keyword']
                 
-        letters = Letter.objects.only("letter_doc__title", "letter_doc__id", "title", "id").filter(**search_opts)
+        letters = LetterTitle.objects.only("id", "title", "author", "date").filter(**search_opts)
 
         searchbox_paginator = Paginator(letters, number_of_results)
         
@@ -67,13 +70,11 @@ def searchbox(request):
         context['letters_paginated'] = searchbox_page
         context['keyword'] = form.cleaned_data['keyword']
            
-        response = render_to_response('search.html', context, context_instance=RequestContext(request))
+        response = render_to_response('search_results.html', context, context_instance=RequestContext(request))
     #no search conducted yet, default form
         
     else:
-        response = render(request, 'search.html', {
-                    "searchbox": form
-            })
+        response = render(request, 'search.html', {"searchbox": form}, context_instance=RequestContext(request))
        
     if response_code is not None:
         response.status_code = response_code

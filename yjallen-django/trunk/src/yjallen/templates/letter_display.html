@@ -3,17 +3,11 @@
 
 {% block title %}Letter{% endblock %}
 {% block content %}
+<div class="content"
+  <h2>Young John Allen Documents</h2>
+<p>Go to <a href="{% url "index" %}">Document List</a></p>
 
-{% if letter %}
-  {% if format %}
-    {{ format|safe }}
-  {% else %}
-    <p>No format</p>
-  {% endif %}  
-{% else %}
-    <p>Nothing found</p>
-{% endif %}
+{{ format|safe }}
 
-<!--<pre>{{letter.body.serializeDocument}}</pre>-->
-
+</div>
 {% endblock %}

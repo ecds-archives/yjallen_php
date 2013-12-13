@@ -3,18 +3,19 @@ from django.conf.urls.defaults import *
 from django.conf import settings
 from django.conf.urls.static import static
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
-from django.views.generic.simple import redirect_to
+#from django.views.generic.simple import redirect_to
 
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
 admin.autodiscover()
 
-from yjallen.views import letters, letter_display, searchbox
+from yjallen.views import index, overview, letter_display, searchbox
 
 urlpatterns = patterns('yjallen.views',
-    url(r'^$', 'letters', name='letters'),
+    url(r'^$', 'index', name='index'),
+    url(r'^overview$', 'overview', name='overview'),
     url(r'^(?P<doc_id>[^/]+)$', 'letter_display', name="letter_display"),
-    url(r'^search/$', 'searchbox', name='finder')
+    url(r'^search/$', 'searchbox', name='searchbox')
    )
 
 if settings.DEBUG:
