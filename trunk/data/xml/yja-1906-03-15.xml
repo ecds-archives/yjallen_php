@@ -185,7 +185,7 @@
         <pb facs="4417.jpg"/>
         <head>[Letter from Young John Allen to his wife]</head>
 <opener>
-    <dateline><placename>Atlanta, Ga. </placename><lb/>
+    <dateline><placeName>Atlanta, Ga. </placeName><lb/>
 <date when="1906-03-15">March 15</date>
 </dateline><lb/>
 <salute>My darling wife</salute></opener>
@@ -199,8 +199,8 @@ call for it. Mary is very anxious for me to come on to Savannah, but
 the authorities have taken charge of me and sent me off to Washington
 - but I will try to reach her pretty soon. <unclear> ------- </unclear> to me.</p><lb/>
 
-<salute>Your loving husband </salute>
-<signed><persname>Young J. Allen</persname></signed>
+<closer><salute>Your loving husband </salute></closer>
+<signed><persName>Young J. Allen</persName></signed>
     </div>
 </body>
 <back>

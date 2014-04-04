@@ -177,6 +177,7 @@
 <change when="2008-04-04" who="#RSV">
         <name xml:id="RSV">Stewart Varner</name> Added Library of
 Congress Subject headings and cleaned up the text.
+
       </change>
     </revisionDesc>
 </teiHeader>
@@ -184,11 +185,11 @@ Congress Subject headings and cleaned up the text.
 <text><body><div type="letter" xml:id="yja1868-11-17">
     <pb facs="4233.jpg"/>
     <head>[Letter from C.K. Marshall to Young John Allen, November 17, 1868]</head>
-    <opener><dateline><placeName>Suchow</placeName><lb/>
+    <opener><dateline><placeName>Suchow</placeName></dateline><lb/>
    <salute>Dear Dr Allen,</salute> <lb/>         
- <date when="1868-11-17"><add place="supralinear">Nov</add>17.1.68.</date></dateline></opener>
+ <dateline><date when="1868-11-17"><add place="supralinear">Nov</add>17.1.68.</date></dateline></opener>
 
     <p>I announce you the sad tiding our <unclear reason="illegible">Theon</unclear>Sung Song who has lately moved up to Suchow, <hi rend="underline">died </hi> to day about half past 10 Oclock. he had Typhoid fever for only 10 days. &#x0026; just as I was getting near his house, he breathed his last. his wife came for me &#x0026; went with <add>her</add> as quickly as I could &#x0026; sorry to inform you, his <add>wife</add>  &#x0026; his mother has been to Temple to entreat idols for his behalf, &#x0026; they were burning <choice><sic>inscense</sic> <corr>incense</corr></choice> &#x0026; candles &#x0026; I told them it was no use. But they continued to do so. &#x0026; I think they will bury him <choice><sic>accordding</sic><corr>according</corr></choice> to heathen customs, &#x0026; I advise them not to do it. &#x0026; I hope they will act <choice><sic>accordding</sic><corr>according</corr></choice> to my words. Pray for his poor wife and children.</p> 
   <closer>I am yours truly
-<personName ref="#thyun">C.K. Marshall</personName>.</closer></div></body></text>
+<persName ref="#thyun">C.K. Marshall</persName>.</closer></div></body></text>
 </TEI>
