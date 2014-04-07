@@ -168,10 +168,10 @@
         <pb facs="Allen-11-ff3-024.jpg"/>
         Did you get the <hi rend="underline">letter</hi> and things I ent you from Atlanta?
     </p>
-        <p>Please now Mollie don't delay to answer the request of your faithful and devoted,
-            <signed><persname>Young</persname></signed>            
-        </p>
-        <postscript>and write very soon write me a very long letter even if you have to roll it as I did it will be the <hi rend="underline">very thing</hi> I <hi rend="underline">need</hi>- <signed><persname>Young</persname></signed>
+        <closer>Please now Mollie don't delay to answer the request of your faithful and devoted,
+            <signed><persName>Young</persName></signed>            
+        </closer>
+        <postscript><p>and write very soon write me a very long letter even if you have to roll it as I did it will be the <hi rend="underline">very thing</hi> I <hi rend="underline">need</hi>- <persName>Young</persName></p>
             <p>I received that book you forwarded all safe-  Thank you, thank you Dearest for your promptness to forward it-- Adieu, adieu <hi rend="underline">My Sweet One</hi></p></postscript>
 </div>
 </body>
